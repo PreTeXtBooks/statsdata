@@ -1,0 +1,16 @@
+Package: statsbooks
+Title: Datasets for the IDEMS Statistics Textbook Series
+Version: 0.1.0
+Authors@R: 
+    person("Lily", "Clements", 
+           email = "lily@idems.international", 
+           role = c("aut", "cre"))
+Description: Datasets used in the IDEMS open statistics textbooks,
+    including flamingo measurements from Kenya's Rift Valley,
+    Kenya road accident data, and other datasets used in examples
+    and exercises.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+RoxygenNote: 7.3.2

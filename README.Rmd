@@ -1,0 +1,83 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# statsbooks
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/PreTeXtBooks/statsbooks/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PreTeXtBooks/statsbooks/actions/workflows/R-CMD-check.yaml)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+<!-- badges: end -->
+
+`statsbooks` provides the datasets used in the PreTeXtBooks open statistics 
+textbook series. It is intended for students working through the books, 
+and for instructors who want to reproduce or adapt the examples and 
+exercises.
+
+## Installation
+
+Install the package from GitHub with:
+
+```{r, eval = FALSE}
+# install.packages("pak")
+pak::pak("IDEMSInternational/statsbooks")
+```
+
+## Datasets
+
+| Dataset | Description | Source |
+|---|---|---|
+| `kenya_flamingos` | Simulated morphological measurements for Greater and Lesser Flamingos at three Rift Valley lakes | Simulated for teaching purposes |
+| `kenya_accidents_2016` | Fatal road accident records from Kenya, April–June 2016 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
+| `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) 
+
+Raw CSV files for use with other software are available in the 
+[`data-raw/`](https://github.com/PreTeXtBooks/statsbooks/tree/main/data-raw) 
+folder.
+
+## Usage
+
+```{r example}
+library(statsbooks)
+
+head(kenya_flamingos)
+```
+
+```{r species-summary}
+library(dplyr)
+
+kenya_flamingos %>%
+  group_by(species) %>%
+  summarise(
+    n             = n(),
+    mean_mass_g   = round(mean(body_mass_g, na.rm = TRUE)),
+    mean_bill_mm  = round(mean(bill_length_mm, na.rm = TRUE), 1)
+  )
+```
+
+## Notes on simulated data
+
+The `kenya_flamingos` dataset was simulated for teaching purposes. 
+The measurements are realistic for the two species at these lakes.
+It has been simulated to be like the `iris` or `penguins` data set,
+but more contextually relevant for Kenya.
+It should not be used as a source ofempirical claims about flamingo
+populations in Kenya.
+
+## Licence
+
+Individual datasets carry their own licences as documented in the help pages 
+(`?kenya_flamingos`, `?kenya_accidents_2016`). The Kenya road 
+accidents data is released under the Humanitarian Data Exchange 
+[HDX Open Data Licence](https://data.humdata.org/faqs/licenses).
