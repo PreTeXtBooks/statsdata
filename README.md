@@ -32,7 +32,7 @@ pak::pak("IDEMSInternational/statsdata")
 | `kenya_accidents_2016` | Fatal road accident records from Kenya, April–June 2016 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
 | `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
 
-Raw CSV files for use with other software are available in the
+Raw xlsx files for use with other software are available in the
 [`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw)
 folder.
 
