@@ -13,14 +13,14 @@ knitr::opts_chunk$set(
 )
 ```
 
-# statsbooks
+# statsdata
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/PreTeXtBooks/statsbooks/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PreTeXtBooks/statsbooks/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/PreTeXtBooks/statsdata/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/PreTeXtBooks/statsdata/actions/workflows/R-CMD-check.yaml)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 <!-- badges: end -->
 
-`statsbooks` provides the datasets used in the PreTeXtBooks open statistics 
+`statsdata` provides the datasets used in the PreTeXtBooks open statistics 
 textbook series. It is intended for students working through the books, 
 and for instructors who want to reproduce or adapt the examples and 
 exercises.
@@ -31,7 +31,7 @@ Install the package from GitHub with:
 
 ```{r, eval = FALSE}
 # install.packages("pak")
-pak::pak("IDEMSInternational/statsbooks")
+pak::pak("IDEMSInternational/statsdata")
 ```
 
 ## Datasets
@@ -43,13 +43,13 @@ pak::pak("IDEMSInternational/statsbooks")
 | `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) 
 
 Raw CSV files for use with other software are available in the 
-[`data-raw/`](https://github.com/PreTeXtBooks/statsbooks/tree/main/data-raw) 
+[`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw) 
 folder.
 
 ## Usage
 
 ```{r example}
-library(statsbooks)
+library(statsdata)
 
 head(kenya_flamingos)
 ```

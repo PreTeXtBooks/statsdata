@@ -1,5 +1,5 @@
-Package: statsbooks
-Title: Datasets for the IDEMS Statistics Textbook Series
+Package: statsdata
+Title: Datasets for the PreTeXtBooks Statistics Textbook Series
 Version: 0.1.0
 Authors@R: 
     person("Lily", "Clements", 
