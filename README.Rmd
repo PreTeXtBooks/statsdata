@@ -31,7 +31,7 @@ Install the package from GitHub with:
 
 ```{r, eval = FALSE}
 # install.packages("pak")
-pak::pak("IDEMSInternational/statsdata")
+pak::pak("PreTeXtBooks/statsdata")
 ```
 
 ## Datasets
