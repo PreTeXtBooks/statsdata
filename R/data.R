@@ -72,3 +72,56 @@
 #' @source Humanitarian Data Exchange.
 #'   \url{https://data.humdata.org/dataset/kenya-road-accidents-database}
 "kenya_accidents_2017"
+
+
+#' On-farm trials of Oga on pearl millet in Niger, 2014-2016
+#'
+#' On-farm trials of Oga, a fertiliser invented by women farmers in Niger's
+#' FUMA Gaskiya federation from human urine. In each trial, a woman farmer grew
+#' pearl millet on two plots of her own field: one given Oga (with organic
+#' manure in 2014 and 2015, on its own in 2016) and one under her usual
+#' practice. The weight of the millet heads (panicles) harvested from each plot
+#' was recorded. The published data has one sheet per year in different
+#' layouts; this dataset puts them together, one row per trial. See
+#' \code{data-raw/niger_oga.R} for exactly what was changed.
+#'
+#' @format A data frame with 810 rows and 11 columns, one row per trial:
+#' \describe{
+#'   \item{trial_id}{Trial identifier, assigned for this dataset}
+#'   \item{year}{Year of the trial: 2014, 2015 or 2016}
+#'   \item{region}{Maradi or Tillabery}
+#'   \item{site}{Serkin Haussa, Safo (both Maradi) or Say (Tillabery)}
+#'   \item{village}{Village of the trial}
+#'   \item{social_class}{The woman's social class, as farmers define it:
+#'     Young, Elderly with help, or Elderly without help. Elderly means aged
+#'     40 or more; help means access to labour or money to hire it}
+#'   \item{soil_type}{Local name of the field's soil type: Jigawa, Gueza,
+#'     GuezamiGuezami, Jambali, Damba, or Undifferentiated}
+#'   \item{weeding}{Weeding: Complete or Partial (not recorded in 2016)}
+#'   \item{treatment}{Oga + manure (2014, 2015) or Oga (2016)}
+#'   \item{control_yield_kg_ha}{Panicle yield of the control plot, kg per hectare}
+#'   \item{oga_yield_kg_ha}{Panicle yield of the Oga plot, kg per hectare}
+#' }
+#' @source Moussa, O.H., Nwankwo, C.I., Aminou, A.M., Stern, A.D. and
+#'   Haussmann, B.I.G. (2020). Zenodo, CC BY 4.0.
+#'   \doi{10.5281/zenodo.4071826}. Described in Moussa, H.O. et al. (2021),
+#'   Agronomy for Sustainable Development, 41, 56.
+#'   \doi{10.1007/s13593-021-00675-2}.
+"niger_oga"
+
+
+#' Rainfall during the Oga trials in Niger, as published
+#'
+#' The rainfall sheet published with the Oga on-farm trial data
+#' (\code{\link{niger_oga}}), exactly as it is, every cell stored as text.
+#' It is deliberately left untidy, for practising reshaping: three blocks of
+#' month and rainfall (mm) side by side, of different lengths, each headed in
+#' the first row by a year and "Rainfall (mm)". The third block is headed 2015,
+#' like the second, though it probably holds 2016.
+#'
+#' @format A data frame with 51 rows and 6 columns, \code{col1} to
+#'   \code{col6}, all text.
+#' @source Moussa, O.H., Nwankwo, C.I., Aminou, A.M., Stern, A.D. and
+#'   Haussmann, B.I.G. (2020). Zenodo, CC BY 4.0.
+#'   \doi{10.5281/zenodo.4071826}.
+"niger_oga_rainfall"

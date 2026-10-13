@@ -1,0 +1,811 @@
+"trial_id","year","region","site","village","social_class","soil_type","weeding","treatment","control_yield_kg_ha","oga_yield_kg_ha"
+"T001",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Complete","Oga + manure",1000,1300
+"T002",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Partial","Oga + manure",622,1250
+"T003",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Complete","Oga + manure",850,500
+"T004",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Partial","Oga + manure",200,982
+"T005",2014,"Tillabery","Say","Bokki","Elderly without help","Jambali","Complete","Oga + manure",1050,620
+"T006",2014,"Tillabery","Say","Bokki","Elderly without help","Jambali","Partial","Oga + manure",180,1190
+"T007",2014,"Tillabery","Say","Bokki","Young","Jigawa","Complete","Oga + manure",700,400
+"T008",2014,"Tillabery","Say","Bokki","Young","Jigawa","Partial","Oga + manure",210,1000
+"T009",2014,"Tillabery","Say","Bokki","Young","Jambali","Complete","Oga + manure",1050,490
+"T010",2014,"Tillabery","Say","Bokki","Young","Jambali","Partial","Oga + manure",120,1180
+"T011",2014,"Tillabery","Say","Bokki","Young","Jigawa","Complete","Oga + manure",900,450
+"T012",2014,"Tillabery","Say","Bokki","Young","Jigawa","Partial","Oga + manure",190,1050
+"T013",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Complete","Oga + manure",1050,460
+"T014",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Partial","Oga + manure",280,1190
+"T015",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Complete","Oga + manure",1150,400
+"T016",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Partial","Oga + manure",570,1700
+"T017",2014,"Tillabery","Say","Bokki","Young","Jigawa","Complete","Oga + manure",1250,520
+"T018",2014,"Tillabery","Say","Bokki","Young","Jigawa","Partial","Oga + manure",730,1580
+"T019",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Complete","Oga + manure",NA,1000
+"T020",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Partial","Oga + manure",1150,1058
+"T021",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Complete","Oga + manure",1000,1250
+"T022",2014,"Tillabery","Say","Bokki","Elderly with help","Jambali","Partial","Oga + manure",300,1100
+"T023",2014,"Tillabery","Say","Bokki","Young","Jambali","Complete","Oga + manure",900,1250
+"T024",2014,"Tillabery","Say","Bokki","Young","Jambali","Partial","Oga + manure",300,1180
+"T025",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Complete","Oga + manure",500,300
+"T026",2014,"Tillabery","Say","Bokki","Elderly with help","Jigawa","Partial","Oga + manure",180,600
+"T027",2014,"Tillabery","Say","Bokki","Young","Jigawa","Complete","Oga + manure",700,1500
+"T028",2014,"Tillabery","Say","Bokki","Young","Jigawa","Partial","Oga + manure",300,1200
+"T029",2014,"Tillabery","Say","Tchela","Elderly with help","Jambali","Complete","Oga + manure",1350,1600
+"T030",2014,"Tillabery","Say","Tchela","Elderly with help","Jambali","Partial","Oga + manure",1150,1950
+"T031",2014,"Tillabery","Say","Tchela","Elderly without help","Jigawa","Complete","Oga + manure",750,800
+"T032",2014,"Tillabery","Say","Tchela","Elderly without help","Jigawa","Partial","Oga + manure",700,950
+"T033",2014,"Tillabery","Say","Tchela","Young","Undifferentiated","Complete","Oga + manure",450,1100
+"T034",2014,"Tillabery","Say","Tchela","Young","Undifferentiated","Partial","Oga + manure",400,1050
+"T035",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Complete","Oga + manure",500,450
+"T036",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Partial","Oga + manure",400,900
+"T037",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Complete","Oga + manure",500,950
+"T038",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Partial","Oga + manure",450,1350
+"T039",2014,"Tillabery","Say","Tchela","Young","Jigawa","Complete","Oga + manure",650,1050
+"T040",2014,"Tillabery","Say","Tchela","Young","Jigawa","Partial","Oga + manure",850,1450
+"T041",2014,"Tillabery","Say","Tchela","Young","Jambali","Complete","Oga + manure",1050,1250
+"T042",2014,"Tillabery","Say","Tchela","Young","Jambali","Partial","Oga + manure",1000,1750
+"T043",2014,"Tillabery","Say","Tchela","Elderly without help","Jambali","Complete","Oga + manure",500,1050
+"T044",2014,"Tillabery","Say","Tchela","Elderly without help","Jambali","Partial","Oga + manure",750,1500
+"T045",2014,"Tillabery","Say","Tchela","Young","Jigawa","Complete","Oga + manure",300,1100
+"T046",2014,"Tillabery","Say","Tchela","Young","Jigawa","Partial","Oga + manure",350,1350
+"T047",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Complete","Oga + manure",400,450
+"T048",2014,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated","Partial","Oga + manure",380,550
+"T049",2014,"Tillabery","Say","Tchela","Young","Undifferentiated","Complete","Oga + manure",1850,1900
+"T050",2014,"Tillabery","Say","Tchela","Young","Undifferentiated","Partial","Oga + manure",1450,2000
+"T051",2014,"Tillabery","Say","Tchela","Elderly without help","Jigawa","Complete","Oga + manure",2000,1400
+"T052",2014,"Tillabery","Say","Tchela","Elderly without help","Jigawa","Partial","Oga + manure",1750,1550
+"T053",2014,"Tillabery","Say","Tchela","Young","Jigawa","Complete","Oga + manure",1400,2000
+"T054",2014,"Tillabery","Say","Tchela","Young","Jigawa","Partial","Oga + manure",1550,1750
+"T055",2014,"Tillabery","Say","Tchela","Young","Jigawa","Complete","Oga + manure",2000,2050
+"T056",2014,"Tillabery","Say","Tchela","Young","Jigawa","Partial","Oga + manure",1600,2200
+"T057",2014,"Tillabery","Say","Tchela","Young","Jigawa","Complete","Oga + manure",650,1150
+"T058",2014,"Tillabery","Say","Tchela","Young","Jigawa","Partial","Oga + manure",850,1650
+"T059",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",880,780
+"T060",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",900,1000
+"T061",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",700,960
+"T062",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",725,780
+"T063",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",550,930
+"T064",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",880,980
+"T065",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",980,1110
+"T066",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",1000,1600
+"T067",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Complete","Oga + manure",450,510
+"T068",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Partial","Oga + manure",560,780
+"T069",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Complete","Oga + manure",1670,1245
+"T070",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Partial","Oga + manure",1400,1500
+"T071",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Jigawa","Complete","Oga + manure",750,1150
+"T072",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Jigawa","Partial","Oga + manure",920,900
+"T073",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",900,1040
+"T074",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",800,1140
+"T075",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Complete","Oga + manure",640,980
+"T076",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Partial","Oga + manure",640,990
+"T077",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Complete","Oga + manure",1185,1050
+"T078",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Partial","Oga + manure",1545,1620
+"T079",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Complete","Oga + manure",1000,700
+"T080",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Partial","Oga + manure",2000,1900
+"T081",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Complete","Oga + manure",1585,1550
+"T082",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Partial","Oga + manure",950,1280
+"T083",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",1795,855
+"T084",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",1350,1020
+"T085",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Complete","Oga + manure",900,700
+"T086",2014,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Partial","Oga + manure",945,1100
+"T087",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",380,860
+"T088",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",310,1340
+"T089",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",340,540
+"T090",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",600,680
+"T091",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",320,400
+"T092",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",410,380
+"T093",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",910,1120
+"T094",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",NA,720
+"T095",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",300,670
+"T096",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",880,620
+"T097",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Complete","Oga + manure",135,290
+"T098",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Partial","Oga + manure",135,380
+"T099",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Complete","Oga + manure",310,400
+"T100",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Partial","Oga + manure",250,450
+"T101",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",640,1240
+"T102",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",1170,1100
+"T103",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Complete","Oga + manure",935,1175
+"T104",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Partial","Oga + manure",665,955
+"T105",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",860,2400
+"T106",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",1150,2375
+"T107",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",1340,1550
+"T108",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",951,1640
+"T109",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",1160,850
+"T110",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",440,1000
+"T111",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",1120,1710
+"T112",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",1390,1575
+"T113",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Complete","Oga + manure",1950,1890
+"T114",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Partial","Oga + manure",1080,2100
+"T115",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","GuezamiGuezami","Complete","Oga + manure",340,640
+"T116",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","GuezamiGuezami","Partial","Oga + manure",200,500
+"T117",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",600,320
+"T118",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",290,570
+"T119",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",305,430
+"T120",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",300,350
+"T121",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",350,420
+"T122",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",250,560
+"T123",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Complete","Oga + manure",305,920
+"T124",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Partial","Oga + manure",390,795
+"T125",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Complete","Oga + manure",107,630
+"T126",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Partial","Oga + manure",180,280
+"T127",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",195,310
+"T128",2014,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",250,500
+"T129",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",350,400
+"T130",2014,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",350,560
+"T131",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Complete","Oga + manure",530,500
+"T132",2014,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Partial","Oga + manure",NA,300
+"T133",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",950,1000
+"T134",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",850,610
+"T135",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",340,450
+"T136",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",370,470
+"T137",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",720,610
+"T138",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",750,900
+"T139",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",800,750
+"T140",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",750,670
+"T141",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",620,550
+"T142",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",250,950
+"T143",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Complete","Oga + manure",485,990
+"T144",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Partial","Oga + manure",845,540
+"T145",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",1350,1620
+"T146",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",1520,1690
+"T147",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",870,1325
+"T148",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",820,930
+"T149",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",1250,1690
+"T150",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",930,1180
+"T151",2014,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Complete","Oga + manure",720,1350
+"T152",2014,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Partial","Oga + manure",850,1650
+"T153",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",1720,2300
+"T154",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",1650,2300
+"T155",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",1080,1300
+"T156",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",570,1220
+"T157",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",550,700
+"T158",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",730,520
+"T159",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",580,570
+"T160",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",570,660
+"T161",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",770,1250
+"T162",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",510,1400
+"T163",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",1140,1030
+"T164",2014,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",1050,1400
+"T165",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",1190,800
+"T166",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",1050,1000
+"T167",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",1010,750
+"T168",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",730,900
+"T169",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",1300,1320
+"T170",2014,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",1220,1240
+"T171",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",650,683
+"T172",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",681,775
+"T173",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Complete","Oga + manure",525,850
+"T174",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Partial","Oga + manure",850,913
+"T175",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Complete","Oga + manure",556,688
+"T176",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Jigawa","Partial","Oga + manure",581,1113
+"T177",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Complete","Oga + manure",400,650
+"T178",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Partial","Oga + manure",603,780
+"T179",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Complete","Oga + manure",850,950
+"T180",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Partial","Oga + manure",900,963
+"T181",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",475,500
+"T182",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",475,450
+"T183",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Gueza","Complete","Oga + manure",350,438
+"T184",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Gueza","Partial","Oga + manure",375,519
+"T185",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Jigawa","Complete","Oga + manure",925,1000
+"T186",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Jigawa","Partial","Oga + manure",950,1050
+"T187",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",700,850
+"T188",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",850,875
+"T189",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Complete","Oga + manure",894,963
+"T190",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Partial","Oga + manure",900,988
+"T191",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Gueza","Complete","Oga + manure",713,725
+"T192",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","Gueza","Partial","Oga + manure",713,750
+"T193",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",300,403
+"T194",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",550,550
+"T195",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",499,500
+"T196",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",500,563
+"T197",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",600,550
+"T198",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",625,875
+"T199",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Complete","Oga + manure",375,550
+"T200",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","GuezamiGuezami","Partial","Oga + manure",413,588
+"T201",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Complete","Oga + manure",313,813
+"T202",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Partial","Oga + manure",500,900
+"T203",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",631,675
+"T204",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",638,700
+"T205",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",668,775
+"T206",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",750,1000
+"T207",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Complete","Oga + manure",675,950
+"T208",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Partial","Oga + manure",800,1025
+"T209",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Complete","Oga + manure",688,800
+"T210",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly without help","GuezamiGuezami","Partial","Oga + manure",775,1025
+"T211",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",250,375
+"T212",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",250,388
+"T213",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Complete","Oga + manure",900,950
+"T214",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Elderly with help","Gueza","Partial","Oga + manure",925,1038
+"T215",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",688,1000
+"T216",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",794,1050
+"T217",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",519,594
+"T218",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",550,600
+"T219",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",550,1225
+"T220",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",750,1300
+"T221",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Complete","Oga + manure",613,838
+"T222",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Jigawa","Partial","Oga + manure",625,875
+"T223",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",250,370
+"T224",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",294,448
+"T225",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",375,475
+"T226",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",413,663
+"T227",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",350,494
+"T228",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",350,675
+"T229",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Complete","Oga + manure",600,775
+"T230",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","Gueza","Partial","Oga + manure",769,913
+"T231",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Complete","Oga + manure",800,875
+"T232",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Partial","Oga + manure",850,875
+"T233",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Complete","Oga + manure",1400,1550
+"T234",2015,"Maradi","Serkin Haussa","Dan Tsunsu","Young","GuezamiGuezami","Partial","Oga + manure",1413,1688
+"T235",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",631,638
+"T236",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",636,1206
+"T237",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",600,863
+"T238",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",644,875
+"T239",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",438,494
+"T240",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",438,719
+"T241",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",400,575
+"T242",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",381,750
+"T243",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",450,500
+"T244",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",500,800
+"T245",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Complete","Oga + manure",350,625
+"T246",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Partial","Oga + manure",538,675
+"T247",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Complete","Oga + manure",119,125
+"T248",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Gueza","Partial","Oga + manure",125,150
+"T249",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Complete","Oga + manure",600,775
+"T250",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Partial","Oga + manure",600,775
+"T251",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",538,575
+"T252",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",550,844
+"T253",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",538,600
+"T254",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",588,863
+"T255",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",188,225
+"T256",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",188,525
+"T257",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Complete","Oga + manure",413,513
+"T258",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Partial","Oga + manure",513,525
+"T259",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",163,475
+"T260",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",425,650
+"T261",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",269,306
+"T262",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",288,500
+"T263",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",125,288
+"T264",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",250,300
+"T265",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","GuezamiGuezami","Complete","Oga + manure",425,575
+"T266",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","GuezamiGuezami","Partial","Oga + manure",550,625
+"T267",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Complete","Oga + manure",219,525
+"T268",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly without help","Jigawa","Partial","Oga + manure",338,585
+"T269",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Complete","Oga + manure",463,638
+"T270",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","GuezamiGuezami","Partial","Oga + manure",525,800
+"T271",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Complete","Oga + manure",350,463
+"T272",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Partial","Oga + manure",438,563
+"T273",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",375,375
+"T274",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",375,375
+"T275",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",575,700
+"T276",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",675,725
+"T277",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Complete","Oga + manure",250,375
+"T278",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Gueza","Partial","Oga + manure",325,463
+"T279",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",200,331
+"T280",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",319,425
+"T281",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",319,519
+"T282",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",375,613
+"T283",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",619,788
+"T284",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",675,788
+"T285",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",699,875
+"T286",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",774,1000
+"T287",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",556,878
+"T288",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",675,1275
+"T289",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",200,325
+"T290",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",200,369
+"T291",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Complete","Oga + manure",450,800
+"T292",2015,"Maradi","Serkin Haussa","Dan Banga","Young","Jigawa","Partial","Oga + manure",538,863
+"T293",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Complete","Oga + manure",706,1219
+"T294",2015,"Maradi","Serkin Haussa","Dan Banga","Young","GuezamiGuezami","Partial","Oga + manure",953,1275
+"T295",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Complete","Oga + manure",250,550
+"T296",2015,"Maradi","Serkin Haussa","Dan Banga","Elderly with help","Jigawa","Partial","Oga + manure",400,606
+"T297",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",400,475
+"T298",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",425,600
+"T299",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",325,425
+"T300",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",350,425
+"T301",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",475,725
+"T302",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",500,725
+"T303",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",500,675
+"T304",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",650,750
+"T305",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",625,775
+"T306",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",650,825
+"T307",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Complete","Oga + manure",650,900
+"T308",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Partial","Oga + manure",750,1000
+"T309",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",875,1100
+"T310",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",1050,1175
+"T311",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",350,475
+"T312",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",400,550
+"T313",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",475,1025
+"T314",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",500,1200
+"T315",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Complete","Oga + manure",400,625
+"T316",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Partial","Oga + manure",425,675
+"T317",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",1325,1550
+"T318",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",1488,1750
+"T319",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",425,600
+"T320",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",575,600
+"T321",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",500,550
+"T322",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",525,725
+"T323",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Complete","Oga + manure",525,875
+"T324",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa","Partial","Oga + manure",625,925
+"T325",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",400,650
+"T326",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",625,725
+"T327",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",500,525
+"T328",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",525,725
+"T329",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",800,1125
+"T330",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",1000,1225
+"T331",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Complete","Oga + manure",650,725
+"T332",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza","Partial","Oga + manure",675,775
+"T333",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Complete","Oga + manure",600,775
+"T334",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa","Partial","Oga + manure",650,825
+"T335",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",150,300
+"T336",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",200,375
+"T337",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",350,375
+"T338",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",363,400
+"T339",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Complete","Oga + manure",375,425
+"T340",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","GuezamiGuezami","Partial","Oga + manure",400,550
+"T341",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Complete","Oga + manure",350,700
+"T342",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","GuezamiGuezami","Partial","Oga + manure",400,775
+"T343",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",450,725
+"T344",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",700,850
+"T345",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Complete","Oga + manure",350,575
+"T346",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Partial","Oga + manure",375,613
+"T347",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",375,475
+"T348",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",425,525
+"T349",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",488,488
+"T350",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",500,750
+"T351",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",275,600
+"T352",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",450,613
+"T353",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",325,600
+"T354",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",350,875
+"T355",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",375,425
+"T356",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",375,650
+"T357",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",750,850
+"T358",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",800,925
+"T359",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",700,825
+"T360",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",700,850
+"T361",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",275,325
+"T362",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",300,350
+"T363",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",275,600
+"T364",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",575,725
+"T365",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Complete","Oga + manure",275,450
+"T366",2015,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza","Partial","Oga + manure",400,475
+"T367",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",350,375
+"T368",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",375,400
+"T369",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",650,800
+"T370",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",700,850
+"T371",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Complete","Oga + manure",325,425
+"T372",2015,"Maradi","Serkin Haussa","Arraouraye","Young","GuezamiGuezami","Partial","Oga + manure",350,475
+"T373",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Complete","Oga + manure",450,575
+"T374",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza","Partial","Oga + manure",500,775
+"T375",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Complete","Oga + manure",325,400
+"T376",2015,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa","Partial","Oga + manure",375,450
+"T377",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1063,1125
+"T378",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1125,1125
+"T379",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1150,1225
+"T380",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1175,1275
+"T381",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1000,925
+"T382",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1050,1150
+"T383",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",500,625
+"T384",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",588,650
+"T385",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1023,1170
+"T386",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1115,1275
+"T387",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",750,1025
+"T388",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",800,1225
+"T389",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",508,638
+"T390",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",515,865
+"T391",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",568,768
+"T392",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",735,768
+"T393",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",380,548
+"T394",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",423,790
+"T395",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",358,470
+"T396",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",363,625
+"T397",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1335,1598
+"T398",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1524,2055
+"T399",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",495,610
+"T400",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",500,958
+"T401",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",150,225
+"T402",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",200,250
+"T403",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",368,545
+"T404",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",448,505
+"T405",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",1035,1243
+"T406",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",1068,1320
+"T407",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",688,1153
+"T408",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",800,1330
+"T409",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",733,1315
+"T410",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",975,1385
+"T411",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",448,880
+"T412",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",558,1003
+"T413",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",138,220
+"T414",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",158,248
+"T415",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",853,1065
+"T416",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",1055,1360
+"T417",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",715,773
+"T418",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",918,1540
+"T419",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",548,738
+"T420",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",700,810
+"T421",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",443,513
+"T422",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",420,703
+"T423",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",405,540
+"T424",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",610,888
+"T425",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",453,938
+"T426",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",563,1060
+"T427",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",365,715
+"T428",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",400,763
+"T429",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",456,485
+"T430",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",448,520
+"T431",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",755,995
+"T432",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",903,1145
+"T433",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",110,578
+"T434",2015,"Maradi","Safo","Garin Labo","Young","Jambali","Complete","Oga + manure",395,740
+"T435",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",210,445
+"T436",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",243,595
+"T437",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",175,225
+"T438",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",150,225
+"T439",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T440",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T441",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",260,520
+"T442",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",325,728
+"T443",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",500,930
+"T444",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",708,988
+"T445",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",220,353
+"T446",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",273,525
+"T447",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",525,825
+"T448",2015,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa","Complete","Oga + manure",550,1000
+"T449",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",950,1050
+"T450",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1000,1050
+"T451",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",185,325
+"T452",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",263,340
+"T453",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1013,1240
+"T454",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",1045,1520
+"T455",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",575,850
+"T456",2015,"Maradi","Safo","Garin Labo","Young","Jigawa","Complete","Oga + manure",675,1000
+"T457",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",600,988
+"T458",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Partial","Oga + manure",625,1075
+"T459",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",675,825
+"T460",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",675,900
+"T461",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",1138,1200
+"T462",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",1200,1549
+"T463",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",1020,1138
+"T464",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",1023,1163
+"T465",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",500,563
+"T466",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",500,630
+"T467",2015,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa","Complete","Oga + manure",375,760
+"T468",2015,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa","Complete","Oga + manure",640,773
+"T469",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",700,800
+"T470",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",650,1025
+"T471",2015,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa","Complete","Oga + manure",500,925
+"T472",2015,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa","Complete","Oga + manure",575,1050
+"T473",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",900,1325
+"T474",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",1325,1713
+"T475",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",380,500
+"T476",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",398,550
+"T477",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",675,800
+"T478",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",725,825
+"T479",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",500,920
+"T480",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",513,1005
+"T481",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",750,1100
+"T482",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",1044,1119
+"T483",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",625,1006
+"T484",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",675,1425
+"T485",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",650,775
+"T486",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",700,850
+"T487",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",618,775
+"T488",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",700,825
+"T489",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",630,1133
+"T490",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",895,1255
+"T491",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",688,825
+"T492",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",750,875
+"T493",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",693,895
+"T494",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",768,1006
+"T495",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",675,800
+"T496",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",725,875
+"T497",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",925,1038
+"T498",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",975,1050
+"T499",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",NA,NA
+"T500",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",NA,NA
+"T501",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",500,1005
+"T502",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",503,1013
+"T503",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",725,825
+"T504",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",750,900
+"T505",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",850,1175
+"T506",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",1013,1481
+"T507",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",1033,1773
+"T508",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",1138,1778
+"T509",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",625,1033
+"T510",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",630,1150
+"T511",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",600,813
+"T512",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",688,913
+"T513",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",806,1000
+"T514",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",780,1024
+"T515",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T516",2015,"Maradi","Safo","Gade Iyya","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T517",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",625,750
+"T518",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",675,775
+"T519",2015,"Maradi","Safo","Gade Iyya","Young","Jambali","Complete","Oga + manure",500,725
+"T520",2015,"Maradi","Safo","Gade Iyya","Young","Jambali","Complete","Oga + manure",625,775
+"T521",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",1075,1238
+"T522",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali","Complete","Oga + manure",1125,1775
+"T523",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",900,1375
+"T524",2015,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa","Complete","Oga + manure",963,1388
+"T525",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Damba","Complete","Oga + manure",625,900
+"T526",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Damba","Complete","Oga + manure",675,1150
+"T527",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T528",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",NA,NA
+"T529",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",588,625
+"T530",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",613,719
+"T531",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",300,600
+"T532",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",350,750
+"T533",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Jigawa","Complete","Oga + manure",475,638
+"T534",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Jigawa","Complete","Oga + manure",588,731
+"T535",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",450,1013
+"T536",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",475,1100
+"T537",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",1050,725
+"T538",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",1125,975
+"T539",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",550,663
+"T540",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",608,725
+"T541",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",330,628
+"T542",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa","Complete","Oga + manure",410,850
+"T543",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",475,538
+"T544",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",400,581
+"T545",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",400,538
+"T546",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",406,563
+"T547",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",400,563
+"T548",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",494,600
+"T549",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",350,525
+"T550",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",450,700
+"T551",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",650,813
+"T552",2015,"Maradi","Safo","Garin Mai Gari","Young","Jigawa","Complete","Oga + manure",813,875
+"T553",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Gueza","Complete","Oga + manure",263,475
+"T554",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Gueza","Complete","Oga + manure",425,500
+"T555",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",325,500
+"T556",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",375,628
+"T557",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",775,800
+"T558",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",794,1638
+"T559",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",250,625
+"T560",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",375,700
+"T561",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",813,1300
+"T562",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",900,1650
+"T563",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",350,525
+"T564",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",575,975
+"T565",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",275,575
+"T566",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",488,825
+"T567",2015,"Maradi","Safo","Garin Mai Gari","Young","Jambali","Complete","Oga + manure",700,819
+"T568",2015,"Maradi","Safo","Garin Mai Gari","Young","Jambali","Complete","Oga + manure",706,1100
+"T569",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Jambali","Complete","Oga + manure",103,550
+"T570",2015,"Maradi","Safo","Garin Mai Gari","Elderly without help","Jambali","Complete","Oga + manure",200,788
+"T571",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",600,850
+"T572",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",725,1250
+"T573",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",156,456
+"T574",2015,"Maradi","Safo","Garin Mai Gari","Young","Gueza","Complete","Oga + manure",506,600
+"T575",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",369,869
+"T576",2015,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza","Complete","Oga + manure",370,875
+"T577",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza",NA,"Oga",755.555555555556,800
+"T578",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",758.333333333333,1033.33333333333
+"T579",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza",NA,"Oga",437.5,787.5
+"T580",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa",NA,"Oga",350,480
+"T581",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",166.666666666667,200
+"T582",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",450,487.5
+"T583",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",217.687074829932,226.757369614512
+"T584",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",62.5,250
+"T585",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza",NA,"Oga",270,370
+"T586",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",133.333333333333,400
+"T587",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",266.666666666667,466.666666666667
+"T588",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza",NA,"Oga",333.333333333333,416.666666666667
+"T589",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa",NA,"Oga",187.5,437.5
+"T590",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",136.363636363636,227.272727272727
+"T591",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",313.725490196078,450.980392156863
+"T592",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",1300,1233.33333333333
+"T593",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",916.666666666667,1250
+"T594",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza",NA,"Oga",62.5,187.5
+"T595",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza",NA,"Oga",357.142857142857,625
+"T596",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",480,720
+"T597",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",500,683.333333333333
+"T598",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",1000,1100
+"T599",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",78.125,390.625
+"T600",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",363.636363636364,545.454545454545
+"T601",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa",NA,"Oga",50,150
+"T602",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Jigawa",NA,"Oga",200,266.666666666667
+"T603",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly without help","Gueza",NA,"Oga",233.333333333333,306.666666666667
+"T604",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",600,820
+"T605",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",90.9090909090909,363.636363636364
+"T606",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",214.285714285714,357.142857142857
+"T607",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",433.333333333333,533.333333333333
+"T608",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",400,516.666666666667
+"T609",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",666.666666666667,706.666666666667
+"T610",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",300,366.666666666667
+"T611",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",803.571428571429,1160.71428571429
+"T612",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",300,450
+"T613",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",181.818181818182,454.545454545455
+"T614",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",208.333333333333,572.916666666667
+"T615",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Gueza",NA,"Oga",466.666666666667,693.333333333333
+"T616",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",1000,1250
+"T617",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",733.333333333333,900
+"T618",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",733.333333333333,966.666666666667
+"T619",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",733.333333333333,900
+"T620",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Gueza",NA,"Oga",700,866.666666666667
+"T621",2016,"Maradi","Serkin Haussa","Arraouraye","Young","Jigawa",NA,"Oga",833.333333333333,1066.66666666667
+"T622",2016,"Maradi","Serkin Haussa","Arraouraye","Elderly with help","Jigawa",NA,"Oga",600,733.333333333333
+"T623",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",1083.33333333333,1208.33333333333
+"T624",2016,"Maradi","Safo","Garin Labo","Young","Jambali",NA,"Oga",418.060200668896,518.394648829431
+"T625",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",500,520
+"T626",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jigawa",NA,"Oga",384.615384615385,396.634615384615
+"T627",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jigawa",NA,"Oga",252.403846153846,264.423076923077
+"T628",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",333.333333333333,564.102564102564
+"T629",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",836.120401337793,903.010033444816
+"T630",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jigawa",NA,"Oga",615.384615384615,807.692307692308
+"T631",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",600,885.714285714286
+"T632",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",586.666666666667,853.333333333333
+"T633",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",388.888888888889,544.444444444444
+"T634",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",830.0395256917,1225.29644268775
+"T635",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",432.692307692308,781.25
+"T636",2016,"Maradi","Safo","Garin Labo","Young","Jambali",NA,"Oga",327.380952380952,744.047619047619
+"T637",2016,"Maradi","Safo","Garin Labo","Young","Jambali",NA,"Oga",434.782608695652,760.869565217391
+"T638",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",597.826086956522,1277.17391304348
+"T639",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",659.090909090909,1068.18181818182
+"T640",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",364.583333333333,651.041666666667
+"T641",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",372.670807453416,760.869565217391
+"T642",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jambali",NA,"Oga",213.333333333333,786.666666666667
+"T643",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jambali",NA,"Oga",445.652173913043,673.913043478261
+"T644",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",351.5625,546.875
+"T645",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jigawa",NA,"Oga",645.604395604396,975.27
+"T646",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jambali",NA,"Oga",189.024390243902,256.09756097561
+"T647",2016,"Maradi","Safo","Garin Labo","Elderly without help","Jambali",NA,"Oga",393.518518518519,486.111111111111
+"T648",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",675,850
+"T649",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",861.244019138756,1411.48325358852
+"T650",2016,"Maradi","Safo","Garin Labo","Young","Jambali",NA,"Oga",456.730769230769,468.75
+"T651",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",561.594202898551,1086.95652173913
+"T652",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",362.5,750
+"T653",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",347.222222222222,763.888888888889
+"T654",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",950,1000
+"T655",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",690.47619047619,1380.95238095238
+"T656",2016,"Maradi","Safo","Garin Labo","Young","Jambali",NA,"Oga",274.725274725275,686.813186813187
+"T657",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",410.25641025641,576.923076923077
+"T658",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",555.555555555556,666.666666666667
+"T659",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",590.062111801242,993.788819875776
+"T660",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",576.923076923077,824.175824175824
+"T661",2016,"Maradi","Safo","Garin Labo","Elderly with help","Jigawa",NA,"Oga",392.156862745098,529.411764705882
+"T662",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",464.285714285714,553.571428571429
+"T663",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",793.650793650794,873.015873015873
+"T664",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",515.873015873016,634.920634920635
+"T665",2016,"Maradi","Safo","Garin Labo","Elderly with help","Undifferentiated",NA,"Oga",738.095238095238,1238.09523809524
+"T666",2016,"Maradi","Safo","Garin Labo","Young","Undifferentiated",NA,"Oga",478.260869565217,1369.5652173913
+"T667",2016,"Maradi","Safo","Garin Labo","Young","Jigawa",NA,"Oga",600,900
+"T668",2016,"Maradi","Safo","Garin Labo","Elderly with help","Undifferentiated",NA,"Oga",774.193548387097,1387.09677419355
+"T669",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa",NA,"Oga",1900,2550
+"T670",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",1300,1700
+"T671",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza",NA,"Oga",900,1500
+"T672",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Damba",NA,"Oga",800,1050
+"T673",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",1600,2250
+"T674",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",1750,2050
+"T675",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Damba",NA,"Oga",1800,2300
+"T676",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",500,650
+"T677",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Damba",NA,"Oga",1000,1370
+"T678",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza",NA,"Oga",2500,2850
+"T679",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",2250,3450
+"T680",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",800,950
+"T681",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",950,1000
+"T682",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",650,1400
+"T683",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",1750,2000
+"T684",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Jigawa",NA,"Oga",700,1300
+"T685",2016,"Maradi","Safo","Garin Mai Gari","Elderly without help","Jigawa",NA,"Oga",700,1100
+"T686",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",700,900
+"T687",2016,"Maradi","Safo","Garin Mai Gari","Elderly with help","Gueza",NA,"Oga",2100,2550
+"T688",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",700,1850
+"T689",2016,"Maradi","Safo","Garin Mai Gari","Young","Gueza",NA,"Oga",1700,2050
+"T690",2016,"Maradi","Safo","Garin Mai Gari","Young","Jigawa",NA,"Oga",1600,3100
+"T691",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Damba",NA,"Oga",800,1100
+"T692",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa",NA,"Oga",750,1000
+"T693",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",600,900
+"T694",2016,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa",NA,"Oga",550,700
+"T695",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",750,1000
+"T696",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali",NA,"Oga",700,950
+"T697",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",700,950
+"T698",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",500,650
+"T699",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",800,1050
+"T700",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",600,800
+"T701",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Jambali",NA,"Oga",600,800
+"T702",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",700,900
+"T703",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Jigawa",NA,"Oga",500,750
+"T704",2016,"Maradi","Safo","Gade Iyya","Elderly with help","Damba",NA,"Oga",650,850
+"T705",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",750,1000
+"T706",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1200,1500
+"T707",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1300,1550
+"T708",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",1150,1400
+"T709",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",850,1000
+"T710",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",550,650
+"T711",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",800,1050
+"T712",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",1150,1400
+"T713",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1300,1550
+"T714",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",950,1200
+"T715",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",950,1200
+"T716",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1000,1350
+"T717",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1200,1500
+"T718",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",800,1050
+"T719",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",550,750
+"T720",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",600,850
+"T721",2016,"Maradi","Safo","Gade Iyya","Young","Jigawa",NA,"Oga",1150,1500
+"T722",2016,"Maradi","Safo","Gade Iyya","Young","Damba",NA,"Oga",1100,1400
+"T723",2016,"Maradi","Safo","Gade Iyya","Elderly without help","Jigawa",NA,"Oga",600,850
+"T724",2016,"Tillabery","Say","Djangore","Young","Jigawa",NA,"Oga",521.541950113379,760.770975056689
+"T725",2016,"Tillabery","Say","Djangore","Elderly with help","Jigawa",NA,"Oga",501.133786848073,770.975056689342
+"T726",2016,"Tillabery","Say","Djangore","Elderly with help","Jigawa",NA,"Oga",501.133786848073,748.299319727891
+"T727",2016,"Tillabery","Say","Djangore","Elderly with help","GuezamiGuezami",NA,"Oga",478.458049886621,760.770975056689
+"T728",2016,"Tillabery","Say","Djangore","Young","Jigawa",NA,"Oga",498.866213151927,715.419501133787
+"T729",2016,"Tillabery","Say","Djangore","Young","Jigawa",NA,"Oga",467.120181405896,748.299319727891
+"T730",2016,"Tillabery","Say","Djangore","Elderly with help","Jigawa",NA,"Oga",473.922902494331,725.62358276644
+"T731",2016,"Tillabery","Say","Djangore","Elderly with help","Gueza",NA,"Oga",489.795918367347,692.743764172336
+"T732",2016,"Tillabery","Say","Djangore","Elderly without help","GuezamiGuezami",NA,"Oga",489.795918367347,748.299319727891
+"T733",2016,"Tillabery","Say","Djangore","Elderly without help","Gueza",NA,"Oga",455.78231292517,680.272108843537
+"T734",2016,"Tillabery","Say","Djangore","Elderly without help","Gueza",NA,"Oga",489.795918367347,692.743764172336
+"T735",2016,"Tillabery","Say","Djangore","Elderly without help","Gueza",NA,"Oga",501.133786848073,748.299319727891
+"T736",2016,"Tillabery","Say","Djangore","Elderly with help","Gueza",NA,"Oga",512.471655328798,715.419501133787
+"T737",2016,"Tillabery","Say","Djangore","Elderly with help","GuezamiGuezami",NA,"Oga",512.471655328798,715.419501133787
+"T738",2016,"Tillabery","Say","Djangore","Elderly with help","GuezamiGuezami",NA,"Oga",489.795918367347,738.095238095238
+"T739",2016,"Tillabery","Say","Djangore","Young","Gueza",NA,"Oga",467.120181405896,725.62358276644
+"T740",2016,"Tillabery","Say","Djangore","Elderly with help","GuezamiGuezami",NA,"Oga",453.514739229025,738.095238095238
+"T741",2016,"Tillabery","Say","Djangore","Elderly with help","Undifferentiated",NA,"Oga",448.979591836735,692.743764172336
+"T742",2016,"Tillabery","Say","Djangore","Elderly without help","Undifferentiated",NA,"Oga",455.78231292517,738.095238095238
+"T743",2016,"Tillabery","Say","Djangore","Elderly with help","Undifferentiated",NA,"Oga",467.120181405896,725.62358276644
+"T744",2016,"Tillabery","Say","Djangore","Elderly with help","Undifferentiated",NA,"Oga",489.795918367347,770.975056689342
+"T745",2016,"Tillabery","Say","Djangore","Elderly with help","Undifferentiated",NA,"Oga",455.78231292517,919.501133786848
+"T746",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",514.739229024943,816.326530612245
+"T747",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",535.147392290249,892.290249433107
+"T748",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",505.668934240363,919.501133786848
+"T749",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",496.598639455782,952.380952380952
+"T750",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",519.274376417234,919.501133786848
+"T751",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",535.147392290249,942.176870748299
+"T752",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",535.147392290249,892.290249433107
+"T753",2016,"Tillabery","Say","Djangore","Young","Undifferentiated",NA,"Oga",535.147392290249,861.678004535147
+"T754",2016,"Tillabery","Say","Tchela","Elderly with help","Gueza",NA,"Oga",487.528344671202,770.975056689342
+"T755",2016,"Tillabery","Say","Tchela","Elderly with help","Jigawa",NA,"Oga",555.555555555556,782.312925170068
+"T756",2016,"Tillabery","Say","Tchela","Elderly with help","GuezamiGuezami",NA,"Oga",498.866213151927,748.299319727891
+"T757",2016,"Tillabery","Say","Tchela","Elderly without help","Jigawa",NA,"Oga",476.190476190476,793.650793650794
+"T758",2016,"Tillabery","Say","Tchela","Young","GuezamiGuezami",NA,"Oga",498.866213151927,782.312925170068
+"T759",2016,"Tillabery","Say","Tchela","Elderly without help","Gueza",NA,"Oga",487.528344671202,816.326530612245
+"T760",2016,"Tillabery","Say","Tchela","Young","Jigawa",NA,"Oga",519.274376417234,873.015873015873
+"T761",2016,"Tillabery","Say","Tchela","Elderly without help","GuezamiGuezami",NA,"Oga",487.528344671202,770.975056689342
+"T762",2016,"Tillabery","Say","Tchela","Elderly with help","GuezamiGuezami",NA,"Oga",510.204081632653,884.353741496599
+"T763",2016,"Tillabery","Say","Tchela","Elderly with help","Jigawa",NA,"Oga",544.21768707483,793.650793650794
+"T764",2016,"Tillabery","Say","Tchela","Elderly with help","Gueza",NA,"Oga",555.555555555556,816.326530612245
+"T765",2016,"Tillabery","Say","Tchela","Elderly with help","Gueza",NA,"Oga",541.950113378685,782.312925170068
+"T766",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",521.541950113379,793.650793650794
+"T767",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",521.541950113379,793.650793650794
+"T768",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",498.866213151927,782.312925170068
+"T769",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",519.274376417234,759.637188208617
+"T770",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",487.528344671202,770.975056689342
+"T771",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",494.331065759637,748.299319727891
+"T772",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",510.204081632653,736.961451247166
+"T773",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",510.204081632653,770.975056689342
+"T774",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",476.190476190476,725.62358276644
+"T775",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",510.204081632653,714.285714285714
+"T776",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",521.541950113379,770.975056689342
+"T777",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",532.879818594104,736.961451247166
+"T778",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",532.879818594104,736.961451247166
+"T779",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",510.204081632653,782.312925170068
+"T780",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",487.528344671202,770.975056689342
+"T781",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",473.922902494331,782.312925170068
+"T782",2016,"Tillabery","Say","Tchela","Elderly with help","Undifferentiated",NA,"Oga",469.387755102041,714.285714285714
+"T783",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",476.190476190476,782.312925170068
+"T784",2016,"Tillabery","Say","Tchela","Elderly without help","Undifferentiated",NA,"Oga",487.528344671202,770.975056689342
+"T785",2016,"Tillabery","Say","Tchela","Young","Undifferentiated",NA,"Oga",510.204081632653,793.650793650794
+"T786",2016,"Tillabery","Say","Bokki","Young","Jigawa",NA,"Oga",476.190476190476,963.718820861678
+"T787",2016,"Tillabery","Say","Bokki","Elderly without help","Gueza",NA,"Oga",535.147392290249,861.678004535147
+"T788",2016,"Tillabery","Say","Bokki","Elderly without help","Gueza",NA,"Oga",555.555555555556,936.507936507937
+"T789",2016,"Tillabery","Say","Bokki","Elderly without help","Jigawa",NA,"Oga",526.077097505669,963.718820861678
+"T790",2016,"Tillabery","Say","Bokki","Young","GuezamiGuezami",NA,"Oga",517.006802721088,975.056689342404
+"T791",2016,"Tillabery","Say","Bokki","Young","Jigawa",NA,"Oga",539.68253968254,963.718820861678
+"T792",2016,"Tillabery","Say","Bokki","Elderly without help","Gueza",NA,"Oga",555.555555555556,963.718820861678
+"T793",2016,"Tillabery","Say","Bokki","Young","Gueza",NA,"Oga",555.555555555556,936.507936507937
+"T794",2016,"Tillabery","Say","Bokki","Elderly with help","Gueza",NA,"Oga",555.555555555556,907.02947845805
+"T795",2016,"Tillabery","Say","Bokki","Young","Jigawa",NA,"Oga",498.866213151927,963.718820861678
+"T796",2016,"Tillabery","Say","Bokki","Elderly with help","Jigawa",NA,"Oga",526.077097505669,975.056689342404
+"T797",2016,"Tillabery","Say","Bokki","Elderly with help","GuezamiGuezami",NA,"Oga",507.936507936508,975.056689342404
+"T798",2016,"Tillabery","Say","Bokki","Elderly without help","GuezamiGuezami",NA,"Oga",501.133786848073,993.197278911565
+"T799",2016,"Tillabery","Say","Bokki","Elderly without help","Jigawa",NA,"Oga",476.190476190476,936.507936507937
+"T800",2016,"Tillabery","Say","Bokki","Young","Gueza",NA,"Oga",512.471655328798,952.380952380952
+"T801",2016,"Tillabery","Say","Bokki","Young","Undifferentiated",NA,"Oga",485.260770975057,925.170068027211
+"T802",2016,"Tillabery","Say","Bokki","Elderly without help","Undifferentiated",NA,"Oga",507.936507936508,861.678004535147
+"T803",2016,"Tillabery","Say","Bokki","Elderly without help","Undifferentiated",NA,"Oga",555.555555555556,907.02947845805
+"T804",2016,"Tillabery","Say","Bokki","Young","Undifferentiated",NA,"Oga",555.555555555556,879.818594104308
+"T805",2016,"Tillabery","Say","Bokki","Elderly without help","Undifferentiated",NA,"Oga",548.75283446712,691.609977324263
+"T806",2016,"Tillabery","Say","Bokki","Elderly with help","Undifferentiated",NA,"Oga",535.147392290249,861.678004535147
+"T807",2016,"Tillabery","Say","Bokki","Young","Undifferentiated",NA,"Oga",555.555555555556,963.718820861678
+"T808",2016,"Tillabery","Say","Bokki","Elderly with help","Undifferentiated",NA,"Oga",528.344671201814,959.183673469388
+"T809",2016,"Tillabery","Say","Bokki","Young","Undifferentiated",NA,"Oga",496.598639455782,861.678004535147
+"T810",2016,"Tillabery","Say","Bokki","Young","Undifferentiated",NA,"Oga",496.598639455782,852.607709750567
