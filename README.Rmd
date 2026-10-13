@@ -40,9 +40,12 @@ pak::pak("IDEMSInternational/statsdata")
 |---|---|---|
 | `kenya_flamingos` | Simulated morphological measurements for Greater and Lesser Flamingos at three Rift Valley lakes | Simulated for teaching purposes |
 | `kenya_accidents_2016` | Fatal road accident records from Kenya, April–June 2016 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
-| `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) 
+| `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
+| `sahel_rhomis` | Survey answers from 1,026 farm households in Burkina Faso, Mali and Niger (RHoMIS), as recorded and not cleaned | [RHoMIS on Harvard Dataverse](https://doi.org/10.7910/DVN/WS38SA) (CC0) |
+| `niger_oga` | On-farm trials of Oga, a urine-based fertiliser, on pearl millet in Niger, 2014–2016; one row per trial | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
+| `niger_oga_rainfall` | Rainfall during the Oga trials, as published and deliberately untidy, for practising reshaping | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
 
-Raw xlsx files for use with other software are available in the 
+Raw data files for use with other software are available in the 
 [`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw) 
 folder.
 
@@ -72,7 +75,7 @@ The `kenya_flamingos` dataset was simulated for teaching purposes.
 The measurements are realistic for the two species at these lakes.
 It has been simulated to be like the `iris` or `penguins` data set,
 but more contextually relevant for Kenya.
-It should not be used as a source ofempirical claims about flamingo
+It should not be used as a source of empirical claims about flamingo
 populations in Kenya.
 
 ## Licence
