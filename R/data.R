@@ -86,7 +86,7 @@
 #' source file itself. Each row is one household; up to three crops per
 #' household are in numbered columns.
 #'
-#' @format A data frame with 1026 rows and 30 columns, all stored as text:
+#' @format A data frame with 1026 rows and 30 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier, assigned for this dataset}
 #'   \item{country}{burkina_faso, mali or niger}
@@ -115,7 +115,9 @@
 #' @source Gorman, L., Hammond, J., Frelat, R., Caulfield, M., van Wijk, M.
 #'   et al. The Rural Household Multiple Indicator Survey (RHoMIS) data of
 #'   54,873 farm households in 35 countries. Harvard Dataverse, CC0.
-#'   \doi{10.7910/DVN/WS38SA}. See \code{data-raw/sahel_rhomis.R}.
+#'   \doi{10.7910/DVN/WS38SA}.
+#' @seealso \code{\link{sahel_households}} and \code{\link{sahel_crops}},
+#'   the same data split into one table per level.
 "sahel_rhomis"
 
 #' On-farm trials of Oga on pearl millet in Niger, 2014-2016
@@ -170,3 +172,59 @@
 #'   \doi{10.5281/zenodo.4071826}.
 "niger_oga_rainfall"
 
+
+#' Farm households in Burkina Faso, Mali and Niger: the household level
+#'
+#' The household-level columns of \code{\link{sahel_rhomis}}, one row per
+#' household: everything except the numbered crop columns. Together with
+#' \code{\link{sahel_crops}}, it splits \code{sahel_rhomis} into one table per
+#' level, linked by \code{household_id}. The values are as in
+#' \code{sahel_rhomis}, not cleaned.
+#'
+#' @format A data frame with 1026 rows and 15 columns:
+#' \describe{
+#'   \item{household_id}{Household identifier; links to \code{sahel_crops}}
+#'   \item{country}{burkina_faso, mali or niger}
+#'   \item{year}{Year of the survey}
+#'   \item{region, sublocation}{Where the household is}
+#'   \item{start_time_user}{Time the interview started, as recorded}
+#'   \item{respondentsex}{Sex of the person answering: m or f}
+#'   \item{household_type}{couple, man_single or woman_single}
+#'   \item{education_level}{Highest education of the household head}
+#'   \item{landcultivated, unitland}{Land cultivated, and its unit}
+#'   \item{crop_count}{Number of crops the household grows}
+#'   \item{livestock_count}{Number of kinds of livestock kept}
+#'   \item{foodshortagetime}{Whether the household had a time of food
+#'     shortage in the last year: y or n}
+#'   \item{food_worst_month}{Month of worst food shortage}
+#' }
+#' @source As \code{\link{sahel_rhomis}}. See
+#'   \code{data-raw/sahel_levels.R}.
+"sahel_households"
+
+#' Farm households in Burkina Faso, Mali and Niger: the crop level
+#'
+#' The crop columns of \code{\link{sahel_rhomis}}, one row per crop that a
+#' household named. \code{sahel_rhomis} keeps up to three crops per household
+#' in numbered columns; here they are stacked, so a household has one row for
+#' each crop it named, and none if it named none. Linked to
+#' \code{\link{sahel_households}} by \code{household_id}. The values are as
+#' in \code{sahel_rhomis}, not cleaned.
+#'
+#' @format A data frame with 2390 rows and 7 columns:
+#' \describe{
+#'   \item{household_id}{Household identifier; links to
+#'     \code{sahel_households}}
+#'   \item{crop_number}{1, 2 or 3: the order in which the household named the
+#'     crop}
+#'   \item{crop_name}{The crop}
+#'   \item{crop_harvest}{Whether the harvest was bad, normal or good}
+#'   \item{crop_yield}{Amount harvested, in the unit in
+#'     \code{crop_yield_units}}
+#'   \item{crop_yield_units}{Unit of the harvest: kg, sacks, carts, bundles,
+#'     cups...}
+#'   \item{crop_sold_prop_numeric}{Proportion of the crop sold}
+#' }
+#' @source As \code{\link{sahel_rhomis}}. See
+#'   \code{data-raw/sahel_levels.R}.
+"sahel_crops"

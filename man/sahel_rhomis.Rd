@@ -5,7 +5,7 @@
 \alias{sahel_rhomis}
 \title{Farm households in Burkina Faso, Mali and Niger (RHoMIS)}
 \format{
-A data frame with 1026 rows and 30 columns, all stored as text:
+A data frame with 1026 rows and 30 columns:
 \describe{
   \item{household_id}{Household identifier, assigned for this dataset}
   \item{country}{burkina_faso, mali or niger}
@@ -36,7 +36,7 @@ A data frame with 1026 rows and 30 columns, all stored as text:
 Gorman, L., Hammond, J., Frelat, R., Caulfield, M., van Wijk, M.
   et al. The Rural Household Multiple Indicator Survey (RHoMIS) data of
   54,873 farm households in 35 countries. Harvard Dataverse, CC0.
-  \doi{10.7910/DVN/WS38SA}. See \code{data-raw/sahel_rhomis.R}.
+  \doi{10.7910/DVN/WS38SA}.
 }
 \usage{
 sahel_rhomis
@@ -52,5 +52,9 @@ recorded, not cleaned: the three projects coded some answers differently
 answers are missing, and some accented place names are garbled in the
 source file itself. Each row is one household; up to three crops per
 household are in numbered columns.
+}
+\seealso{
+\code{\link{sahel_households}} and \code{\link{sahel_crops}},
+  the same data split into one table per level.
 }
 \keyword{datasets}
