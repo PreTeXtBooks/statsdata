@@ -42,6 +42,8 @@ pak::pak("PreTeXtBooks/statsdata")
 | `kenya_accidents_2016` | Fatal road accident records from Kenya, April–June 2016 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
 | `kenya_accidents_2017` | Fatal road accident records from Kenya, 2017 | [Humanitarian Data Exchange](https://data.humdata.org/dataset/kenya-road-accidents-database) |
 | `sahel_rhomis` | Survey answers from 1,026 farm households in Burkina Faso, Mali and Niger (RHoMIS), as recorded and not cleaned | [RHoMIS on Harvard Dataverse](https://doi.org/10.7910/DVN/WS38SA) (CC0) |
+| `sahel_households` | `sahel_rhomis` at the household level: one row per household, without the crop columns | [RHoMIS on Harvard Dataverse](https://doi.org/10.7910/DVN/WS38SA) (CC0) |
+| `sahel_crops` | `sahel_rhomis` at the crop level: one row per crop each household named, linked by `household_id` | [RHoMIS on Harvard Dataverse](https://doi.org/10.7910/DVN/WS38SA) (CC0) |
 | `niger_oga` | On-farm trials of Oga, a urine-based fertiliser, on pearl millet in Niger, 2014–2016; one row per trial | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
 | `niger_oga_rainfall` | Rainfall during the Oga trials, as published and deliberately untidy, for practising reshaping | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
 
