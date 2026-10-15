@@ -280,3 +280,21 @@
 #' }
 #' @source Simulated for teaching purposes; see \code{data-raw/sahel_striga.R}.
 "sahel_striga"
+
+#' Annual rainfall at three Sahel sites (simulated)
+#'
+#' Simulated annual rainfall at Maradi (Niger), Segou (Mali) and Yatenga
+#' (Burkina Faso), 1950-2023, for line graphs and smoothing. Its shape follows
+#' the known history of Sahel rainfall -- wet 1950s-60s, drought through the
+#' 1970s-80s, partial recovery since -- but the yearly values are not station
+#' records.
+#'
+#' @format A tibble with 222 rows and 4 columns:
+#' \describe{
+#'   \item{site}{Maradi, Segou or Yatenga}
+#'   \item{year}{Year}
+#'   \item{rainfall_mm}{Total rainfall in the year, in mm}
+#'   \item{rainy_days}{Number of days with rain}
+#' }
+#' @source Simulated for teaching purposes; see \code{data-raw/sahel_rainfall.R}.
+"sahel_rainfall"

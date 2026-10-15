@@ -38,6 +38,7 @@ pak::pak("PreTeXtBooks/statsdata")
 | `niger_oga_rainfall` | Rainfall during the Oga trials, as published and deliberately untidy, for practising reshaping | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
 | `sahel_millet` | Simulated measurements of 344 pearl millet plants, three varieties at three Sahel sites, 2021–2023; a stand-in for `penguins` | Simulated for teaching purposes |
 | `sahel_striga` | Simulated millet fields: manure applied, yield, Striga count and farmer research network membership, with spreadsheet-style column names | Simulated for teaching purposes |
+| `sahel_rainfall` | Simulated annual rainfall at three Sahel sites, 1950–2023, shaped like the region's drought and recovery | Simulated for teaching purposes |
 
 Raw data files for use with other software are available in the
 [`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw)
