@@ -36,6 +36,7 @@ pak::pak("PreTeXtBooks/statsdata")
 | `sahel_crops` | `sahel_rhomis` at the crop level: one row per crop each household named, linked by `household_id` | [RHoMIS on Harvard Dataverse](https://doi.org/10.7910/DVN/WS38SA) (CC0) |
 | `niger_oga` | On-farm trials of Oga, a urine-based fertiliser, on pearl millet in Niger, 2014–2016; one row per trial | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
 | `niger_oga_rainfall` | Rainfall during the Oga trials, as published and deliberately untidy, for practising reshaping | [Zenodo](https://doi.org/10.5281/zenodo.4071826) (CC BY 4.0) |
+| `sahel_millet` | Simulated measurements of 344 pearl millet plants, three varieties at three Sahel sites, 2021–2023; a stand-in for `penguins` | Simulated for teaching purposes |
 
 Raw data files for use with other software are available in the
 [`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw)
@@ -96,6 +97,10 @@ measurements are realistic for the two species at these lakes. It has
 been simulated to be like the `iris` or `penguins` data set, but more
 contextually relevant for Kenya. It should not be used as a source
 of empirical claims about flamingo populations in Kenya.
+
+The `sahel_millet` dataset is simulated in the same way: like `penguins`,
+but set in the CRFS (formerly CCRP) West Africa community of practice. The
+variety names are real; the numbers are not measurements of those varieties.
 
 ## Licence
 

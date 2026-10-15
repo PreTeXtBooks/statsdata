@@ -1,0 +1,345 @@
+"variety","site","panicle_length_cm","panicle_girth_mm","plant_height_cm","grain_weight_g","head_miner_damage_pct","fertiliser","year"
+"HKP","Maradi",26.7,26.9,181,45.5,2,"microdose",2021
+"HKP","Maradi",25.6,25.7,189,35.9,19,"none",2021
+"HKP","Maradi",26.7,28.4,188,41.1,9,"microdose",2021
+"HKP","Maradi",NA,NA,NA,NA,NA,NA,2021
+"HKP","Maradi",22.9,26.3,175,24.4,25,"none",2021
+"HKP","Maradi",25.8,25.9,183,37.8,12,"microdose",2021
+"HKP","Maradi",30.6,26.8,189,32.7,5,"none",2021
+"HKP","Maradi",28,26,191,23.4,29,"none",2021
+"HKP","Maradi",30.5,28.2,187,40.1,20,"microdose",2021
+"HKP","Maradi",30.2,27.6,191,33.9,23,"none",2021
+"HKP","Maradi",24.1,24.5,170,23.3,20,"none",2021
+"HKP","Maradi",29.3,27.3,195,29.5,40,"microdose",2021
+"HKP","Maradi",28.1,28.5,187,32.8,9,"microdose",2021
+"HKP","Maradi",26.4,26.5,176,42.4,3,"none",2021
+"HKP","Maradi",30.7,26.6,196,40,16,"microdose",2021
+"HKP","Maradi",23.2,24.9,179,28.2,8,"none",2021
+"HKP","Segou",26.6,27.7,187,27.2,25,"none",2021
+"HKP","Segou",26.3,25.7,188,38.4,0,"none",2021
+"HKP","Segou",30.4,28.2,198,41.6,3,"none",2021
+"HKP","Segou",26,24.8,191,38.3,7,"microdose",2021
+"HKP","Segou",25.1,26,190,23.3,39,"none",2021
+"HKP","Segou",30,26.9,188,39.2,1,"none",2021
+"HKP","Segou",29,27.7,198,34.3,10,"none",2021
+"HKP","Segou",34.2,28.2,194,42.2,17,"microdose",2021
+"HKP","Segou",27,27.9,200,40.1,1,"microdose",2021
+"HKP","Segou",28.5,28.8,182,25.8,23,"none",2021
+"HKP","Segou",24.7,27.6,201,38.9,18,"microdose",2021
+"HKP","Segou",33,27.5,192,42.6,6,"microdose",2021
+"HKP","Segou",27.3,28.2,186,43,3,"none",2021
+"HKP","Segou",27.1,28.4,180,27.6,25,"none",2021
+"HKP","Segou",28.6,26.6,179,38.3,11,"microdose",2021
+"HKP","Segou",31.3,28.5,182,28.1,23,"none",2021
+"HKP","Yatenga",24,27.1,192,40.1,23,"microdose",2021
+"HKP","Yatenga",28.8,28.3,186,47.1,4,"microdose",2021
+"HKP","Yatenga",25.1,25.3,186,31.1,9,"none",2021
+"HKP","Yatenga",31.4,27.4,195,34.4,1,"microdose",2021
+"HKP","Yatenga",28.5,25.8,192,41,6,"microdose",2021
+"HKP","Yatenga",26.1,25.3,191,40.8,3,"none",2021
+"HKP","Yatenga",24.7,27.5,176,33.9,7,"none",2021
+"HKP","Yatenga",28,25.1,186,45.4,15,"microdose",2021
+"HKP","Yatenga",26.5,26.4,178,28.5,17,"none",2021
+"HKP","Yatenga",25.2,26.7,181,40.1,1,"none",2021
+"HKP","Yatenga",24.8,24.8,184,38.8,0,"none",2021
+"HKP","Yatenga",23,27.3,182,32.2,16,"none",2021
+"HKP","Maradi",27.9,25.7,180,29.2,16,"none",2022
+"HKP","Maradi",30.5,27.9,189,14.7,70,"none",2022
+"HKP","Maradi",29.7,27.2,181,30.6,7,"microdose",2022
+"HKP","Maradi",24.8,26.5,186,34.8,1,"none",2022
+"HKP","Maradi",31.7,28.4,210,40.8,5,"microdose",2022
+"HKP","Maradi",30.4,25.9,197,43.9,16,"microdose",2022
+"HKP","Maradi",28.9,27.1,201,34.9,8,"microdose",2022
+"HKP","Maradi",25.4,27.3,202,38.2,6,"microdose",2022
+"HKP","Maradi",29.4,27.3,192,38.4,12,"none",2022
+"HKP","Maradi",25.4,25.9,173,31.3,21,"none",2022
+"HKP","Maradi",28.4,25.7,189,38.9,3,"none",2022
+"HKP","Maradi",32,26.1,195,39,17,"microdose",2022
+"HKP","Maradi",27.5,26.2,196,34.4,1,"none",2022
+"HKP","Maradi",18.4,26.5,186,28.1,0,"none",2022
+"HKP","Maradi",27.6,25.4,170,30.2,15,"none",2022
+"HKP","Maradi",29.4,27.8,196,48.6,4,"none",2022
+"HKP","Maradi",28.4,24.1,189,37,5,"microdose",2022
+"HKP","Maradi",27,25.2,176,40.7,2,"none",2022
+"HKP","Maradi",28.9,24.9,177,29.5,24,"none",2022
+"HKP","Segou",28.8,26.1,193,33.6,5,"none",2022
+"HKP","Segou",28.6,26,176,32.8,3,"none",2022
+"HKP","Segou",27.3,28.2,195,41.4,12,"microdose",2022
+"HKP","Segou",30.4,26.1,183,40.8,9,"none",2022
+"HKP","Segou",23.5,25,185,31.7,10,"none",2022
+"HKP","Segou",27.7,29.4,185,25.6,31,"none",2022
+"HKP","Segou",27.2,26.9,200,38.6,13,"microdose",2022
+"HKP","Segou",24.8,26.1,181,33.9,0,"none",2022
+"HKP","Segou",23.1,26.8,206,38.1,6,"microdose",2022
+"HKP","Segou",27.7,25.6,191,39.9,2,"none",2022
+"HKP","Segou",23.9,26,189,34.9,8,"none",2022
+"HKP","Segou",26.6,25.2,182,38.1,10,"none",2022
+"HKP","Segou",28.4,27.9,197,42,4,"microdose",2022
+"HKP","Segou",27.5,27,185,31.3,4,"none",2022
+"HKP","Segou",31.5,30.1,204,47.2,20,"microdose",2022
+"HKP","Segou",33,28.8,195,32.1,11,"microdose",2022
+"HKP","Segou",27.7,28.1,190,40.9,23,"microdose",2022
+"HKP","Segou",27.8,29.6,193,29.7,7,"none",2022
+"HKP","Segou",31.5,27,194,44.9,5,"microdose",2022
+"HKP","Segou",29.5,27.6,189,34.8,7,"microdose",2022
+"HKP","Segou",33.6,27.6,200,44.7,1,"microdose",2022
+"HKP","Segou",25.3,28.8,189,23.4,37,"none",2022
+"HKP","Segou",29,28.7,199,47.9,1,"microdose",2022
+"HKP","Yatenga",29.3,29,201,46.9,3,"microdose",2022
+"HKP","Yatenga",28.8,27,190,42.7,9,"microdose",2022
+"HKP","Yatenga",28.1,27,195,38.8,22,"microdose",2022
+"HKP","Yatenga",34.8,26.8,186,34.3,11,"none",2022
+"HKP","Yatenga",30.9,26.7,191,31.3,19,"none",2022
+"HKP","Yatenga",29.5,27,177,31,21,"microdose",2022
+"HKP","Yatenga",29,27.8,195,43.1,3,"none",2022
+"HKP","Yatenga",26.1,28.6,202,45.1,5,"microdose",2022
+"HKP","Yatenga",29.3,28.7,191,34.5,10,"none",2022
+"HKP","Yatenga",25.3,27.2,172,37.2,1,"none",2022
+"HKP","Yatenga",27.9,26.7,203,34.8,3,"none",2022
+"HKP","Yatenga",30.5,27.7,193,39.1,2,"none",2022
+"HKP","Maradi",30.8,27.4,186,36.2,4,"none",2023
+"HKP","Maradi",25.7,25.7,173,25.5,21,"none",2023
+"HKP","Maradi",22.7,27.5,186,35.2,6,"none",2023
+"HKP","Maradi",30.3,27.5,188,41.2,0,"microdose",2023
+"HKP","Maradi",26,27.9,196,41,13,"microdose",2023
+"HKP","Maradi",26.7,27,178,36.1,6,"none",2023
+"HKP","Maradi",26,28.2,197,37.4,1,"microdose",2023
+"HKP","Maradi",29.3,25.8,184,42.9,1,"microdose",2023
+"HKP","Maradi",24.8,27.6,189,36.2,9,"none",2023
+"HKP","Maradi",29.9,28.2,194,39.6,19,"microdose",2023
+"HKP","Maradi",19.5,25.9,184,19.8,36,"none",2023
+"HKP","Maradi",26.3,25.9,185,39.4,8,"none",2023
+"HKP","Maradi",28,25.8,191,32.6,0,"none",2023
+"HKP","Maradi",24.1,26.2,191,42,6,"microdose",2023
+"HKP","Maradi",24.1,27.8,189,28.6,7,"none",2023
+"HKP","Maradi",30.3,28.8,200,35.8,6,"microdose",2023
+"HKP","Maradi",20.5,25.4,178,29.2,12,"none",2023
+"HKP","Segou",27.4,24.3,192,27.3,9,"none",2023
+"HKP","Segou",26.3,24.4,173,33.2,1,"none",2023
+"HKP","Segou",27.9,26.5,189,32.9,12,"none",2023
+"HKP","Segou",26,26.4,183,31,15,"none",2023
+"HKP","Segou",27.1,27.1,195,41.1,0,"none",2023
+"HKP","Segou",29.9,28.8,192,39.5,6,"none",2023
+"HKP","Segou",27.5,26,184,32.8,3,"none",2023
+"HKP","Segou",29.4,27.5,187,40.2,15,"microdose",2023
+"HKP","Segou",28.4,27.4,181,39.2,4,"none",2023
+"HKP","Segou",26.2,28.1,195,41.2,2,"microdose",2023
+"HKP","Segou",29.7,28.2,191,32.5,27,"microdose",2023
+"HKP","Segou",29,27.5,175,41.8,12,"none",2023
+"HKP","Segou",25.7,27.7,183,41.2,0,"none",2023
+"HKP","Segou",26.2,25.5,178,39.1,1,"none",2023
+"HKP","Segou",24.5,27,182,38.8,1,"none",2023
+"HKP","Segou",27.8,23,177,39.5,2,"microdose",2023
+"HKP","Segou",24,24.1,173,26,22,"none",2023
+"HKP","Yatenga",28.5,27.4,185,46.8,1,"microdose",2023
+"HKP","Yatenga",22.1,25,191,19,52,NA,2023
+"HKP","Yatenga",25.6,25.9,189,30.8,23,"none",2023
+"HKP","Yatenga",27.1,25.4,186,35.1,3,"none",2023
+"HKP","Yatenga",29.9,27,188,33.5,7,"none",2023
+"HKP","Yatenga",26.4,26.6,196,43.2,0,"microdose",2023
+"HKP","Yatenga",23.8,27,174,42.5,3,"none",2023
+"HKP","Yatenga",28.7,25.9,189,34.2,16,"none",2023
+"HKP","Yatenga",31,27.8,206,35.3,31,NA,2023
+"HKP","Yatenga",21.4,23.6,186,36.5,11,"microdose",2023
+"HKP","Yatenga",30,28,189,45.9,1,"microdose",2023
+"HKP","Yatenga",29.3,26,189,20.2,63,"microdose",2023
+"HKP","Yatenga",27.6,28.9,187,38.5,1,"none",2023
+"HKP","Yatenga",27,25.9,187,31.9,9,"none",2023
+"HKP","Yatenga",31.3,25.6,195,40.1,3,"microdose",2023
+"HKP","Yatenga",31.2,26,193,33.9,6,"none",2023
+"HKP","Yatenga",30,30.1,216,47.2,8,"microdose",2023
+"HKP","Yatenga",27.2,26.4,184,35.4,1,"none",2023
+"HKP","Yatenga",24.5,27.4,198,46,10,"microdose",2023
+"HKP","Yatenga",26.5,26,190,25.9,3,"none",2023
+"ICMV IS 89305","Maradi",40.9,23.5,224,53.6,18,"microdose",2021
+"ICMV IS 89305","Maradi",34.2,22.2,209,51.9,5,"none",2021
+"ICMV IS 89305","Maradi",30.7,21.4,206,47,12,"none",2021
+"ICMV IS 89305","Maradi",38.5,21.7,222,55.4,1,"none",2021
+"ICMV IS 89305","Maradi",38.7,21.8,206,44.2,6,"none",2021
+"ICMV IS 89305","Maradi",36.4,21.7,214,45.6,9,"microdose",2021
+"ICMV IS 89305","Maradi",39.5,21.2,206,46.9,22,"none",2021
+"ICMV IS 89305","Maradi",39.4,22,216,46.1,4,"none",2021
+"ICMV IS 89305","Maradi",35.5,20,211,29.5,41,"none",2021
+"ICMV IS 89305","Maradi",40.4,21.4,208,45.4,17,"none",2021
+"ICMV IS 89305","Maradi",41.5,21.7,218,47.4,2,"none",2021
+"ICMV IS 89305","Maradi",38.7,20.4,208,49.3,16,"none",2021
+"ICMV IS 89305","Maradi",37.6,23.4,218,58.5,15,"microdose",2021
+"ICMV IS 89305","Maradi",39.6,22.3,218,55.2,6,"none",2021
+"ICMV IS 89305","Maradi",36.1,20.4,221,43.2,11,"microdose",2021
+"ICMV IS 89305","Maradi",37,23.3,218,49.5,7,"none",2021
+"ICMV IS 89305","Maradi",34.4,21.2,213,42.7,5,NA,2021
+"ICMV IS 89305","Maradi",33,21.5,225,39.7,28,"none",2021
+"ICMV IS 89305","Maradi",40.3,23.2,218,48.3,3,"microdose",2021
+"ICMV IS 89305","Maradi",41.6,21.6,227,45.7,46,"microdose",2021
+"ICMV IS 89305","Maradi",37,23.4,213,55.1,3,"none",2021
+"ICMV IS 89305","Maradi",41.8,22.9,226,64.7,2,"microdose",2021
+"ICMV IS 89305","Maradi",40.7,23.7,222,54.8,4,"none",2021
+"ICMV IS 89305","Maradi",36.7,21.1,214,54.6,8,"none",2021
+"ICMV IS 89305","Maradi",40.2,22.1,220,41.6,24,"microdose",2021
+"ICMV IS 89305","Maradi",42,23.2,228,57.1,8,"microdose",2021
+"ICMV IS 89305","Maradi",38.5,21.8,209,44.3,4,"none",2021
+"ICMV IS 89305","Maradi",37.3,22.4,224,50.1,1,"none",2021
+"ICMV IS 89305","Maradi",40.2,23.1,224,51,2,NA,2021
+"ICMV IS 89305","Maradi",36.6,23.1,211,53.6,1,"none",2021
+"ICMV IS 89305","Maradi",41.9,21.4,214,42.7,26,NA,2021
+"ICMV IS 89305","Maradi",42.9,22.7,214,56.6,4,"microdose",2021
+"ICMV IS 89305","Maradi",37.9,20.6,212,47.2,27,"none",2021
+"ICMV IS 89305","Maradi",41.6,22.5,225,54.5,11,"microdose",2021
+"ICMV IS 89305","Maradi",42,22.7,212,50.5,41,"microdose",2021
+"ICMV IS 89305","Maradi",37.1,20.1,224,48.5,7,"microdose",2022
+"ICMV IS 89305","Maradi",37.9,23.2,223,51,16,"microdose",2022
+"ICMV IS 89305","Maradi",39.9,22.2,208,49,12,"none",2022
+"ICMV IS 89305","Maradi",36.3,22,208,39.8,3,"none",2022
+"ICMV IS 89305","Maradi",44.4,22.3,218,56.6,4,"none",2022
+"ICMV IS 89305","Maradi",39.4,22.6,217,55.7,2,"microdose",2022
+"ICMV IS 89305","Maradi",38.2,23.1,216,44,46,"microdose",2022
+"ICMV IS 89305","Maradi",38.9,22.9,216,58,10,"microdose",2022
+"ICMV IS 89305","Maradi",34.4,22,225,50.2,18,"microdose",2022
+"ICMV IS 89305","Maradi",41.1,21.1,212,50.9,9,"none",2022
+"ICMV IS 89305","Maradi",29.2,20.8,213,52.5,4,"none",2022
+"ICMV IS 89305","Maradi",38.6,20.6,218,42.3,11,"none",2022
+"ICMV IS 89305","Maradi",38.2,22.9,220,52.5,20,"microdose",2022
+"ICMV IS 89305","Maradi",41.1,22.1,216,46,14,"none",2022
+"ICMV IS 89305","Maradi",41.6,22.2,221,55.2,6,"microdose",2022
+"ICMV IS 89305","Maradi",34.1,23.2,232,54.9,7,"none",2022
+"ICMV IS 89305","Maradi",43,21.7,219,45.6,4,"none",2022
+"ICMV IS 89305","Maradi",38.9,22.2,219,56.8,4,"none",2022
+"ICMV IS 89305","Maradi",41,22.1,220,50.2,0,NA,2022
+"ICMV IS 89305","Maradi",36.8,21.6,219,41.2,41,"microdose",2022
+"ICMV IS 89305","Maradi",40.7,23.8,226,55.7,4,"microdose",2022
+"ICMV IS 89305","Maradi",38.5,22.2,230,46.5,13,"microdose",2022
+"ICMV IS 89305","Maradi",38.1,22.1,225,47.8,28,"microdose",2022
+"ICMV IS 89305","Maradi",37.4,22.8,230,59.3,1,"microdose",2022
+"ICMV IS 89305","Maradi",38.2,20.3,213,52.2,11,"microdose",2022
+"ICMV IS 89305","Maradi",38.6,21.5,218,49.6,7,NA,2022
+"ICMV IS 89305","Maradi",39.8,20.9,204,43.7,19,"microdose",2022
+"ICMV IS 89305","Maradi",42.1,22,231,53.3,28,"microdose",2022
+"ICMV IS 89305","Maradi",38.4,22.8,230,53.7,8,"microdose",2022
+"ICMV IS 89305","Maradi",38.8,21.3,212,41,33,NA,2022
+"ICMV IS 89305","Maradi",42,23.1,232,52.1,1,"microdose",2022
+"ICMV IS 89305","Maradi",36.4,20.7,207,42.6,10,"none",2022
+"ICMV IS 89305","Maradi",39.8,22.1,212,54.2,14,"microdose",2022
+"ICMV IS 89305","Maradi",42,24.4,222,59.6,2,"microdose",2022
+"ICMV IS 89305","Maradi",41.8,22.7,220,64,2,"microdose",2022
+"ICMV IS 89305","Maradi",40.6,22.4,204,49.2,13,"microdose",2022
+"ICMV IS 89305","Maradi",37.2,22.3,214,46.3,12,"none",2022
+"ICMV IS 89305","Maradi",31.9,20.3,216,39.5,9,"none",2022
+"ICMV IS 89305","Maradi",40.1,22.9,231,53.1,7,"none",2022
+"ICMV IS 89305","Maradi",36.9,20.8,216,46.3,6,"none",2022
+"ICMV IS 89305","Maradi",34.3,21.5,217,47.1,25,"microdose",2022
+"ICMV IS 89305","Maradi",34.1,20.2,216,49.3,22,"none",2022
+"ICMV IS 89305","Maradi",45.4,24,224,58.6,15,"none",2022
+"ICMV IS 89305","Maradi",39,20.5,198,49.8,4,NA,2022
+"ICMV IS 89305","Maradi",36.6,21.1,213,52.6,0,"none",2022
+"ICMV IS 89305","Maradi",38.5,22.1,227,53.6,1,"microdose",2022
+"ICMV IS 89305","Maradi",38.9,21.8,220,62.7,3,"microdose",2022
+"ICMV IS 89305","Maradi",39.5,21,224,45.3,11,"none",2022
+"ICMV IS 89305","Maradi",39.8,22.4,214,55,9,"none",2022
+"ICMV IS 89305","Maradi",41.3,22.4,222,44.7,2,"none",2022
+"ICMV IS 89305","Maradi",39.8,23,221,50.7,7,"microdose",2022
+"ICMV IS 89305","Maradi",36.8,21.6,205,51.6,4,"microdose",2023
+"ICMV IS 89305","Maradi",40.3,22.9,221,43.6,26,"none",2023
+"ICMV IS 89305","Maradi",35.3,21.6,213,48.7,15,"microdose",2023
+"ICMV IS 89305","Maradi",36.1,22,222,50.5,4,"none",2023
+"ICMV IS 89305","Maradi",41.6,23.3,215,51.9,11,"none",2023
+"ICMV IS 89305","Maradi",42.3,24,224,53.5,13,"none",2023
+"ICMV IS 89305","Maradi",36,21.3,225,55.5,8,"microdose",2023
+"ICMV IS 89305","Maradi",40.1,22,218,52.4,6,"microdose",2023
+"ICMV IS 89305","Maradi",38.4,21.9,202,42.6,7,"none",2023
+"ICMV IS 89305","Maradi",42.5,21,217,55.4,2,"microdose",2023
+"ICMV IS 89305","Maradi",38,21,219,55.7,6,"microdose",2023
+"ICMV IS 89305","Maradi",42.5,23.5,218,58.7,1,"microdose",2023
+"ICMV IS 89305","Maradi",42.6,21.9,219,43.7,13,"none",2023
+"ICMV IS 89305","Maradi",37.3,22.3,216,52.7,5,"microdose",2023
+"ICMV IS 89305","Maradi",41.5,22.3,224,56.2,5,"none",2023
+"ICMV IS 89305","Maradi",36.1,21.1,223,32.7,41,"none",2023
+"ICMV IS 89305","Maradi",44.6,22.7,206,52.6,10,"microdose",2023
+"ICMV IS 89305","Maradi",33.2,21.2,204,49.8,11,"none",2023
+"ICMV IS 89305","Maradi",38,20.7,229,43.7,9,"none",2023
+"ICMV IS 89305","Maradi",39.7,21.8,212,49,3,"none",2023
+"ICMV IS 89305","Maradi",39.8,22.6,223,51.8,14,"microdose",2023
+"ICMV IS 89305","Maradi",34.1,23,226,45.6,12,NA,2023
+"ICMV IS 89305","Maradi",42.8,22.6,226,62.6,4,"microdose",2023
+"ICMV IS 89305","Maradi",41.1,23.9,230,57.5,0,"microdose",2023
+"ICMV IS 89305","Maradi",36.2,20.9,230,44,15,"none",2023
+"ICMV IS 89305","Maradi",42.2,22,217,45.4,3,"none",2023
+"ICMV IS 89305","Maradi",41.4,22,213,53.7,19,"microdose",2023
+"ICMV IS 89305","Maradi",40.2,23.2,229,62.9,8,"microdose",2023
+"ICMV IS 89305","Maradi",38.2,21.5,224,53.7,4,"microdose",2023
+"ICMV IS 89305","Maradi",40.3,20.5,216,55.1,5,"none",2023
+"ICMV IS 89305","Maradi",39.4,22.1,209,44.9,9,"none",2023
+"ICMV IS 89305","Maradi",40.6,23.1,220,57.7,8,"microdose",2023
+"ICMV IS 89305","Maradi",40,22.6,206,47.8,14,"none",2023
+"ICMV IS 89305","Maradi",NA,NA,NA,NA,NA,NA,2023
+"ICMV IS 89305","Maradi",34.5,21.5,202,51.2,2,"microdose",2023
+"ICMV IS 89305","Maradi",43.3,23.9,226,59.4,10,"microdose",2023
+"ICMV IS 89305","Maradi",38.6,21.2,215,46.5,18,"none",2023
+"ICMV IS 89305","Maradi",44.4,23.6,218,59.3,0,"microdose",2023
+"Souna 3","Segou",39.8,26.8,191,32.5,9,"none",2021
+"Souna 3","Segou",36.7,27.2,193,18.4,47,"none",2021
+"Souna 3","Segou",44.8,28,205,37.9,8,"microdose",2021
+"Souna 3","Segou",34.9,27.3,208,39.6,22,"microdose",2021
+"Souna 3","Segou",41.6,27.4,193,33.7,14,"none",2021
+"Souna 3","Segou",43,30.3,203,43.7,9,"microdose",2021
+"Souna 3","Segou",45.5,28.3,205,35.3,19,"microdose",2021
+"Souna 3","Segou",39,26.4,201,42.4,8,"microdose",2021
+"Souna 3","Segou",36.2,28,207,43.9,2,"microdose",2021
+"Souna 3","Segou",42,27.4,196,25.5,54,"microdose",2021
+"Souna 3","Segou",41.7,27.5,203,32.9,16,"microdose",2021
+"Souna 3","Segou",42.9,28.3,194,36.8,5,"none",2021
+"Souna 3","Segou",39.4,29.3,202,41.3,7,"microdose",2021
+"Souna 3","Segou",42.9,27,186,39,2,"none",2021
+"Souna 3","Segou",38.7,27.4,195,30.2,29,"none",2021
+"Souna 3","Segou",38.8,25.7,202,37.2,8,"microdose",2021
+"Souna 3","Segou",37.5,26.1,199,41,6,"microdose",2021
+"Souna 3","Segou",43.7,27.8,195,35.5,13,"none",2021
+"Souna 3","Segou",40.4,28.3,190,21.7,68,"none",2021
+"Souna 3","Segou",42.7,27.9,193,43.1,12,"microdose",2021
+"Souna 3","Segou",40.2,29.3,202,42.4,1,"microdose",2021
+"Souna 3","Segou",36.7,27.6,181,36.3,1,"none",2021
+"Souna 3","Segou",39,27.7,186,20.8,42,"none",2021
+"Souna 3","Segou",41.2,28.3,199,32.3,23,"microdose",2021
+"Souna 3","Segou",36.8,27.7,181,33.6,1,"none",2021
+"Souna 3","Segou",38.5,28,191,37,9,"microdose",2021
+"Souna 3","Segou",38.8,26.7,192,36.6,8,"none",2021
+"Souna 3","Segou",39,28.1,189,38.6,6,"none",2022
+"Souna 3","Segou",44.1,28.6,198,46.5,4,"microdose",2022
+"Souna 3","Segou",31.1,25.2,171,38.9,4,"none",2022
+"Souna 3","Segou",37.4,26.8,200,40.4,18,"microdose",2022
+"Souna 3","Segou",41.4,27,185,41.1,0,"microdose",2022
+"Souna 3","Segou",39.5,25.6,190,35.9,13,"microdose",2022
+"Souna 3","Segou",36,26.4,191,32.8,27,"none",2022
+"Souna 3","Segou",35.1,26.5,184,31.2,13,"none",2022
+"Souna 3","Segou",42.4,28.2,204,39.8,21,"microdose",2022
+"Souna 3","Segou",38.6,27.5,193,39.2,8,"microdose",2022
+"Souna 3","Segou",42.9,27.1,197,39.4,9,"microdose",2022
+"Souna 3","Segou",41.7,28.6,196,42.2,14,"microdose",2022
+"Souna 3","Segou",35.1,27.2,199,46.2,2,"microdose",2022
+"Souna 3","Segou",40,25.7,193,37.6,0,"none",2022
+"Souna 3","Segou",39.7,25.3,199,32.6,35,"microdose",2022
+"Souna 3","Segou",34,25.5,189,38.1,9,"microdose",2022
+"Souna 3","Segou",38.1,26.9,183,34.2,10,"none",2022
+"Souna 3","Segou",40.5,27,177,36.5,16,"none",2022
+"Souna 3","Segou",38.8,26.3,179,37.4,1,"none",2022
+"Souna 3","Segou",40.1,27.3,203,47.4,4,"microdose",2022
+"Souna 3","Segou",40.2,27.9,193,26.3,28,"none",2022
+"Souna 3","Segou",40.3,27.6,186,25,34,"none",2022
+"Souna 3","Segou",34,24.9,195,26.9,34,"none",2022
+"Souna 3","Segou",36.2,25.6,198,25.8,20,"none",2022
+"Souna 3","Segou",44.3,28,202,42.5,0,"microdose",2023
+"Souna 3","Segou",41.9,25.3,205,40.9,1,"none",2023
+"Souna 3","Segou",39.1,27.6,197,37.6,8,"microdose",2023
+"Souna 3","Segou",41.9,27.7,213,40.7,4,"none",2023
+"Souna 3","Segou",42,25.6,184,39.2,5,"none",2023
+"Souna 3","Segou",34.3,27,193,35.4,7,"none",2023
+"Souna 3","Segou",37.8,27.7,201,34.2,8,"none",2023
+"Souna 3","Segou",40,26.9,207,31.9,27,"microdose",2023
+"Souna 3","Segou",38.1,26.9,197,38.5,1,NA,2023
+"Souna 3","Segou",40.3,26.8,196,34.6,7,"none",2023
+"Souna 3","Segou",33.6,25.3,188,41.4,4,"microdose",2023
+"Souna 3","Segou",37.7,24.2,189,28.4,16,"none",2023
+"Souna 3","Segou",43.5,30.2,201,35.6,19,"microdose",2023
+"Souna 3","Segou",40.7,25.9,194,42.3,1,"microdose",2023
+"Souna 3","Segou",42.1,28.4,194,39,0,"none",2023
+"Souna 3","Segou",41.7,27.7,209,42.2,3,"microdose",2023
+"Souna 3","Segou",39.4,29.4,204,41.5,5,"microdose",2023

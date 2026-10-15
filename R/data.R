@@ -228,3 +228,33 @@
 #' @source As \code{\link{sahel_rhomis}}. See
 #'   \code{data-raw/sahel_levels.R}.
 "sahel_crops"
+
+#' Pearl millet plants in the Sahel (simulated)
+#'
+#' Simulated measurements of 344 pearl millet plants of three varieties,
+#' grown at three sites in the CRFS (formerly CCRP) West Africa community of
+#' practice between 2021 and 2023: Maradi (Niger), Segou (Mali) and Yatenga
+#' (Burkina Faso). Simulated to work like \code{palmerpenguins::penguins}, as
+#' \code{kenya_flamingos} does for Kenya: the varieties are grown unevenly
+#' across sites, panicle length and girth are negatively related overall but
+#' positively within each variety, fertiliser is missing for some plants, and
+#' two plants have no measurements. Head-miner damage lowers grain weight.
+#' The variety names are real; the numbers are not measurements of them.
+#'
+#' @format A tibble with 344 rows and 9 columns:
+#' \describe{
+#'   \item{variety}{HKP (local early millet, Niger), ICMV IS 89305 (improved,
+#'     ICRISAT) or Souna 3 (improved, Senegal)}
+#'   \item{site}{Maradi, Segou or Yatenga}
+#'   \item{panicle_length_cm}{Length of the plant's main head (panicle), in cm}
+#'   \item{panicle_girth_mm}{Diameter of the main head at its widest, in mm}
+#'   \item{plant_height_cm}{Plant height at harvest, in cm}
+#'   \item{grain_weight_g}{Weight of grain threshed from the main head, in g}
+#'   \item{head_miner_damage_pct}{Share of the head's grain lost to the millet
+#'     head miner, in percent}
+#'   \item{fertiliser}{microdose (a small dose of fertiliser placed in the
+#'     planting hole) or none}
+#'   \item{year}{Year the plant was grown}
+#' }
+#' @source Simulated for teaching purposes; see \code{data-raw/sahel_millet.R}.
+"sahel_millet"
