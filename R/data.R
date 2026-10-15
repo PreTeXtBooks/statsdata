@@ -258,3 +258,25 @@
 #' }
 #' @source Simulated for teaching purposes; see \code{data-raw/sahel_millet.R}.
 "sahel_millet"
+
+#' Millet fields, manure and Striga in the Sahel (simulated)
+#'
+#' Simulated records of 100 farmers' millet fields: how much manure each field
+#' was given, its millet yield, how much Striga (witchweed, a parasitic weed)
+#' grew in it, and whether the farmer belongs to a farmer research network
+#' (FRN), as in the CRFS (formerly CCRP) West Africa community of practice.
+#' Manure raises yield and also suppresses Striga, so the two overlap as
+#' explanations of yield: a partial correlation shows Striga's link to yield
+#' survives controlling for manure while manure's does not. The column names
+#' have spaces and capitals, for practising \code{janitor::clean_names()}.
+#'
+#' @format A data frame with 100 rows and 5 columns:
+#' \describe{
+#'   \item{Farmer ID}{Farmer identifier}
+#'   \item{Manure Applied (t/ha)}{Manure applied to the field, in tonnes per hectare}
+#'   \item{Millet Yield (kg/ha)}{Millet grain yield, in kilograms per hectare}
+#'   \item{Striga Count (plants per m2)}{Striga plants per square metre at flowering}
+#'   \item{FRN Member}{Whether the farmer belongs to a farmer research network: Yes or No}
+#' }
+#' @source Simulated for teaching purposes; see \code{data-raw/sahel_striga.R}.
+"sahel_striga"
