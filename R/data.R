@@ -131,7 +131,7 @@
 #' layouts; this dataset puts them together, one row per trial. See
 #' \code{data-raw/niger_oga.R} for exactly what was changed.
 #'
-#' @format A data frame with 810 rows and 11 columns, one row per trial:
+#' @format A tibble with 810 rows and 11 columns, one row per trial:
 #' \describe{
 #'   \item{trial_id}{Trial identifier, assigned for this dataset}
 #'   \item{year}{Year of the trial: 2014, 2015 or 2016}
@@ -181,7 +181,7 @@
 #' level, linked by \code{household_id}. The values are as in
 #' \code{sahel_rhomis}, not cleaned.
 #'
-#' @format A data frame with 1026 rows and 15 columns:
+#' @format A tibble with 1026 rows and 15 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier; links to \code{sahel_crops}}
 #'   \item{country}{burkina_faso, mali or niger}
@@ -211,7 +211,7 @@
 #' \code{\link{sahel_households}} by \code{household_id}. The values are as
 #' in \code{sahel_rhomis}, not cleaned.
 #'
-#' @format A data frame with 2390 rows and 7 columns:
+#' @format A tibble with 2390 rows and 7 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier; links to
 #'     \code{sahel_households}}

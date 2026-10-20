@@ -5,7 +5,7 @@
 \alias{sahel_crops}
 \title{Farm households in Burkina Faso, Mali and Niger: the crop level}
 \format{
-A data frame with 2390 rows and 7 columns:
+A tibble with 2390 rows and 7 columns:
 \describe{
   \item{household_id}{Household identifier; links to
     \code{sahel_households}}
