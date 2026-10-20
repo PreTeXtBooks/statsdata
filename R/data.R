@@ -358,6 +358,87 @@
 #'   Ghana. Zenodo, CC BY 4.0. \doi{10.5281/zenodo.6632083}.
 "ghana_maize"
 
+
+#' News and social media in Ghana: Afrobarometer 2022 and 2024
+#'
+#' A few columns of interest from the Afrobarometer surveys of Ghana in 2022
+#' (Round 9, 2,369 adults) and 2024 (Round 10, 2,400 adults), one row per
+#' person interviewed. The two rounds number their questions differently, so
+#' the columns are matched up by hand, and the few answers the rounds word
+#' differently are given one wording. Answers such as "Refused" and
+#' "Don't know" are kept as answers.
+#'
+#' @format A data frame with 4,769 rows and 17 columns:
+#' \describe{
+#'   \item{id}{Year and respondent number}
+#'   \item{year}{2022 or 2024}
+#'   \item{region, urban_rural}{Where the person was interviewed}
+#'   \item{age, gender, education}{The person interviewed}
+#'   \item{news_radio, news_tv, news_newspaper, news_social_media, news_internet_other}{How often they get news from each source}
+#'   \item{trust_social_media}{How much they trust news from social media}
+#'   \item{internet_use}{How often they use the internet}
+#'   \item{interviewer_age, interviewer_gender}{The interviewer}
+#'   \item{weight}{Survey weight (withinwt_hh), for national estimates}
+#' }
+#' @source Afrobarometer Data, Ghana, Rounds 9 and 10, 2022 and 2024,
+#'   available at \url{http://www.afrobarometer.org}. Redistributed with
+#'   Afrobarometer's permission.
+"ghana_news"
+
+
+#' Afrobarometer Ghana 2024: the people interviewed
+#'
+#' One row per person interviewed in the 2024 Afrobarometer survey of Ghana
+#' (Round 10). Links to \code{\link{ghana_afro_areas}} by \code{area_id} and to
+#' \code{\link{ghana_afro_interviewers}} by \code{interviewer_id}. Together the
+#' three tables split the survey into its levels.
+#'
+#' @format A data frame with 2,400 rows and 15 columns: \code{respondent_id},
+#'   \code{area_id}, \code{interviewer_id}, \code{date} of interview, \code{age},
+#'   \code{gender}, \code{education}, how often they get news from radio, TV,
+#'   newspapers, social media and other internet sources (\code{news_*}),
+#'   \code{trust_social_media}, \code{internet_use}, and the survey
+#'   \code{weight} (withinwt_hh).
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_people"
+
+
+#' Afrobarometer Ghana 2024: the areas visited
+#'
+#' One row per area (enumeration area) visited in the 2024 Afrobarometer
+#' survey of Ghana, with what the field team observed there. The released data
+#' has no area identifier: \code{area_id} is reconstructed by grouping people
+#' who share a district, urban/rural status, area weight and every area-level
+#' observation. That gives 300 areas: 298 with eight people interviewed, one
+#' with nine and one with seven.
+#'
+#' @format A data frame with 300 rows and 19 columns: \code{area_id},
+#'   \code{region}, \code{district}, \code{urban_rural}; services in the area
+#'   (\code{electricity_grid}, \code{piped_water}, \code{sewage},
+#'   \code{mobile_service}, \code{borehole}); facilities (\code{post_office},
+#'   \code{school}, \code{police_station}, \code{health_clinic},
+#'   \code{market_stalls}, \code{bank}, \code{paid_transport}); the
+#'   \code{road_surface} at the starting point and \code{road_condition} over
+#'   the last 5 km; and the area weight \code{weight_area} (withinwt_ea).
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_areas"
+
+
+#' Afrobarometer Ghana 2024: the interviewers
+#'
+#' One row per interviewer in the 2024 Afrobarometer survey of Ghana: 71
+#' interviewers, who carried out between 2 and 54 interviews each.
+#'
+#' @format A data frame with 71 rows and 5 columns: \code{interviewer_id},
+#'   \code{age}, \code{gender}, \code{education}, \code{home_language}.
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_interviewers"
 #' Millet head miner larvae in a field trial in Burkina Faso
 #'
 #' Counts of millet head miner (\emph{Heliocheilus albipunctella}) larvae on
