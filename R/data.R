@@ -86,7 +86,7 @@
 #' source file itself. Each row is one household; up to three crops per
 #' household are in numbered columns.
 #'
-#' @format A data frame with 1026 rows and 30 columns:
+#' @format A tibble with 1026 rows and 30 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier, assigned for this dataset}
 #'   \item{country}{burkina_faso, mali or niger}
