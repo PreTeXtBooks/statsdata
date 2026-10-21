@@ -5,7 +5,7 @@
 \alias{sahel_rhomis}
 \title{Farm households in Burkina Faso, Mali and Niger (RHoMIS)}
 \format{
-A data frame with 1026 rows and 30 columns:
+A tibble with 1026 rows and 30 columns:
 \describe{
   \item{household_id}{Household identifier, assigned for this dataset}
   \item{country}{burkina_faso, mali or niger}

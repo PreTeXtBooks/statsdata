@@ -86,7 +86,7 @@
 #' source file itself. Each row is one household; up to three crops per
 #' household are in numbered columns.
 #'
-#' @format A data frame with 1026 rows and 30 columns:
+#' @format A tibble with 1026 rows and 30 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier, assigned for this dataset}
 #'   \item{country}{burkina_faso, mali or niger}
@@ -131,7 +131,7 @@
 #' layouts; this dataset puts them together, one row per trial. See
 #' \code{data-raw/niger_oga.R} for exactly what was changed.
 #'
-#' @format A data frame with 810 rows and 11 columns, one row per trial:
+#' @format A tibble with 810 rows and 11 columns, one row per trial:
 #' \describe{
 #'   \item{trial_id}{Trial identifier, assigned for this dataset}
 #'   \item{year}{Year of the trial: 2014, 2015 or 2016}
@@ -181,7 +181,7 @@
 #' level, linked by \code{household_id}. The values are as in
 #' \code{sahel_rhomis}, not cleaned.
 #'
-#' @format A data frame with 1026 rows and 15 columns:
+#' @format A tibble with 1026 rows and 15 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier; links to \code{sahel_crops}}
 #'   \item{country}{burkina_faso, mali or niger}
@@ -211,7 +211,7 @@
 #' \code{\link{sahel_households}} by \code{household_id}. The values are as
 #' in \code{sahel_rhomis}, not cleaned.
 #'
-#' @format A data frame with 2390 rows and 7 columns:
+#' @format A tibble with 2390 rows and 7 columns:
 #' \describe{
 #'   \item{household_id}{Household identifier; links to
 #'     \code{sahel_households}}
@@ -387,3 +387,152 @@
 #'   Region, Ghana. PLOS ONE, 9(8), e104053. CC BY 4.0.
 #'   \doi{10.1371/journal.pone.0104053}
 "ghana_dhims_validation"
+#' Road traffic crashes in Ghana by region and crash type
+#'
+#' Crashes recorded in each of Ghana's ten regions (as they were before 2019),
+#' by type of crash, in 2001, 2005, 2010 and 2011, compiled by the National
+#' Road Safety Commission and published on Ghana's open data portal as "The
+#' Nature and Consequences of Road Traffic Crashes of Ghana", one file per
+#' region. The ten files are put together here; values are as published.
+#' "Hit Animal" is recorded only in 2010 and 2011.
+#'
+#' @format A data frame with 420 rows and 8 columns:
+#' \describe{
+#'   \item{region}{Region, from the file name}
+#'   \item{crash_type}{Type of crash, as written (e.g. "Head On", "Hit Pedestrian")}
+#'   \item{year}{Year}
+#'   \item{crashes}{Number of crashes}
+#'   \item{fatal}{Number of those crashes in which someone was killed}
+#'   \item{casualties}{People killed or injured}
+#'   \item{killed, injured}{People killed, and people injured}
+#' }
+#' @source National Road Safety Commission, Ghana, via data.gov.gh (Roads
+#'   Sector, 2019), Creative Commons Attribution. Downloaded from the Internet
+#'   Archive's 2022 copy, as data.gov.gh was unreachable.
+#'   \url{https://data.gov.gh/dataset/nature-and-consequences-road-traffic-crashes}
+"ghana_crashes"
+
+
+#' Road accidents and casualties in five Ghanaian cities, 2011
+#'
+#' Accidents and casualties by severity in Accra, Kumasi, Sekondi Takoradi,
+#' Tema and Tamale in 2011, exactly as published on Ghana's open data portal,
+#' misspelt headers included. It is two tables stacked in one: the accident
+#' rows use \code{Fatal} to \code{Danage}, the casualty rows use \code{Fatal},
+#' \code{Hospilized} and \code{Non-Hospitalized}, and the rest is blank.
+#'
+#' @format A data frame with 10 rows and 8 columns: \code{City},
+#'   \code{Event Type} (Accidents or Casualties), \code{Fatal}, \code{Serious},
+#'   \code{Slight}, \code{Danage} (damage only), \code{Hospilized} and
+#'   \code{Non-Hospitalized}.
+#' @source "Road Accidents and Casualties in Ghana", data.gov.gh. Downloaded
+#'   from the Internet Archive's 2022 copy, as data.gov.gh was unreachable.
+#'   \url{https://data.gov.gh/dataset/road-accidents-and-casualties-ghana}
+"ghana_city_accidents_2011"
+#' News and social media in Ghana: Afrobarometer 2022 and 2024
+#'
+#' A few columns of interest from the Afrobarometer surveys of Ghana in 2022
+#' (Round 9, 2,369 adults) and 2024 (Round 10, 2,400 adults), one row per
+#' person interviewed. The two rounds number their questions differently, so
+#' the columns are matched up by hand, and the few answers the rounds word
+#' differently are given one wording. Answers such as "Refused" and
+#' "Don't know" are kept as answers.
+#'
+#' @format A data frame with 4,769 rows and 17 columns:
+#' \describe{
+#'   \item{id}{Year and respondent number}
+#'   \item{year}{2022 or 2024}
+#'   \item{region, urban_rural}{Where the person was interviewed}
+#'   \item{age, gender, education}{The person interviewed}
+#'   \item{news_radio, news_tv, news_newspaper, news_social_media, news_internet_other}{How often they get news from each source}
+#'   \item{trust_social_media}{How much they trust news from social media}
+#'   \item{internet_use}{How often they use the internet}
+#'   \item{interviewer_age, interviewer_gender}{The interviewer}
+#'   \item{weight}{Survey weight (withinwt_hh), for national estimates}
+#' }
+#' @source Afrobarometer Data, Ghana, Rounds 9 and 10, 2022 and 2024,
+#'   available at \url{http://www.afrobarometer.org}. Redistributed with
+#'   Afrobarometer's permission.
+"ghana_news"
+
+
+#' Afrobarometer Ghana 2024: the people interviewed
+#'
+#' One row per person interviewed in the 2024 Afrobarometer survey of Ghana
+#' (Round 10). Links to \code{\link{ghana_afro_areas}} by \code{area_id} and to
+#' \code{\link{ghana_afro_interviewers}} by \code{interviewer_id}. Together the
+#' three tables split the survey into its levels.
+#'
+#' @format A data frame with 2,400 rows and 15 columns: \code{respondent_id},
+#'   \code{area_id}, \code{interviewer_id}, \code{date} of interview, \code{age},
+#'   \code{gender}, \code{education}, how often they get news from radio, TV,
+#'   newspapers, social media and other internet sources (\code{news_*}),
+#'   \code{trust_social_media}, \code{internet_use}, and the survey
+#'   \code{weight} (withinwt_hh).
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_people"
+
+
+#' Afrobarometer Ghana 2024: the areas visited
+#'
+#' One row per area (enumeration area) visited in the 2024 Afrobarometer
+#' survey of Ghana, with what the field team observed there. The released data
+#' has no area identifier: \code{area_id} is reconstructed by grouping people
+#' who share a district, urban/rural status, area weight and every area-level
+#' observation. That gives 300 areas: 298 with eight people interviewed, one
+#' with nine and one with seven.
+#'
+#' @format A data frame with 300 rows and 19 columns: \code{area_id},
+#'   \code{region}, \code{district}, \code{urban_rural}; services in the area
+#'   (\code{electricity_grid}, \code{piped_water}, \code{sewage},
+#'   \code{mobile_service}, \code{borehole}); facilities (\code{post_office},
+#'   \code{school}, \code{police_station}, \code{health_clinic},
+#'   \code{market_stalls}, \code{bank}, \code{paid_transport}); the
+#'   \code{road_surface} at the starting point and \code{road_condition} over
+#'   the last 5 km; and the area weight \code{weight_area} (withinwt_ea).
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_areas"
+
+
+#' Afrobarometer Ghana 2024: the interviewers
+#'
+#' One row per interviewer in the 2024 Afrobarometer survey of Ghana: 71
+#' interviewers, who carried out between 2 and 54 interviews each.
+#'
+#' @format A data frame with 71 rows and 5 columns: \code{interviewer_id},
+#'   \code{age}, \code{gender}, \code{education}, \code{home_language}.
+#' @source Afrobarometer Data, Ghana, Round 10, 2024, available at
+#'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
+#'   permission.
+"ghana_afro_interviewers"
+#' Millet head miner larvae in a field trial in Burkina Faso
+#'
+#' Counts of millet head miner (\emph{Heliocheilus albipunctella}) larvae on
+#' millet spikes in a field trial at Djibasso and Dori, Burkina Faso, in the
+#' 2021 rainy season. The trial crossed three cropping systems (main plots)
+#' with three pest treatments (sub-plots) in three blocks at each site. Each row
+#' is one spike from a 1 m^2 quadrat in a sub-plot. In the Dori data, the
+#' insecticide plots of the farmers' practice system are all recorded in block 1.
+#'
+#' @format A data frame with 859 rows and 5 columns:
+#' \describe{
+#'   \item{site}{djibasso or dori}
+#'   \item{block}{Block, 1 to 3}
+#'   \item{cropping}{Cropping system: millet (millet alone),
+#'     two_millet_one_cowpea (two rows of millet to one of cowpea) or
+#'     farmer_practice (one cowpea hill between four millet hills)}
+#'   \item{treatment}{Pest treatment: control (none), neem (an aqueous neem
+#'     seed extract, sprayed three times) or insecticide (lambda-cyhalothrin
+#'     and acetamiprid, sprayed twice)}
+#'   \item{larvae}{Number of head miner larvae found on the spike}
+#' }
+#' @source Supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
+#'   Traore, F. and Sanon, A. (2025). Combined effect of millet-cowpea
+#'   intercropping and biopesticide application against \emph{Heliocheilus
+#'   albipunctella} De Joannis (Lepidoptera: Noctuidae) in Burkina Faso.
+#'   PeerJ, 13, e20221. \doi{10.7717/peerj.20221}. CC BY 4.0.
+"burkina_headminer"
