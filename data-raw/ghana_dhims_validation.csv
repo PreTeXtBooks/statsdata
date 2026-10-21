@@ -1,0 +1,50 @@
+district_as_published,indicator,primary,facility,dhims2,total_inspected,error_rate_1,error_rate_2,error_rate_3
+DISTRICT A,Total registrants,264,265,265,266,0.38,0.38,0
+DISTRICT A,Total delivery,935,897,934,937,4.06,0.11,3.95
+DISTRICT A,Total births,938,894,937,940,4.68,0.11,4.57
+DISTRICT A,Total live birth,933,885,929,940,5.11,0.43,4.68
+DISTRICT A,Stillbirths,7,8,8,940,0.11,0.11,0
+DISTRICT A,LBW,33,36,36,940,0.32,0.32,0
+DISTRICT A,Neonatal death,***,***,***,***,***,***,***
+DISTRICT B,Total registrants,1382,1381,1381,1384,0,0,0
+DISTRICT B,Total delivery,543,543,543,545,0,0,0
+DISTRICT B,Total births,545,545,545,547,0,0,0
+DISTRICT B,Total live birth,541,541,541,547,0,0,0
+DISTRICT B,Stillbirths,4,4,4,547,0,0,0
+DISTRICT B,LBW,20,15,15,547,0.91,0.91,0
+DISTRICT B,Neonatal death,7,7,***,1232,0,***,***
+DISTRICT C,Total registrants,1474,1455,1455,1478,1.29,1.29,0
+DISTRICT C,Total delivery,975,917,917,979,5.92,5.92,0
+DISTRICT C,Total births,982,926,926,986,5.68,5.68,0
+DISTRICT C,Total live birth,968,915,915,986,5.38,5.38,0
+DISTRICT C,Stillbirths,14,11,11,986,0.30,0.30,0
+DISTRICT C,LBW,48,29,29,986,1.93,1.93,0
+DISTRICT C,Neonatal death,***,***,***,***,***,***,***
+DISTRICT D,Total registrants,1448,1453,1453,1452,0.34,0.34,0
+DISTRICT D,Total delivery,536,548,548,540,2.22,2.22,0
+DISTRICT D,Total births,540,552,552,544,2.21,2.21,0
+DISTRICT D,Total live birth,536,551,551,544,2.76,2.76,0
+DISTRICT D,Stillbirths,4,1,1,544,0.55,0.55,0
+DISTRICT D,LBW,65,59,59,544,1.10,1.10,0
+DISTRICT D,Neonatal death,***,***,***,***,***,***,***
+DISTRICT E,Total registrants,1362,1421,1421,1364,4.33,4.33,0
+DISTRICT E,Mothers delivered,971,976,976,973,0.51,0.51,0
+DISTRICT E,Babies delivered,986,992,992,988,0.61,0.61,0
+DISTRICT E,Total live birth,957,979,979,988,2.23,2.23,0
+DISTRICT E,Stillbirths,29,13,14,988,1.62,1.52,0.1
+DISTRICT E,LBW,75,49,49,988,2.36,2.36,0
+DISTRICT E,Neonatal death,10,12,***,65,3.08,***,***
+DISTIRCT F,Total registrants,766,762,762,770,0.52,0.52,0
+DISTIRCT F,Mothers delivered,231,247,247,235,6.81,6.81,0
+DISTIRCT F,Babies delivered,233,249,249,237,6.75,6.75,0
+DISTIRCT F,Total live birth,232,248,248,237,6.75,6.75,0
+DISTIRCT F,Stillbirths,1,1,1,237,0,0,0
+DISTIRCT F,LBW,12,12,12,237,0,0,0
+DISTIRCT F,Neonatal death,***,***,***,***,***,***,***
+DISTIRCT G,Total registrants,2294,2342,2342,2298,2.36,2.36,0
+DISTIRCT G,Mothers delivered,1712,1747,1747,1716,2.04,2.04,0
+DISTIRCT G,Babies delivered,1764,1797,1797,1768,1.87,1.87,0
+DISTIRCT G,Total live birth,1682,1748,1748,1768,3.73,3.73,0
+DISTIRCT G,Stillbirths,82,49,49,1768,1.87,1.87,0
+DISTIRCT G,LBW,183,199,199,1768,0.90,0.90,0
+DISTIRCT G,Neonatal death,53,52,52,433,0.23,0.23,0
