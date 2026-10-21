@@ -3,7 +3,8 @@
 ## sahel_rhomis holds two levels of data in one table: one row per household,
 ## with up to three crops in numbered columns. These two datasets split it
 ## into one table per level, linked by household_id, as in Chapter 2 of
-## "An Introduction to Working with Data". Nothing is cleaned: the values are
+## "An Introduction to Working with Data". Both are tibbles, so printing one
+## shows a preview rather than every row. Nothing is cleaned: the values are
 ## exactly those in sahel_rhomis.
 
 library(dplyr)
@@ -13,7 +14,8 @@ load("data/sahel_rhomis.rda")
 
 # One row per household: every column that isn't about a particular crop
 sahel_households <- sahel_rhomis %>%
-  select(!matches("^crop_.*_\\d$"))
+  select(!matches("^crop_.*_\\d$")) %>%
+  tibble::as_tibble()
 
 # One row per crop that a household named. Households named up to three;
 # the empty slots of those that named fewer are dropped.
@@ -26,7 +28,7 @@ sahel_crops <- sahel_rhomis %>%
   ) %>%
   filter(!is.na(crop_name)) %>%
   mutate(crop_number = as.integer(crop_number)) %>%
-  as.data.frame()
+  tibble::as_tibble()
 
 stopifnot(nrow(sahel_households) == 1026, ncol(sahel_households) == 15,
           nrow(sahel_crops) == 2390, ncol(sahel_crops) == 7)
