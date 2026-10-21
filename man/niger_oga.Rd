@@ -5,7 +5,7 @@
 \alias{niger_oga}
 \title{On-farm trials of Oga on pearl millet in Niger, 2014-2016}
 \format{
-A data frame with 810 rows and 11 columns, one row per trial:
+A tibble with 810 rows and 11 columns, one row per trial:
 \describe{
   \item{trial_id}{Trial identifier, assigned for this dataset}
   \item{year}{Year of the trial: 2014, 2015 or 2016}
