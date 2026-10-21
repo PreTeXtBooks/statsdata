@@ -1,0 +1,11 @@
+City,Event Type,Fatal,Serious,Slight,Danage,Hospilized,Non-Hospitalized
+Accra,Accidents,234,529,968,1749,,
+Kumasi,Accidents,78,235,188,262,,
+Sekondi Takoradi,Accidents,16,26,36,62,,
+Tema,Accidents,33,43,56,152,,
+Tamale,Accidents,10,18,15,20,,
+Accra,Casualties,257,,,,745,1746
+Kumasi,Casualties,85,,,,373,435
+Sekondi Takoradi,Casualties,16,,,,36,66
+Tema,Casualties,36,,,,69,126
+Tamale,Casualties,10,,,,29,30

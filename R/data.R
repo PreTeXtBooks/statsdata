@@ -359,6 +359,48 @@
 "ghana_maize"
 
 
+#' Road traffic crashes in Ghana by region and crash type
+#'
+#' Crashes recorded in each of Ghana's ten regions (as they were before 2019),
+#' by type of crash, in 2001, 2005, 2010 and 2011, compiled by the National
+#' Road Safety Commission and published on Ghana's open data portal as "The
+#' Nature and Consequences of Road Traffic Crashes of Ghana", one file per
+#' region. The ten files are put together here; values are as published.
+#' "Hit Animal" is recorded only in 2010 and 2011.
+#'
+#' @format A data frame with 420 rows and 8 columns:
+#' \describe{
+#'   \item{region}{Region, from the file name}
+#'   \item{crash_type}{Type of crash, as written (e.g. "Head On", "Hit Pedestrian")}
+#'   \item{year}{Year}
+#'   \item{crashes}{Number of crashes}
+#'   \item{fatal}{Number of those crashes in which someone was killed}
+#'   \item{casualties}{People killed or injured}
+#'   \item{killed, injured}{People killed, and people injured}
+#' }
+#' @source National Road Safety Commission, Ghana, via data.gov.gh (Roads
+#'   Sector, 2019), Creative Commons Attribution. Downloaded from the Internet
+#'   Archive's 2022 copy, as data.gov.gh was unreachable.
+#'   \url{https://data.gov.gh/dataset/nature-and-consequences-road-traffic-crashes}
+"ghana_crashes"
+
+
+#' Road accidents and casualties in five Ghanaian cities, 2011
+#'
+#' Accidents and casualties by severity in Accra, Kumasi, Sekondi Takoradi,
+#' Tema and Tamale in 2011, exactly as published on Ghana's open data portal,
+#' misspelt headers included. It is two tables stacked in one: the accident
+#' rows use \code{Fatal} to \code{Danage}, the casualty rows use \code{Fatal},
+#' \code{Hospilized} and \code{Non-Hospitalized}, and the rest is blank.
+#'
+#' @format A data frame with 10 rows and 8 columns: \code{City},
+#'   \code{Event Type} (Accidents or Casualties), \code{Fatal}, \code{Serious},
+#'   \code{Slight}, \code{Danage} (damage only), \code{Hospilized} and
+#'   \code{Non-Hospitalized}.
+#' @source "Road Accidents and Casualties in Ghana", data.gov.gh. Downloaded
+#'   from the Internet Archive's 2022 copy, as data.gov.gh was unreachable.
+#'   \url{https://data.gov.gh/dataset/road-accidents-and-casualties-ghana}
+"ghana_city_accidents_2011"
 #' News and social media in Ghana: Afrobarometer 2022 and 2024
 #'
 #' A few columns of interest from the Afrobarometer surveys of Ghana in 2022
