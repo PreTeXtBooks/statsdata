@@ -1,0 +1,757 @@
+"iso3","country","region","income_group","year","population","gdp_per_capita","life_expectancy","under5_mortality","hiv_prevalence","births_skilled","primary_enrolment","poverty_rate"
+"DZA","Algeria","North Africa","Upper middle income",2010,36188236,4912.78585503672,74.144,28.1,0.1,NA,113.807026512965,NA
+"DZA","Algeria","North Africa","Upper middle income",2011,36903376,5916.31364364343,74.383,27.3,0.1,NA,112.733764527322,0
+"DZA","Algeria","North Africa","Upper middle income",2012,37646166,6033.64884689543,74.609,26.6,0.1,NA,112.067747390185,NA
+"DZA","Algeria","North Africa","Upper middle income",2013,38414171,5979.60138960585,74.809,25.9,0.1,96.6,112.336630248486,NA
+"DZA","Algeria","North Africa","Upper middle income",2014,39205031,6094.69392314956,74.992,25.4,0.1,NA,111.144837219297,NA
+"DZA","Algeria","North Africa","Upper middle income",2015,40019529,4685.05902729002,75.159,24.9,0.1,NA,109.584787441309,NA
+"DZA","Algeria","North Africa","Upper middle income",2016,40850721,4424.98529027556,75.31,24.5,0.1,NA,109.072307418092,NA
+"DZA","Algeria","North Africa","Upper middle income",2017,41689299,4554.66753957828,75.431,24,0.1,NA,108.062271942986,NA
+"DZA","Algeria","North Africa","Upper middle income",2018,42505035,4577.21029180491,75.555,23.7,0.1,NA,107.095121871029,NA
+"DZA","Algeria","North Africa","Upper middle income",2019,43294546,4468.45341883656,75.682,23.3,0.1,98.8,106.067513980116,NA
+"DZA","Algeria","North Africa","Upper middle income",2020,44042091,3743.5419522929,73.257,22.9,0.1,NA,108.531941210547,NA
+"DZA","Algeria","North Africa","Upper middle income",2021,44761099,4160.55926736925,75.208,22.6,0.1,NA,104.739764213022,NA
+"DZA","Algeria","North Africa","Upper middle income",2022,45477389,4960.30334332888,76.129,22.3,0.1,NA,105.74715363116,NA
+"DZA","Algeria","North Africa","Upper middle income",2023,46164219,5370.477235078,76.261,22,0.1,NA,105.840748480875,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2010,23294825,4101.63715564669,57.242,83.4,1.7,NA,113.87258174337,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2011,24218352,5184.15269151846,58.093,77.2,1.8,NA,128.386344899029,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2012,25177394,5702.45306277434,58.916,72,1.8,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2013,26165620,5688.57916213471,59.705,67.9,1.8,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2014,27160769,5649.68762467535,60.396,64.5,1.8,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2015,28157798,3641.72893920253,61.042,61.8,1.8,NA,120.580276489258,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2016,29183070,2082.37343594705,61.619,59.6,1.8,49.6,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2017,30234839,2832.14997950512,62.122,57.9,1.8,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2018,31297155,2891.83032378747,62.622,56.5,1.7,NA,NA,39.3
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2019,32375632,2507.86807213642,63.051,55.3,1.7,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2020,33451132,1749.1794838482,63.116,54.2,1.7,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2021,34532429,2266.96834861584,62.958,53.2,1.7,NA,89.2266094661321,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2022,35635029,3598.53669077341,64.246,51.9,1.6,NA,NA,NA
+"AGO","Angola","Sub-Saharan Africa","Lower middle income",2023,36749906,2885.51349130806,64.617,50.5,1.6,NA,86.7353918783767,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2010,9797484,973.244254931526,58.387,107.4,1.1,NA,112.795959472656,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2011,10093623,1059.41358852588,58.462,105.1,1.1,NA,114.723129272461,68.4
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2012,10397657,1071.5258366283,58.559,102.9,1.1,80.9,118.541481018066,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2013,10708834,1168.92699279226,58.863,100.6,1.1,NA,119.383087158203,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2014,11030004,1204.39918670094,59.008,98.4,1,77.2,119.675392150879,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2015,11360681,1002.41886879614,59.123,96.1,1,NA,121.990882873535,65.8
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2016,11697842,1010.5338961993,59.283,94,1,NA,120.301116943359,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2017,12039780,1054.97408066814,59.528,91.8,0.9,NA,116.291519165039,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2018,12383347,1151.7409703472,59.71,89.4,0.9,78.1,111.805068969727,37.2
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2019,12726755,1130.82135339795,59.888,87,0.9,NA,106.798400878906,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2020,13070169,1200.19426557789,60.154,84.6,0.8,NA,104.033172607422,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2021,13413417,1318.65158075198,59.61,82.2,0.8,NA,105.631301879883,27.2
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2022,13759501,1266.42711031904,60.475,79.6,0.7,NA,108.036239624023,NA
+"BEN","Benin","Sub-Saharan Africa","Lower middle income",2023,14111034,1394.17784721831,60.774,77.2,0.7,NA,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2010,2033111,6215.73216077919,59.137,58.4,23,99.1,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2011,2073535,7287.38295334919,59.715,58.8,22.8,99.8,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2012,2108617,6595.53845015424,60.384,53.9,22.7,99.8,107.411979939614,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2013,2140682,6666.91219583487,61.217,50.3,22.4,99.9,105.315561116255,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2014,2172044,7122.36423421503,62.167,49,22.1,99.5,101.616607294624,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2015,2203273,6141.20394726616,63.215,46.7,21.8,99.7,101.623352050781,21.4
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2016,2234776,6749.05994339013,64.32,45.1,21.4,99.7,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2017,2266747,7104.96401088027,65.42,42.1,20.9,99.8,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2018,2299141,7407.95940141786,66.371,41.2,20.3,NA,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2019,2332083,7172.08956480028,67.167,40,19.7,NA,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2020,2365894,6323.2974967659,67.643,38.9,19,NA,NA,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2021,2401441,7807.88794570471,63.303,37.1,18.2,NA,104.619979858398,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2022,2439892,8328.7090572666,68.749,35.7,17.4,NA,109.27325614686,NA
+"BWA","Botswana","Sub-Saharan Africa","Upper middle income",2023,2480244,7827.30027960734,69.163,34.6,16.6,NA,NA,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2010,16176498,624.957252224766,56.343,121.3,1,65.9,76.4055299539171,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2011,16661908,725.024767725475,57.001,116.6,1,NA,79.7322151346571,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2012,17172287,731.470138867833,57.457,112.3,0.9,NA,81.98174251568,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2013,17695409,759.762065168498,57.903,108.2,0.9,NA,83.2890892862992,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2014,18229461,764.861675106225,58.331,104.3,0.8,NA,84.5538716285922,58.7
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2015,18777487,630.124750752312,58.778,100.8,0.8,79.8,85.1484827713554,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2016,19334856,663.742364842886,59.173,97.4,0.8,NA,87.4065255935815,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2017,19894407,709.091535894695,59.578,94.1,0.7,NA,89.5118329042903,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2018,20438288,777.465618514048,59.972,91,0.7,NA,91.5019771306419,47.7
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2019,20961952,764.853077774946,60.184,88.1,0.7,NA,89.7861564043823,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2020,21478690,825.237038782475,60.454,85.1,0.6,NA,87.6988473437538,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2021,21995243,895.535288442991,60.046,82.4,0.6,NA,87.0183353617198,42.1
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2022,22509038,827.330843486661,60.7,79.8,0.6,NA,82.2567064320916,NA
+"BFA","Burkina Faso","Sub-Saharan Africa","Low income",2023,23025776,873.198061670247,61.092,77.4,0.5,NA,72.2385948607578,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2010,9376444,216.727705301976,57.088,90.2,1.6,60.3,135.159734772168,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2011,9717978,230.069761381132,57.804,84.7,1.6,NA,135.992222159155,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2012,10071028,231.098787811507,58.501,79.6,1.5,78.4,131.357142093473,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2013,10439341,234.844770150871,59.179,74.9,1.4,NA,126.110240344608,75.8
+"BDI","Burundi","Sub-Saharan Africa","Low income",2014,10799785,250.544492155185,59.764,70.6,1.4,NA,121.424109579602,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2015,11047580,254.402585226788,60.107,66.9,1.3,NA,116.228128078144,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2016,11239451,232.937812100153,60.789,63.7,1.2,77.6,112.482124155559,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2017,11506762,246.060725714184,61.345,60.9,1.2,79.1,107.55418011941,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2018,11859446,245.661678332009,61.806,58.5,1.1,86.2,104.256445289133,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2019,12255336,234.31061590725,62.18,56.2,1.1,98.6,101.506122486696,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2020,12617036,252.702452750006,62.569,54.3,1,87.4,101.661087301601,74.2
+"BDI","Burundi","Sub-Saharan Africa","Low income",2021,12965481,264.172844085398,62.101,52.3,0.9,76.5,NA,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2022,13321097,301.832255755105,62.882,50.3,0.9,NA,NA,NA
+"BDI","Burundi","Sub-Saharan Africa","Low income",2023,13689450,249.795164039029,63.651,48.7,0.8,NA,NA,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2010,509784,3579.46006137809,72.507,26.7,0.7,98.5,107.555528675325,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2011,511447,4002.01386888785,72.913,25.6,0.7,98.7,107.478306845395,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2012,511955,3736.81517011087,73.315,24.2,0.7,NA,108.38813689184,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2013,512225,3960.97596791345,73.481,22.6,0.7,92.3,108.020740500689,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2014,512326,3985.60706548134,73.788,20.9,0.8,95.6,107.53603339203,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2015,512394,3415.06266730931,74.096,19.2,0.8,91.4,105.850444928795,14.6
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2016,512554,3608.96605234906,74.35,17.6,0.8,92.6,104.433854930994,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2017,512893,3893.09571382506,74.71,16.2,0.8,92.4,104.154022187951,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2018,513415,4294.96510035729,74.84,15.1,0.8,97.3,105.84560911247,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2019,514104,4380.78117331128,75.449,14.1,0.9,NA,105.208665983159,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2020,514679,3539.22661248299,73.818,13.3,0.9,NA,103.42828248778,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2021,516649,3971.44409203423,74.424,12.7,0.9,NA,103.025970530848,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2022,519741,4323.31362032709,75.907,12.1,0.9,NA,102.973013922324,NA
+"CPV","Cabo Verde","Sub-Saharan Africa","Upper middle income",2023,522331,4794.90119772843,76.059,11.6,0.9,NA,NA,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2010,19668066,1398.58702025047,56.965,109.5,4.8,NA,111.23470536902,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2011,20232304,1513.96056994878,57.482,105.2,4.7,56.1,110.019145783217,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2012,20809529,1449.09874362279,58.17,100.8,4.5,NA,114.354228488521,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2013,21402376,1575.92882118897,58.73,96.5,4.3,NA,NA,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2014,22059893,1649.4433905949,59.13,92.4,4.1,64.7,115.30420057953,29
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2015,22763414,1415.00009710569,59.687,88.5,3.9,NA,117.753568320161,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2016,23454161,1441.7201725688,60.293,85.1,3.7,NA,117.173043298412,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2017,24128601,1496.08951771242,60.817,81.9,3.5,NA,111.221389894314,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2018,24806383,1610.69641591017,61.189,78.9,3.4,69,104.334202125375,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2019,25506095,1555.22660476477,61.695,76.6,3.2,NA,106.75480128827,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2020,26210558,1555.60370660749,61.674,74.4,3.1,NA,NA,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2021,26915758,1672.32657340872,61.146,71.9,2.9,NA,110.107790367283,26.7
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2022,27632771,1604.87726954895,62.443,69.4,2.8,NA,112.494636113484,NA
+"CMR","Cameroon","Sub-Saharan Africa","Lower middle income",2023,28372687,1720.47510154506,63.7,67,2.7,NA,114.424832636759,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2010,4492995,476.873786950728,46.871,150.7,4.9,40,81.2789535522461,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2011,4565021,534.057281471636,50.107,125.1,4.6,NA,81.3504028320312,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2012,4610848,544.395849142785,51.336,121.9,4.4,NA,81.9315032958984,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2013,4642419,364.36696260838,49.487,134.2,4.2,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2014,4623182,409.8504859647,40.265,186.8,4,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2015,4629320,366.322853938121,51.934,113.7,3.8,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2016,4713663,387.176203444318,50.999,126.8,3.6,NA,96.8125991821289,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2017,4793511,432.324025684263,45.231,155.2,3.4,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2018,4878657,455.243962859534,52.297,120.2,3.3,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2019,4944703,449.228467602439,31.53,254.7,3.1,40.3,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2020,5026628,462.879071294011,50.596,124.2,3,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2021,5112100,492.263142830507,40.279,178.7,2.8,NA,NA,71.6
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2022,5098039,467.359825026238,18.818,424.6,2.7,NA,NA,NA
+"CAF","Central African Republic","Sub-Saharan Africa","Low income",2023,5152421,495.978897288721,57.408,92.6,2.5,NA,NA,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2010,12312575,1141.80069268412,50.107,146.7,1.7,16.6,80.9052801607022,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2011,12754997,1308.1421872538,50.426,142.9,1.7,NA,87.1710523342165,45.2
+"TCD","Chad","Sub-Saharan Africa","Low income",2012,13210998,1354.34344701937,50.765,139.3,1.6,NA,90.9022846027358,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2013,13691079,1304.88742971475,51.051,135.8,1.5,NA,97.5346820035218,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2014,14188678,1278.78981422494,51.141,132.3,1.5,NA,98.3155212402344,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2015,14647621,993.990730610869,51.32,128.7,1.4,24.3,87.9123364402014,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2016,15114655,861.831767630746,51.603,125,1.4,NA,82.5545773262248,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2017,15622759,854.46120040098,51.875,121.4,1.3,NA,74.213606832584,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2018,16156531,948.656629871231,52.447,117.6,1.2,NA,84.3438820337693,41.9
+"TCD","Chad","Sub-Saharan Africa","Low income",2019,16685223,893.336441643325,52.993,114,1.2,47.2,83.264215851602,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2020,17224679,866.947814890409,53.082,110.6,1.1,NA,NA,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2021,17828273,946.358500208374,53.136,107.3,1.1,NA,86.1454303891421,NA
+"TCD","Chad","Sub-Saharan Africa","Low income",2022,18455316,966.036468278568,54.528,103.9,1,NA,87.0347316780628,39.5
+"TCD","Chad","Sub-Saharan Africa","Low income",2023,19319064,949.991054236266,55.069,100.6,1,NA,88.3436578594334,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2010,654836,1386.57533553376,62.747,55.6,0.1,NA,NA,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2011,668056,1531.43969320468,63.105,54,0.1,NA,111.27509474669,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2012,681630,1490.31425650871,63.463,52.5,0.1,82.2,NA,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2013,696192,1603.32653496691,63.839,51.2,0.1,NA,115.583466369179,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2014,711503,1615.71709756316,64.143,50,0.1,NA,113.579839227082,31.4
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2015,726682,1329.37048235986,64.473,48.9,0.1,NA,NA,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2016,741741,1365.48403444497,64.792,47.9,0.1,NA,NA,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2017,756669,1423.9248027797,65.127,46.9,0.1,NA,106.219296865439,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2018,771590,1540.71132257526,65.401,45.8,0.1,NA,107.061915636176,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2019,786578,1519.26386436068,65.662,44.8,0.1,NA,NA,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2020,802163,1527.16991011916,65.756,43.7,0.1,NA,NA,8.9
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2021,818174,1587.72988658008,65.201,42.6,0.1,NA,86.8175281418913,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2022,834188,1533.87755393614,66.481,41.4,0.1,NA,98.0717926025391,NA
+"COM","Comoros","Sub-Saharan Africa","Lower middle income",2023,850387,1723.89474946474,66.777,40.2,0.1,NA,NA,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2010,68563038,352.400398754692,56.411,101.4,1.3,74.1,92.0860977172852,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2011,70849311,372.514273875789,56.911,98.3,1.2,NA,93.5223922729492,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2012,73254618,409.931424783784,57.35,95.9,1.2,NA,98.2439804077148,78.9
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2013,75789395,460.370334930107,57.795,94.1,1.1,NA,99.9129028320312,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2014,78403242,489.175952097319,58.236,92.7,1.1,80.1,103.857719421387,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2015,81035531,495.826633014883,58.658,91.9,1,NA,102.056510925293,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2016,83956415,459.765036590388,59.081,91.5,1,NA,NA,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2017,87083398,431.052559128788,59.495,91.5,0.9,NA,NA,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2018,90047644,518.169626875371,59.926,91.7,0.9,85.2,111.488670349121,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2019,92947442,504.00419142286,60.242,92.2,0.9,NA,NA,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2020,95989998,486.425572682256,60.428,92.7,0.9,NA,115.898292541504,85.3
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2021,99148932,595.743074403567,60.044,92.9,0.8,NA,120.068450927734,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2022,102396968,687.738587554685,60.979,92.5,0.8,NA,NA,NA
+"COD","Congo, Dem. Rep.","Sub-Saharan Africa","Low income",2023,105789731,660.21205238997,61.895,91.3,0.8,NA,117.602096557617,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2010,4462290,2946.55798067708,61.731,62.4,3.4,NA,109.023651123047,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2011,4609724,3396.16505817952,62.286,60,3.4,NA,108.505096435547,39.2
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2012,4740450,3732.32737320389,62.662,57.9,3.3,92.5,105.514228820801,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2013,4857099,3697.41705884249,62.969,56.2,3.3,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2014,4975880,3601.2365808718,63.349,54.5,3.3,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2015,5097581,2439.35189403696,63.662,52.7,3.2,91.2,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2016,5222536,2093.10728558843,63.911,51,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2017,5351011,2211.63309874797,64.203,49.3,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2018,5483118,2694.43413191427,64.472,47.6,3.2,NA,87.4621124267578,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2019,5616661,2488.42466724916,63.152,52.2,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2020,5752791,1993.586671931,64.391,44.5,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2021,5892183,2516.16255145432,64.192,43,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2022,6035104,2620.83804267402,65,41.5,3.2,NA,NA,NA
+"COG","Congo, Rep.","Sub-Saharan Africa","Lower middle income",2023,6182885,2477.97845544866,65.772,40.3,3.2,NA,87.880241394043,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2010,22488065,1553.54887048143,55.282,101.6,3.6,NA,NA,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2011,22982000,1596.62826565998,55.972,98.4,3.4,NA,73.5641637291114,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2012,23467078,1546.9460184731,56.57,95.3,3.2,59.4,78.2860585898227,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2013,23939775,1786.15862031324,57.057,92,3.1,NA,80.7498463265361,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2014,24527395,1991.36539423404,57.772,88.6,2.9,NA,83.7491033587174,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2015,25246342,1814.71855088017,58.281,85.5,2.7,NA,85.262803745883,46.6
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2016,25989405,1862.59597081287,58.814,83,2.6,73.6,87.9691851681795,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2017,26733372,1964.29930338343,59.315,80.5,2.5,NA,88.2052011132348,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2018,27464173,2130.86619381144,59.795,77.9,2.3,NA,88.210939705148,21.7
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2019,28193009,2141.76836170115,60.274,75.3,2.2,NA,88.4747670564693,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2020,28915449,2179.72934832935,60.14,73,2.1,NA,88.6266598469541,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2021,29639736,2455.98127641148,60.29,70.8,2,84,85.830088505202,20.8
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2022,30395002,2333.37128301259,61.562,68.7,1.9,NA,86.4545838787778,NA
+"CIV","Cote d'Ivoire","Sub-Saharan Africa","Lower middle income",2023,31165654,2591.9659048119,61.944,66.5,1.8,NA,91.8093412241399,NA
+"DJI","Djibouti","North Africa","Lower middle income",2010,930251,1213.23352553429,60.743,75.5,2.5,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2011,948558,1306.34552844977,61.337,73.4,2.4,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2012,966747,1400.19357858954,61.719,71.3,2.2,87.4,NA,26.4
+"DJI","Djibouti","North Africa","Lower middle income",2013,984824,2075.94498424748,62.116,69.2,2,NA,NA,31.2
+"DJI","Djibouti","North Africa","Lower middle income",2014,1002717,2214.62084142432,62.427,67.2,1.9,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2015,1020313,2376.12554719873,62.833,65.2,1.7,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2016,1037653,2510.4300076241,63.335,63.2,1.6,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2017,1054841,2618.95521147369,63.71,61.2,1.5,NA,NA,25.4
+"DJI","Djibouti","North Africa","Lower middle income",2018,1071882,2718.08338799203,64.105,59.4,1.4,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2019,1088709,2837.16902340932,64.381,57.5,1.3,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2020,1105188,2844.88810647853,64.2,55.7,1.2,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2021,1121248,3025.91126413549,63.83,54,1.1,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2022,1137096,3133.25779772463,65.54,52.1,1,NA,NA,NA
+"DJI","Djibouti","North Africa","Lower middle income",2023,1152944,3381.29779710722,65.987,50.5,1,NA,NA,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2010,89196072,2455.08194645282,69.078,30.5,0.1,NA,90.9477588784227,1.5
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2011,91093059,2590.64384891965,69.232,29.5,0.1,NA,87.469737936967,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2012,93161001,2996.0677072015,69.464,28.6,0.1,NA,91.8601632814812,1.2
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2013,95333553,3025.52563552448,69.632,27.8,0.1,NA,91.5819650596849,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2014,97528654,3133.39102265541,69.911,27.1,0.1,91.5,89.1874065189482,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2015,99597342,3306.98159414141,70.135,26.5,0.1,NA,NA,1.2
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2016,101644589,3270.6287768197,70.437,26,0.1,NA,90.1130487612999,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2017,103696057,2395.10333299491,70.709,25.6,0.1,NA,90.6515125272044,3.1
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2018,105682094,2484.70315630508,70.974,25.2,0.1,NA,92.6909066089532,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2019,107553158,2962.98892023003,71.213,24.8,0.1,NA,94.2500854039165,2
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2020,109315124,3511.11381026379,69.79,24.4,0.1,NA,95.6433012164233,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2021,110957008,3827.35415374308,68.976,24,0.1,97.1,97.0010583504222,1.4
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2022,112618250,4233.30783744856,71.01,23.5,0.1,NA,89.5100870340285,NA
+"EGY","Egypt, Arab Rep.","North Africa","Lower middle income",2023,114535772,3456.78965212363,71.633,22.9,0.1,NA,95.9217069393801,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2010,1189085,13720.1658723222,58.344,109.4,NA,NA,56.0219993591309,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2011,1241835,17198.2136668275,58.827,105.6,NA,68.3,54.6865997314453,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2012,1293483,17308.5723924575,59.301,102,NA,NA,54.9725494384766,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2013,1346218,16304.0713196418,59.784,98.6,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2014,1399828,15548.6624656619,60.228,95.3,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2015,1453923,9068.91003238645,60.635,92.1,NA,NA,47.5486488342285,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2016,1508186,7453.19797948517,61.081,89,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2017,1562396,7809.10465655488,61.481,86.1,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2018,1616422,8102.47084834031,61.915,83.2,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2019,1670177,6804.14923073888,62.297,80.7,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2020,1716468,5764.05502912947,62.141,77.9,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2021,1758786,6945.63069794539,62.447,75.1,NA,NA,NA,NA
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2022,1803545,7589.29964909381,63.355,72.8,NA,NA,NA,8.8
+"GNQ","Equatorial Guinea","Sub-Saharan Africa","Upper middle income",2023,1847549,6788.35271638376,63.707,70.4,NA,NA,NA,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2010,2945186,539.699512069686,63.665,55.2,1,34.1,73.636848449707,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2011,2998485,688.68165957684,64.231,53.3,1,NA,79.17431640625,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2012,3036988,NA,64.697,51.4,0.9,NA,82.6438980102539,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2013,3074360,NA,65.005,49.7,0.8,NA,92.6765518188477,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2014,3095173,NA,65.517,48.1,0.8,NA,83.275146484375,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2015,3105546,NA,65.909,46.4,0.7,NA,82.3669509887695,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2016,3124698,NA,66.242,44.7,0.7,NA,NA,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2017,3150347,NA,66.612,43.3,0.6,NA,78.3494720458984,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2018,3192760,NA,66.979,41.9,0.6,NA,78.7916488647461,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2019,3240194,NA,67.306,40.5,0.6,NA,NA,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2020,3291271,NA,66.98,39.1,0.5,NA,NA,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2021,3350183,NA,66.94,37.8,0.5,NA,NA,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2022,3409447,NA,67.789,36.6,0.5,NA,89.7312469482422,NA
+"ERI","Eritrea","Sub-Saharan Africa","Low income",2023,3470390,NA,68.624,35.4,0.4,NA,NA,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2010,1111650,3922.74039390733,48.331,82.1,28,82,123.160533409574,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2011,1117833,4225.06049411911,49.057,67.6,28.4,NA,122.704797199075,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2012,1123863,4224.54789174487,50.714,62.7,28.8,NA,122.64780160954,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2013,1129990,3949.94310039907,52.11,59.7,29.2,NA,122.925602493288,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2014,1136299,3771.07228381938,53.491,60,29.4,88.3,123.990655603286,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2015,1142813,3419.82276559528,54.941,57.5,29.3,NA,124.645792886943,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2016,1149507,3238.17611961364,56.228,54.4,29,NA,123.849988082778,44.5
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2017,1158195,3853.09956569679,57.574,53.6,28.6,NA,123.79425580389,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2018,1168929,3972.65450620357,58.707,50.4,28.1,NA,123.906487641965,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2019,1179874,3913.14577547336,59.85,51.5,27.6,NA,123.596847259682,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2020,1192729,3466.56936278145,59.862,50.5,26.9,NA,NA,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2021,1206593,3984.00229174306,58.228,47.9,26.1,NA,NA,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2022,1218917,3894.1620089869,63.028,47.3,25.2,NA,117.195740765085,NA
+"SWZ","Eswatini","Sub-Saharan Africa","Lower middle income",2023,1230506,3755.52111232464,64.123,46.2,24.3,NA,116.527002594136,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2010,90538514,330.619412798644,59.709,82.7,1.4,NA,88.511037030714,37.4
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2011,93149970,343.024942351887,60.595,78.6,1.3,10,90.6282577514648,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2012,95798767,452.101031885754,61.443,74.8,1.3,NA,89.9253221073517,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2013,98438751,484.039833104062,62.161,71.2,1.2,23.1,NA,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2014,101115610,549.986577082588,62.927,67.7,1.2,15.5,93.1145890062913,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2015,103867135,597.912113218663,63.592,64.4,1.1,NA,94.0857534729235,33
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2016,106718162,641.651523286233,64.162,61.3,1.1,27.7,NA,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2017,109666481,696.348429076216,64.766,58.4,1,NA,101.223991472845,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2018,112664152,739.702022272086,65.257,55.8,1,NA,NA,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2019,115737383,793.473247218996,65.741,53.6,0.9,49.8,NA,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2020,118917671,829.790982552951,65.969,51.5,0.9,NA,112.6701710274,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2021,122138588,893.009835441784,65.33,70.4,0.8,NA,101.338920969252,38.6
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2022,125384287,982.103161502198,66.897,68.1,0.8,NA,84.6317733971345,NA
+"ETH","Ethiopia","Sub-Saharan Africa","Low income",2023,128691692,1055.81091593061,67.315,51.5,0.7,NA,83.7319745881618,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2010,1719879,8356.74662013345,64.715,53.4,4.3,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2011,1781985,10219.1139339454,65.102,51.3,4.2,NA,129.775996342797,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2012,1846889,9296.96587941088,65.438,49.4,4.1,89.3,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2013,1913059,9197.70106323947,65.751,47.3,4,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2014,1978399,9201.36276648105,66.07,45.8,4,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2015,2040989,7047.12654634355,66.336,44.4,3.9,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2016,2100306,6677.07003901644,66.583,42.7,3.8,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2017,2156900,6921.73373135624,66.816,41.4,3.7,NA,NA,3.8
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2018,2212318,7624.2775233771,67.043,39.9,3.6,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2019,2267706,7441.1786472281,67.337,38.5,3.4,NA,100.171603677222,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2020,2322539,6605.80346077904,67.073,36.8,3.3,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2021,2376722,8181.40914134398,67.072,35.8,3.2,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2022,2430747,8409.20741452279,67.713,34.7,3,NA,NA,NA
+"GAB","Gabon","Sub-Saharan Africa","Upper middle income",2023,2484789,7802.82433276138,68.337,33.8,2.9,NA,NA,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2010,1926630,801.033372714536,61.167,72.7,2,56.1,73.4599827384096,34.2
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2011,1983784,710.608411468152,61.561,69.7,2,NA,72.1906633471926,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2012,2043094,692.579361628102,61.9,66.8,2,NA,75.4592652374635,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2013,2103820,653.862713272743,62.252,64,1.9,57.2,77.5318910077468,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2014,2164528,568.00453558864,62.576,61.4,1.9,NA,80.6712752410406,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2015,2224529,619.536364296461,62.971,58.9,1.9,NA,83.6767800021667,17.1
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2016,2283769,650.056501323611,63.386,56.6,1.8,NA,85.4968152866242,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2017,2342189,642.522641296331,63.708,54.3,1.8,NA,88.6915742090233,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2018,2399632,696.219806960615,64.034,52.3,1.7,82.7,91.4803276676529,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2019,2456844,738.186751987483,64.427,50.4,1.6,NA,95.0965771907399,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2020,2515733,720.335143352133,64.418,48.6,1.6,83.8,96.8827026600674,22
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2021,2576010,781.890925169531,63.847,47,1.5,NA,96.3235417651704,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2022,2636470,836.244875868476,64.859,45.3,1.4,NA,97.2781723362608,NA
+"GMB","Gambia, The","Sub-Saharan Africa","Low income",2023,2697845,883.024111978927,65.86,43.8,1.4,NA,98.7359670428779,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2010,25474995,1263.89251760539,61.297,66.5,1.9,NA,NA,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2011,26095088,1507.43573198753,61.617,63.3,1.9,67.2,99.4130783081055,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2012,26734268,1543.77524235764,61.995,60.3,1.9,NA,102.068698169955,41.8
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2013,27386193,2294.79584693743,62.397,57.5,1.9,NA,101.089456129828,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2014,28041592,1949.90832923846,62.832,54.9,1.8,70.8,99.5600865756332,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2015,28696068,1722.77282833606,63.175,52.5,1.8,NA,103.213138177351,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2016,29356742,1912.47991339951,63.522,50.3,1.8,NA,101.751107525308,39
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2017,30008354,2012.28662641265,63.829,48.2,1.7,78.1,100.478896703055,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2018,30637585,2195.32166016377,64.138,46.1,1.7,78.9,98.6813906905268,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2019,31258945,2186.65822682613,64.455,44.1,1.7,NA,99.8750321985622,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2020,31887809,2195.45481659987,64.309,42.2,1.6,NA,98.4048952723908,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2021,32518665,2445.18662529344,64.286,40.3,1.6,NA,99.4509436572472,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2022,33149152,2229.89122654479,65.246,38.6,1.6,NA,98.2318953247047,NA
+"GHA","Ghana","Sub-Saharan Africa","Lower middle income",2023,33787914,2383.90410476221,65.498,37.2,1.5,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2010,10396086,659.235326211315,56.431,122.2,1.7,NA,85.6168670654297,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2011,10656810,636.694958747648,56.778,120.3,1.7,NA,89.3744888305664,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2012,10921581,699.353377212197,57.117,118.4,1.7,45.3,91.4924621582031,21.3
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2013,11191873,748.455020824734,57.459,116.6,1.7,NA,93.5301284790039,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2014,11472924,765.146999389279,57.581,115.4,1.7,NA,95.1517791748047,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2015,11767070,747.356966759448,57.899,113.7,1.7,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2016,12073030,711.996509782316,58.49,111.4,1.6,62.7,93.1132583618164,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2017,12385659,833.598621691121,58.715,109.5,1.6,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2018,12704774,933.273615633705,59.043,107.5,1.6,55.3,NA,11.7
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2019,13034346,1031.34146480732,59.379,105.4,1.5,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2020,13371183,1053.66097696415,59.35,102.9,1.5,NA,100.474517822266,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2021,13710513,1244.96550477914,59.373,100.3,1.5,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2022,14055137,1416.59612011764,60.432,97.6,1.4,NA,NA,NA
+"GIN","Guinea","Sub-Saharan Africa","Lower middle income",2023,14405468,1555.49375806861,60.74,95,1.4,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2010,1566347,600.194298540768,56.999,114.3,4,43,113.436782836914,75.7
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2011,1608076,719.539573498937,57.663,108.6,3.8,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2012,1651417,635.461653303881,58.27,103.6,3.7,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2013,1695973,654.304534409417,58.879,99.1,3.6,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2014,1741122,652.022501029449,59.476,95.2,3.4,45,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2015,1786457,645.066837207039,60.071,91.6,3.3,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2016,1831893,679.665386626818,60.619,88.2,3.2,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2017,1877072,783.123186602022,61.148,85.1,3,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2018,1922168,808.531613218504,61.652,82.2,2.9,NA,NA,37.1
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2019,1967696,811.210004050041,62.161,79.5,2.8,53.8,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2020,2013255,846.918134967613,61.343,76.7,2.7,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2021,2058841,926.54619187706,61.653,74.3,2.5,NA,NA,39.9
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2022,2105529,881.602654162231,63.605,72,2.4,NA,NA,NA
+"GNB","Guinea-Bissau","Sub-Saharan Africa","Low income",2023,2153339,964.431832665395,64.085,69.7,2.3,NA,NA,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2010,41598567,1091.51873101194,60.915,53.1,5.5,NA,NA,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2011,42758461,1096.14499807675,61.283,51.7,5.3,NA,NA,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2012,43888303,1285.00536171512,61.537,50.7,5.2,NA,111.422226680456,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2013,44986791,1370.87885214659,61.729,49.4,5,NA,NA,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2014,46051440,1482.81566253497,61.99,48.3,4.9,61.8,107.141220092773,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2015,47088526,1489.11959777284,62.279,46.8,4.7,NA,104.780090332031,37.7
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2016,48139687,1554.12610314423,62.526,45.5,4.5,70.2,104.114852905273,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2017,49197766,1667.48447230835,62.725,44.7,4.3,NA,101.957891317521,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2018,50207107,1836.45275528993,62.825,43.7,4.1,NA,99.770420205161,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2019,51202827,1960.40808854893,62.939,42.7,3.9,NA,77.5132254988803,NA
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2020,52217334,1927.66459027849,61.596,42.1,3.7,NA,91.9542486020668,44.4
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2021,53219166,2061.35622089594,61.225,41.3,3.6,NA,93.7669067632864,46.4
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2022,54252461,2109.56288513137,63.549,40.5,3.4,NA,98.551967362001,45.5
+"KEN","Kenya","Sub-Saharan Africa","Lower middle income",2023,55339003,1942.58802756191,63.646,39.6,3.2,NA,98.2483475806861,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2010,1996251,1119.47557793042,46.045,90.9,24.8,NA,118.573860412332,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2011,2014009,1280.73390931581,46.93,85.2,24.9,NA,117.181528807654,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2012,2034354,1217.93071228944,48.235,81.4,24.9,NA,115.307928873959,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2013,2056504,1151.03735837227,49.547,79.3,24.9,NA,110.493088742815,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2014,2080089,1173.5377928819,50.786,77.6,24.7,77.9,107.843876685208,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2015,2104611,1121.19851342518,51.83,75.1,24.3,NA,105.217264805575,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2016,2130422,992.491840678465,52.908,71.4,23.8,NA,104.249373647237,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2017,2157110,1069.36673247542,53.874,70.1,23.1,NA,105.559253372505,41.9
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2018,2183603,1170.65569702819,54.638,68.8,22.3,86.6,96.0052004309251,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2019,2209405,1082.05706777516,55.249,68.1,21.5,NA,91.2787382569656,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2020,2235727,918.582574704447,55.133,66.3,20.7,NA,87.7447358699667,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2021,2261542,1066.58645143823,54.209,64,19.8,NA,85.0366186011239,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2022,2286110,1030.12582947757,56.812,62,18.9,NA,83.6343022439557,NA
+"LSO","Lesotho","Sub-Saharan Africa","Lower middle income",2023,2311472,921.435141557056,57.375,61.3,18,NA,81.6412239707352,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2010,4058890,492.252808033724,59.358,105.7,1.7,NA,NA,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2011,4221178,568.087865520004,59.486,102.4,1.6,NA,100.745734764563,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2012,4373043,638.368751462083,59.785,99.5,1.6,NA,NA,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2013,4470239,710.744570927863,59.992,97,1.5,61.1,52.1977055032725,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2014,4564293,706.714490064507,59.21,97,1.4,NA,92.5530201850852,31.7
+"LBR","Liberia","Sub-Saharan Africa","Low income",2015,4659431,692.590082351257,59.248,93.2,1.4,NA,89.990046454263,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2016,4755608,714.613063145659,60.483,91.5,1.3,NA,83.8891158492465,33.6
+"LBR","Liberia","Sub-Saharan Africa","Low income",2017,4848925,699.269095727404,60.777,90.3,1.3,NA,79.5952338903314,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2018,4944726,692.203127129794,60.999,89.4,1.2,NA,NA,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2019,5043721,658.164180770507,61.232,88.7,1.2,NA,NA,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2020,5149463,616.787867006715,61.267,88.3,1.1,84.4,72.4228278801865,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2021,5259323,667.96610514319,61.166,88,1.1,NA,67.4627150781073,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2022,5373294,744.617175237387,61.934,87.8,1,NA,66.5939255094706,NA
+"LBR","Liberia","Sub-Saharan Africa","Low income",2023,5493031,799.194470229642,62.163,87.3,1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2010,6497839,11600.9068649472,72.196,16.6,0.1,99.9,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2011,6343203,7593.8391525702,69.95,19.6,0.1,99.9,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2012,6179328,14975.8902795144,72.188,15,0.1,99.9,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2013,6304628,11951.7134126011,72.339,14.4,0.1,99.9,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2014,6427252,8926.42074591474,71.3,13.8,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2015,6531819,7458.48917756374,71.644,13.3,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2016,6632126,7525.80299308216,71.799,12.8,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2017,6738770,9965.83236729757,72.721,12.4,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2018,6849055,11196.5854810844,73.151,11.9,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2019,6951033,9963.19489084483,72.941,11.6,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2020,7045399,6650.33810585348,72.388,11.2,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2021,7135175,4935.82787349801,72.062,10.8,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2022,7223805,5986.63694851258,74.462,10.4,0.1,NA,NA,NA
+"LBY","Libya","North Africa","Upper middle income",2023,7305659,6026.51518708812,69.339,31.7,0.1,NA,NA,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2010,22183340,450.009391645726,62.597,70.3,0.2,NA,135.673193203157,65.3
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2011,22822300,506.163691559309,62.86,68.6,0.2,NA,135.663024043331,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2012,23462438,493.511162904211,63.007,67.3,0.2,NA,136.435592632075,67.3
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2013,24109290,515.301589361832,63.161,66.4,0.2,44.3,136.436484265628,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2014,24764348,505.684922503435,63.261,65.7,0.3,NA,137.445786724101,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2015,25426702,445.320069480568,63.362,65.3,0.3,NA,138.833200771878,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2016,26099952,453.970714522463,63.431,64.9,0.3,NA,134.676592456536,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2017,26788375,491.866848718929,63.433,64.9,0.3,NA,139.186670285989,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2018,27494926,500.45718552916,63.491,64.9,0.3,46.1,132.689298160896,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2019,28219554,499.818837622534,63.504,65,0.3,NA,124.946579330031,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2020,28953556,450.771615205157,62.706,65.1,0.3,NA,126.585803806645,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2021,29691083,483.469463351195,62.516,65,0.4,45.8,140.2656625108,69.2
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2022,30437261,504.059106969168,63.068,64.5,0.4,NA,132.887817840118,NA
+"MDG","Madagascar","Sub-Saharan Africa","Low income",2023,31195932,514.064076551927,63.632,63.6,0.4,NA,130.599039642521,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2010,14826463,683.124694716799,57.787,80.1,10.7,71.4,135.953379497131,72.9
+"MWI","Malawi","Sub-Saharan Africa","Low income",2011,15265022,763.061000394572,58.859,74,10.5,NA,136.570114875395,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2012,15709577,558.46208832772,59.87,67.9,10.3,NA,136.603950137451,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2013,16161816,496.947368267313,60.816,62.9,10.1,NA,140.88915082399,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2014,16621538,529.5133440206,61.651,60,9.9,87.4,140.734554498983,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2015,17085587,539.605363240686,62.324,57.4,9.6,NA,139.547593190997,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2016,17557739,450.506105510719,63.163,55.8,9.4,89.8,137.823026920131,71.7
+"MWI","Malawi","Sub-Saharan Africa","Low income",2017,18039715,495.769683367165,63.914,53.8,9,NA,139.233233518644,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2018,18528081,533.202567189331,64.464,52,8.7,NA,136.723876953125,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2019,19025752,580.889139762475,64.995,51.3,8.3,NA,139.274520404398,75.4
+"MWI","Malawi","Sub-Saharan Africa","Low income",2020,19533888,602.507478176106,65.216,50.4,7.9,96.4,136.43618677975,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2021,20047258,617.446994451007,64.782,50,7.4,NA,127.042360318779,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2022,20568728,604.269740360317,66.037,50.1,7,NA,126.587758962955,NA
+"MWI","Malawi","Sub-Saharan Africa","Low income",2023,21104482,633.214767978695,67.353,49.6,6.6,NA,135.974440781822,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2010,15945198,797.151541141189,55.993,133.8,1.3,28.1,78.2843194478002,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2011,16469049,938.292902579598,56.367,128.8,1.3,NA,78.6656430079497,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2012,16957033,872.506092463946,56.696,123.9,1.3,NA,75.3898048541622,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2013,17459615,901.920957649814,57.052,119.1,1.2,58.6,70.8734283447266,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2014,18020267,947.915033293219,57.482,114.4,1.2,NA,71.8215759998762,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2015,18593022,838.11986940103,57.852,109.7,1.2,43.7,70.5209747052129,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2016,19191289,872.468587171653,58.286,105.1,1.1,NA,71.8693090094813,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2017,19813011,924.057531692284,58.562,100.6,1.1,NA,74.6733759399248,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2018,20442030,996.379292136901,58.873,96.2,1,67.3,70.3689604909815,29.4
+"MLI","Mali","Sub-Saharan Africa","Low income",2019,21068405,971.949318638092,59.217,91.9,1,NA,NA,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2020,21713836,953.242943290974,58.858,87.6,0.9,NA,NA,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2021,22388630,1027.27345365357,59.116,83.6,0.9,NA,NA,36.1
+"MLI","Mali","Sub-Saharan Africa","Low income",2022,23072640,976.914116406452,60.035,79.7,0.8,NA,NA,NA
+"MLI","Mali","Sub-Saharan Africa","Low income",2023,23769127,1042.44223444837,60.439,76.2,0.8,NA,72.7972336510107,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2010,3390965,1659.96369705455,65.661,56.8,0.5,NA,97.8571652188966,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2011,3502811,1931.19975525465,65.754,55.1,0.4,65.1,95.4359624506773,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2012,3619034,1859.11733247641,65.808,53.5,0.4,NA,94.9017954032329,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2013,3734318,1936.26950446101,65.89,52.1,0.4,NA,93.6377057031555,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2014,3848514,1718.97089374709,66.207,50.6,0.3,NA,93.9026961891851,11.7
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2015,3965959,1558.84205473416,66.498,49.1,0.3,69.3,96.699365333097,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2016,4086657,1568.00551190332,66.823,47.7,0.3,NA,88.6641926490124,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2017,4210600,1617.93401542267,67.088,46.2,0.2,NA,87.8173094861384,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2018,4337685,1723.37809442655,67.419,44.7,0.2,NA,90.2193039220816,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2019,4467708,1767.072710621,67.64,43.4,0.2,NA,90.2671941351334,10.2
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2020,4600131,1795.72437324423,66.794,42,0.2,NA,93.8044664780786,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2021,4734874,1947.47413907209,66.762,40.7,0.2,70.4,NA,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2022,4875637,1961.28166648869,68.281,39.4,0.2,NA,NA,NA
+"MRT","Mauritania","Sub-Saharan Africa","Lower middle income",2023,5022441,2127.9576285973,68.484,38.1,0.1,NA,104.015072968957,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2010,1250400,8113.17670740212,72.9673170731707,14.8,NA,99.5,100.593631948192,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2011,1252404,9324.24232310496,73.2668292682927,14.9,NA,99.5,100.025853822488,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2012,1255882,9421.52514098225,73.8634146341464,15,NA,99.6,99.3669004354746,1.1
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2013,1258927,9877.13865958834,74.0170731707317,14.9,NA,99.7,97.8401164880995,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2014,1261208,10490.3315563853,74.1943902439024,14.7,NA,99.7,97.151872457029,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2015,1262879,9630.5437837507,74.3531707317073,14.5,NA,99.8,97.1186716587986,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2016,1263747,10095.1225574156,74.3948780487805,14.6,NA,99.7,96.7216048032764,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2017,1264887,10986.7034093005,74.5146341463415,15,NA,99.8,96.4786321239223,0.5
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2018,1265577,11818.7480619272,74.4163414634146,15.4,NA,99.8,96.4493985496331,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2019,1265985,11568.2533399824,74.2358536585366,15.7,NA,99.8,95.423076066873,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2020,1266014,9135.84773751062,74.1770731707317,15.8,NA,99.7,95.0063902545739,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2021,1266334,9177.71195973013,73.680243902439,15.7,NA,99.7,99.8860195903829,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2022,1262523,10246.5017455553,73.5146341463415,15.5,NA,NA,NA,NA
+"MUS","Mauritius","Sub-Saharan Africa","Upper middle income",2023,1248647,11269.9684462139,73.4121951219512,15.4,NA,NA,110.911583276217,NA
+"MAR","Morocco","North Africa","Lower middle income",2010,32467016,3067.9853515625,70.821,30.9,0.1,74.1,107.166739963715,NA
+"MAR","Morocco","North Africa","Lower middle income",2011,32912588,3301.98876953125,71.263,29.2,0.1,73.6,108.872184910968,NA
+"MAR","Morocco","North Africa","Lower middle income",2012,33355241,3164.17724609375,71.674,27.5,0.1,NA,108.773776884177,NA
+"MAR","Morocco","North Africa","Lower middle income",2013,33787571,3379.7431640625,72.117,26,0.1,NA,108.130874044354,3.7
+"MAR","Morocco","North Africa","Lower middle income",2014,34204780,3435.40698242188,72.522,24.5,0.1,NA,107.319519161584,NA
+"MAR","Morocco","North Africa","Lower middle income",2015,34607588,3146.24780273438,72.894,23.1,0.1,NA,106.046255203021,NA
+"MAR","Morocco","North Africa","Lower middle income",2016,35023457,3140.85546875,73.228,21.9,0.1,NA,105.897808666144,NA
+"MAR","Morocco","North Africa","Lower middle income",2017,35446392,3296.52661132813,73.608,20.8,0.1,NA,106.856009139924,NA
+"MAR","Morocco","North Africa","Lower middle income",2018,35839760,3501.69799804688,73.946,19.9,0.1,86.6,108.263128143079,NA
+"MAR","Morocco","North Africa","Lower middle income",2019,36210898,3508.09765625,74.245,19.1,0.1,NA,110.072941907486,NA
+"MAR","Morocco","North Africa","Lower middle income",2020,36584208,3268.0302734375,73.133,18.3,0.1,NA,112.354037460932,NA
+"MAR","Morocco","North Africa","Lower middle income",2021,36954442,3785.93627929688,73.385,17.6,0.1,NA,112.940882286764,NA
+"MAR","Morocco","North Africa","Lower middle income",2022,37329064,3463.1376953125,75.161,17,0.1,NA,116.554648725847,NA
+"MAR","Morocco","North Africa","Lower middle income",2023,37712505,3813.72607421875,75.313,16.3,0.1,NA,117.598816130003,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2010,22999235,496.185839392659,55.04,95.6,12,NA,116.867207366317,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2011,23649039,618.17649286789,55.733,91.1,12.3,54.3,113.599054478212,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2012,24337846,685.685748199513,56.46,86.5,12.4,NA,113.200785284243,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2013,25051611,686.505672517351,57.189,82.9,12.6,NA,114.118825775581,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2014,25788475,697.142680444123,57.965,79.7,12.7,NA,114.277516463599,74.4
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2015,26547572,610.563774706589,58.711,75.8,12.8,73,114.82837357539,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2016,27337105,441.489734819071,59.455,73.3,12.9,NA,113.687876415561,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2017,28166393,470.93856305196,60.148,72,12.8,NA,111.566194762496,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2018,29018644,517.507260258101,60.79,70.2,12.8,NA,115.270990181058,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2019,29884380,519.09255091362,61.306,68.6,12.7,NA,117.86067127577,81.6
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2020,30783688,462.433876479921,61.39,67.6,12.6,NA,118.980061431837,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2021,31707800,509.907829475551,60.268,65.5,12.4,NA,NA,NA
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2022,32656246,578.273222184503,63.011,63.9,12.1,NA,119.162225223393,81.4
+"MOZ","Mozambique","Sub-Saharan Africa","Low income",2023,33635160,622.191133245967,63.611,61.7,11.8,NA,NA,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2010,2109811,5418.21633365814,56.093,50.3,13.1,NA,118.109136341535,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2011,2146325,5834.7917675794,56.647,50,13.1,NA,119.055637083219,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2012,2194654,5942.64680978673,57.733,52.6,13,NA,121.103692738221,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2013,2252508,5346.62131149967,58.468,50.8,12.8,88.2,122.732813532372,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2014,2312139,5378.32326241205,59.311,50,12.6,NA,122.71193654589,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2015,2374300,4774.10650865775,60.008,51.8,12.4,NA,124.629282782131,22.9
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2016,2439213,4395.68776162376,60.81,51.4,12.1,NA,124.182705227995,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2017,2506853,5143.96072323076,61.661,49.8,11.8,NA,125.87493234498,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2018,2577327,5308.60813408705,62.579,48.5,11.5,NA,124.591680749168,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2019,2650494,4731.9210318831,63.546,46.6,11.1,NA,124.155345932542,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2020,2728762,3878.58982993966,64.071,44.8,10.6,NA,122.345254349927,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2021,2810548,4412.8355693052,60.85,43.2,10.2,NA,121.824196673464,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2022,2889662,4349.79908493314,64.19,41.6,9.8,NA,120.341925617623,NA
+"NAM","Namibia","Sub-Saharan Africa","Lower middle income",2023,2963095,4225.99102418102,67.385,41.1,9.4,NA,119.460955801452,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2010,16548835,474.425692340831,57.08,136,0.4,NA,61.5986113613618,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2011,17176283,510.75956176268,57.6,132.7,0.3,NA,65.2535100604653,68.8
+"NER","Niger","Sub-Saharan Africa","Low income",2012,17836769,528.510104469655,57.987,130.3,0.3,29.3,67.1548957778323,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2013,18519898,552.103334363117,58.364,128.3,0.3,NA,68.050738334559,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2014,19215909,565.30989731175,58.693,126.8,0.3,NA,68.6922497937291,60.3
+"NER","Niger","Sub-Saharan Africa","Low income",2015,19939498,485.662574175279,58.85,125.4,0.3,39.7,70.8931423850977,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2016,20685753,499.910520068193,59.228,124.3,0.2,39.1,72.8476843361488,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2017,21435446,529.929418934868,59.524,123.1,0.2,NA,74.3787719289761,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2018,22188069,576.927536415462,59.765,121.9,0.2,NA,NA,59
+"NER","Niger","Sub-Saharan Africa","Low income",2019,22947757,541.265819870273,60.031,120.8,0.2,NA,66.7727319163256,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2020,23717613,575.451340306915,59.89,119.5,0.2,NA,NA,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2021,24502140,609.585703670137,59.542,118,0.2,43.7,65.864245185741,60.5
+"NER","Niger","Sub-Saharan Africa","Low income",2022,25311973,613.614736429298,60.398,116,0.2,NA,66.2539719118599,NA
+"NER","Niger","Sub-Saharan Africa","Low income",2023,26159867,647.930108509567,61.183,113.5,0.2,NA,66.8804779933272,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2010,166642886,2202.25672957344,51.315,126.3,2,NA,79.8300399780273,38.5
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2011,171379598,2418.41316975875,51.49,123.8,1.9,47.3,84.6805572509766,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2012,176200625,2633.19734671361,51.688,121.6,1.9,NA,85.9125900268555,37.4
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2013,181049443,2872.79083379398,51.827,119.9,1.8,35.2,87.8349702257826,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2014,185896915,3088.72131316169,51.94,118.7,1.8,NA,84.1216580144923,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2015,190671878,2585.73360671797,51.939,117.8,1.7,NA,25.5657563073792,35.8
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2016,195443700,2070.4127339595,52.189,117.4,1.7,NA,78.8780517578125,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2017,200254579,1876.34027111773,52.397,117.2,1.6,43,NA,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2018,204938755,2057.87944554011,52.669,117.2,1.6,43.3,81.6278513667331,34.2
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2019,209485641,3189.81286496183,53.009,117.4,1.5,NA,NA,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2020,213996181,2797.184580679,53.072,117.4,1.4,NA,84.371583976485,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2021,218529286,2787.48779220991,53.455,117.6,1.4,NA,83.8092555956779,NA
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2022,223150896,2899.16047469267,54.079,117.5,1.3,50.7,NA,41.8
+"NGA","Nigeria","Sub-Saharan Africa","Lower middle income",2023,227882945,2138.76383718757,54.462,116.8,1.2,NA,89.5871124267578,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2010,10317553,586.599950359877,62.804,63.3,3.7,69,155.315788762649,70.2
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2011,10573733,643.356138618166,63.476,58.1,3.6,69,154.129639895033,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2012,10829901,697.760143509565,64.189,54.2,3.5,NA,153.371821344578,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2013,11093340,695.397140963607,64.651,51.4,3.4,NA,123.706003554374,65.2
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2014,11364757,715.36808783393,65.088,49.2,3.3,NA,138.315807313314,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2015,11640022,725.691418696952,65.419,47.3,3.2,90.7,137.243191055886,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2016,11919183,721.258515833094,65.733,45.8,3.1,NA,140.620022753129,63.8
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2017,12202060,751.049039527547,66.14,44.7,3,NA,139.309946965821,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2018,12487996,772.754982959354,66.354,43.7,2.9,NA,137.129353849659,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2019,12776103,823.355304065304,66.691,42.7,2.7,NA,138.020075127914,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2020,13065837,802.638686936204,66.953,41.6,2.6,94.2,NA,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2021,13355260,842.581492947672,66.85,40.6,2.4,NA,151.063571867834,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2022,13651030,1007.05989322914,67.528,39.7,2.3,NA,148.752482099863,NA
+"RWA","Rwanda","Sub-Saharan Africa","Low income",2023,13954471,1061.05788154076,67.785,38.8,2.2,NA,151.894816720753,38.6
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2010,181802,1045.20958234528,63.867,36.2,NA,NA,119.253356933594,18.9
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2011,185649,1219.80189089671,64.122,33.2,NA,NA,119.297409057617,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2012,189439,1210.7926479817,64.505,30.4,NA,NA,111.31436920166,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2013,193148,1382.5757842916,64.93,27.9,NA,NA,110.589996337891,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2014,196767,1489.67633417608,65.478,25.5,NA,92.5,106.902000427246,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2015,200291,1298.10946596396,66.023,23.3,NA,NA,107.803779602051,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2016,203689,1434.87018050521,66.563,21.3,NA,NA,108.677742004395,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2017,206970,1555.79477812888,67.074,19.6,NA,NA,110.377998352051,13
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2018,210187,1825.59971753966,67.602,18.2,NA,NA,NA,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2019,213392,1935.2931816596,68.043,17.1,NA,96.8,NA,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2020,217435,2167.22001796925,67.979,16.1,NA,NA,NA,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2021,221961,2362.58827248102,68.026,15.3,NA,NA,NA,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2022,226305,2389.73729784737,69.237,14.7,NA,NA,NA,NA
+"STP","Sao Tome and Principe","Sub-Saharan Africa","Lower middle income",2023,230871,2990.6606143535,69.718,14.1,NA,NA,NA,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2010,12635413,1275.88357492357,64.221,62.8,0.5,NA,83.8549053927634,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2011,12958897,1374.67591873844,64.799,60,0.5,65.1,86.5724487304688,53.3
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2012,13310495,1326.83798848379,65.229,57.6,0.5,NA,86.4115600585938,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2013,13710849,1379.83196553924,65.638,55.5,0.5,50.5,82.6985436490722,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2014,14152102,1398.89137601382,66.001,53.7,0.4,59.1,83.6844563893552,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2015,14593331,1218.00613555438,66.451,52.2,0.4,53.2,84.8970794677734,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2016,15034521,1266.43957151587,66.724,50.8,0.4,58.6,NA,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2017,15475002,1354.77007193387,67.059,49.4,0.4,68.4,NA,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2018,15914498,1452.55612562445,67.379,47.9,0.4,74.2,NA,19.1
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2019,16352922,1431.18128932159,67.668,46.2,0.3,74.5,83.2568728212779,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2020,16789219,1461.08720350553,67.496,44.2,0.3,NA,84.9031291477371,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2021,17220867,1598.10676952274,66.868,42.2,0.3,NA,84.0612276417736,17.9
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2022,17651103,1574.0281059306,67.788,40.1,0.3,NA,84.2733198273584,NA
+"SEN","Senegal","Sub-Saharan Africa","Lower middle income",2023,18077573,1698.03387300843,68.683,38.2,0.3,NA,85.4523658596434,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2010,89770,10934.79494629,73.1975609756098,14.1,NA,99,111.253689208264,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2011,87441,12110.0937461973,72.7243902439024,14.2,NA,99,111.588809034908,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2012,88303,12337.1554669388,74.2756097560976,14.3,NA,99,113.471570161711,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2013,89949,14821.2921476077,73.119512195122,14.4,NA,NA,113.371637503265,1.6
+"SYC","Seychelles","Sub-Saharan Africa","High income",2014,91359,15188.1902175113,73.2292682926829,14.5,NA,NA,118.250134192163,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2015,93419,15333.1051727105,74.2951219512195,14.6,NA,NA,119.9411921946,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2016,94677,16566.9946042294,74.309756097561,14.7,NA,NA,126.219170403587,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2017,95843,17480.3651911372,74.3,14.7,NA,NA,132.235879426397,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2018,96762,18440.2340460932,72.8414634146341,14.8,NA,NA,123.720432981425,0.7
+"SYC","Seychelles","Sub-Saharan Africa","High income",2019,97625,19141.5118743615,74.0463414634146,14.8,NA,98.8,119.315869786368,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2020,98462,14041.4754074575,77.2365853658537,14.8,NA,99.5,114.153661464586,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2021,99258,14982.9111487767,73.3975609756097,14.7,NA,NA,109.626103111937,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2022,119878,16682.6990711785,74.509756097561,14.5,NA,NA,97.7654776547765,NA
+"SYC","Seychelles","Sub-Saharan Africa","High income",2023,119773,18130.5297135548,75.419512195122,14.3,NA,NA,97.1359174172655,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2010,6222714,685.039673490948,51.927,157.9,1.6,60.8,NA,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2011,6387251,761.146365577281,52.594,150.8,1.6,NA,114.580513591833,53.7
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2012,6551080,937.504428180231,53.159,144.1,1.6,NA,117.716124289972,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2013,6714051,1117.47183075115,54.051,137.9,1.6,59.7,119.788073464671,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2014,6876385,1117.7586465721,54.281,135.9,1.6,NA,NA,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2015,7037655,964.575980888989,55.454,136.8,1.6,NA,120.700737828928,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2016,7205328,844.416411175476,56.937,121.8,1.6,NA,123.03165757627,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2017,7379299,779.186007841728,57.761,117,1.6,81.6,126.863918148513,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2018,7554563,845.914540460932,59.059,112.4,1.6,NA,114.58023823864,41.5
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2019,7731991,843.71251730417,59.593,108.3,1.5,86.9,145.617495471991,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2020,7912558,845.277558236182,59.694,104.4,1.5,NA,142.792124647639,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2021,8094602,885.396401613729,60.26,100.6,1.5,NA,157.709757576001,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2022,8276807,860.371067874555,61.275,97.1,1.5,NA,163.173554667055,NA
+"SLE","Sierra Leone","Sub-Saharan Africa","Low income",2023,8460512,758.329137301888,61.786,93.8,1.4,NA,159.416853770084,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2010,12261756,219.202453852397,48.9,186.7,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2011,12348830,235.325945610434,32.453,363.1,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2012,12461160,350.261946720512,49.138,185.4,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2013,12869594,393.398703952979,54.016,143.2,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2014,13339491,429.431656725102,54.442,138.6,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2015,13806963,445.583080073396,55.056,134.3,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2016,14348740,460.928490585175,55.283,130.2,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2017,14916629,510.939952317726,52.19,156.4,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2018,15452487,509.497273804534,54.767,136.4,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2019,16030971,539.954816211694,57.249,118.4,0.1,31.9,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2020,16651191,518.16113333875,57.095,114.7,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2021,17271431,549.056994756254,55.703,111,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2022,17801897,573.141165798229,53.931,143.1,0.1,NA,NA,NA
+"SOM","Somalia, Fed. Rep.","Sub-Saharan Africa","Low income",2023,18358615,596.885985135589,58.816,104.3,0.1,NA,20.9155502319336,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2010,52344051,7973.47195771517,58.886,50.3,17.4,NA,103.439766353826,27.8
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2011,52995205,8646.05571071635,60.602,45.6,17.7,NA,104.046046582293,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2012,53782567,8076.97678479741,61.737,43.1,17.9,NA,104.707209964618,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2013,54678791,7331.65467384919,62.388,41.4,18.1,NA,104.091085183075,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2014,55594838,6856.73137092522,63.184,39.7,18.3,NA,104.198023633162,27.9
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2015,56723537,6112.27382485974,64.053,38.2,18.5,NA,107.31211891045,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2016,57259551,5651.20585165749,64.749,36.8,18.6,96.7,103.418217474354,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2017,57635162,6618.33508255701,65.422,35.7,18.6,NA,101.580084478322,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2018,58613001,6914.1780318076,65.726,34.9,18.6,NA,100.424313489355,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2019,59587885,6533.71121032856,66.071,34.3,18.5,NA,101.120463910543,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2020,60562381,5580.60383075189,65.15,33.9,18.4,NA,101.300342707463,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2021,61502603,6828.75624590017,62.01,34,18.2,NA,101.741377795018,NA
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2022,62378410,6534.24867783397,65.454,34.3,17.9,NA,102.402386766287,17.4
+"ZAF","South Africa","Sub-Saharan Africa","Upper middle income",2023,63212384,6034.27208964673,66.139,34.8,17.6,NA,101.772235793474,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2010,9745953,1498.27034985194,57.485,107.2,2.2,19.4,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2011,10288109,1448.98435006408,57.674,102.3,2.1,NA,90.4091110229492,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2012,10756240,1109.26050083408,58.241,98.9,2.1,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2013,11166275,1650.18943353528,58.285,97.2,2,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2014,11235073,1242.73450181032,45.625,182.6,2,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2015,11107561,1080.14718624765,39.757,240.8,2,NA,70.3178024291992,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2016,10830102,NA,36.72,272.9,1.9,NA,NA,76.5
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2017,10259154,NA,35.351,292,1.9,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2018,10122977,NA,51.905,133.7,1.8,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2019,10423384,NA,58.129,96.7,1.8,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2020,10698467,NA,57.648,96.7,1.7,39.7,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2021,10865780,NA,57.047,96.7,1.7,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2022,11021177,NA,57.203,96.7,1.6,NA,NA,NA
+"SSD","South Sudan","Sub-Saharan Africa","Low income",2023,11483374,NA,57.617,96.7,1.6,NA,NA,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2010,35414399,1305.63598632813,62.979,73.4,0.1,72.5,67.3397827148438,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2011,36140806,1332.6572265625,63.181,71.3,0.1,NA,64.9761810302734,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2012,36923178,1019.22210693359,63.427,69.3,0.1,NA,66.0605392456055,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2013,37785849,1138.62780761719,63.443,67.3,0.1,NA,66.95703125,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2014,38823318,1275.43835449219,63.99,65.4,0.1,77.7,67.05712890625,10.1
+"SDN","Sudan","Sub-Saharan Africa","Low income",2015,40024431,1292.37963867188,64.375,63.5,0.1,NA,67.6649703979492,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2016,41259892,1033.21594238281,64.677,61.6,0.1,NA,69.8550796508789,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2017,42714306,966.505676269531,65.146,59.7,0.1,NA,70.3664779663086,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2018,44230596,731.027465820313,65.501,57.8,0.1,NA,72.0317687988281,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2019,45548175,709.975280761719,65.803,56.1,0.1,NA,72.3981094360352,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2020,46789231,577.795227050781,65.124,54.3,0.1,NA,NA,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2021,48066924,712.122009277344,64.46,52.7,0.2,NA,NA,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2022,49383346,1046.24084472656,65.695,51,0.2,NA,NA,NA
+"SDN","Sudan","Sub-Saharan Africa","Low income",2023,50042791,797.283447265625,66.331,63.1,0.2,NA,NA,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2010,44758488,736.530151367188,61.127,68.2,4.6,48.9,100.14820098877,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2011,46029367,775.392761230469,61.618,64.6,4.6,NA,95.0884666333147,51.5
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2012,47374260,861.969909667969,62.286,61.7,4.5,61.4,91.9735025482608,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2013,48824128,963.05712890625,62.788,59,4.5,NA,88.8300914467545,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2014,50351512,1022.74841308594,63.364,56.3,4.5,NA,85.9364790514687,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2015,52020962,939.127319335938,63.928,54.3,4.5,NA,84.2207717895508,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2016,53824013,953.0107421875,64.404,52,4.4,63.5,85.2800976460579,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2017,55652890,986.674011230469,64.963,49.8,4.4,NA,89.5967210005503,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2018,57437145,1023.10626220703,65.488,47.6,4.3,NA,94.9840282240997,51.3
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2019,59174891,1063.32250976563,66.007,45.6,4.2,NA,97.6456520812412,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2020,60972798,1117.41528320313,66.771,43.8,4.1,NA,98.5753622403869,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2021,62830412,1159.85656738281,66.131,41.7,4,NA,98.6999541804178,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2022,64711821,1207.52062988281,66.879,40.1,3.9,NA,90.6152672281358,NA
+"TZA","Tanzania","Sub-Saharan Africa","Lower middle income",2023,66617606,1224.00219726563,66.995,38.5,3.7,NA,95.6409804093201,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2010,6325788,750.323421086121,57.24,88.3,2.7,43.9,124.709514209282,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2011,6500582,834.14671980279,57.624,85.6,2.7,NA,122.784071157596,65.5
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2012,6653718,813.611525037432,57.953,82.9,2.6,NA,125.758046516929,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2013,6798848,885.698522723929,58.356,80.2,2.5,NA,126.10501578594,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2014,6937644,921.539748631461,58.776,77.7,2.4,44.6,122.304207926362,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2015,7071502,813.894676975085,59.23,75.2,2.3,NA,125.602691931749,61.7
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2016,7200884,843.114204338675,59.677,72.8,2.2,NA,121.476913528699,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2017,7324386,872.076408845752,60.145,70.4,2.2,69.4,119.405694248485,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2018,7458206,942.480774393154,60.608,68.1,2.1,NA,117.836324490464,35.3
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2019,7619925,917.718016777619,61.061,66,2,NA,117.747746676497,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2020,7788054,961.219781201934,61.14,63.9,1.9,NA,119.266830948762,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2021,7936176,1076.29520076949,61.337,62,1.9,NA,116.971385859009,34.7
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2022,8068616,1071.61539220759,62.292,60,1.8,NA,118.42316752898,NA
+"TGO","Togo","Sub-Saharan Africa","Lower middle income",2023,8223850,1182.32951436696,62.74,58.1,1.7,NA,116.335465545392,NA
+"TUN","Tunisia","North Africa","Lower middle income",2010,10765980,4291.86120891575,74.438,18.7,0.1,NA,103.629150390625,3.1
+"TUN","Tunisia","North Africa","Lower middle income",2011,10886035,4420.64772206537,74.471,18.5,0.1,NA,103.612007141113,NA
+"TUN","Tunisia","North Africa","Lower middle income",2012,11009647,4297.26782454273,74.599,18.4,0.1,73.6,105.188629150391,NA
+"TUN","Tunisia","North Africa","Lower middle income",2013,11141361,4369.79345826358,74.674,18.3,0.1,NA,106.021850585938,NA
+"TUN","Tunisia","North Africa","Lower middle income",2014,11274288,4458.97895464547,74.784,18.3,0.1,NA,106.861503601074,NA
+"TUN","Tunisia","North Africa","Lower middle income",2015,11402264,4014.94773686432,74.875,18.2,0.1,NA,106.851280212402,0.7
+"TUN","Tunisia","North Africa","Lower middle income",2016,11528674,3847.80354448809,75.007,18.1,0.1,NA,106.044746398926,NA
+"TUN","Tunisia","North Africa","Lower middle income",2017,11650498,3619.03247319953,75.177,17.9,0.1,NA,105.552917480469,NA
+"TUN","Tunisia","North Africa","Lower middle income",2018,11765514,3628.10366464236,75.37,17.5,0.1,99.5,105.109878540039,NA
+"TUN","Tunisia","North Africa","Lower middle income",2019,11875081,3528.87213306798,75.599,16.9,0.1,NA,NA,NA
+"TUN","Tunisia","North Africa","Lower middle income",2020,11974057,3548.65363663803,75.004,16,0.1,NA,103.975509643555,NA
+"TUN","Tunisia","North Africa","Lower middle income",2021,12048622,3906.93926319391,72.893,15,0.1,NA,104.342628479004,0.7
+"TUN","Tunisia","North Africa","Lower middle income",2022,12119334,3707.29283414381,76.05,13.9,0.1,NA,104.063652038574,NA
+"TUN","Tunisia","North Africa","Lower middle income",2023,12200431,3951.11683376921,76.508,12.9,0.1,NA,104.424217224121,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2010,32390802,823.488144282,59.959,76,7.2,NA,121.312210083008,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2011,33354543,835.620060555838,60.791,70.9,7.1,57.4,113.871620178223,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2012,34337438,795.222867553127,61.579,66.5,7.1,NA,113.70002746582,56.2
+"UGA","Uganda","Sub-Saharan Africa","Low income",2013,35337042,818.285427416713,62.353,62.8,7,NA,112.329948425293,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2014,36395539,896.054795546394,63.057,60.2,6.9,NA,NA,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2015,37531446,862.934610355811,63.831,57.9,6.8,NA,104.249229431152,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2016,38799152,752.696571725656,64.494,55.6,6.6,74.2,106.540283203125,60.1
+"UGA","Uganda","Sub-Saharan Africa","Low income",2017,40177388,765.218332297361,65.174,54,6.5,NA,106.169578552246,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2018,41565831,792.16570022814,65.775,52.7,6.3,NA,NA,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2019,42999637,822.171150036357,66.354,51.6,6.1,NA,NA,59.8
+"UGA","Uganda","Sub-Saharan Africa","Low income",2020,44457152,845.766463890124,66.41,50.9,5.8,NA,NA,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2021,45910930,882.791717542504,66.45,50.2,5.6,NA,NA,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2022,47312719,963.067314117178,67.675,50,5.4,NA,NA,NA
+"UGA","Uganda","Sub-Saharan Africa","Low income",2023,48656601,1002.30913917142,68.252,49.4,5.2,NA,NA,54.4
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2010,13965594,1451.10616017155,56.896,74.3,11.7,NA,109.873668045679,71.4
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2011,14437796,1624.86817763443,57.843,71.8,11.7,NA,111.4007333775,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2012,14913629,1710.05061343728,58.704,69.2,11.8,NA,111.618507192772,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2013,15398997,1820.71854827391,59.445,66,11.8,NA,105.88755640154,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2014,15895315,1707.48573136694,60.109,62.6,11.9,63.3,107.06889082465,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2015,16399089,1295.87788680068,60.728,60.2,11.9,NA,103.413818253854,67.9
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2016,16914423,1239.08527877713,61.129,57.1,11.8,NA,99.5715577511118,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2017,17441320,1483.46577328065,61.564,55.2,11.8,NA,98.7950035279193,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2018,17973569,1463.89997855593,62.138,54.7,11.7,80.4,NA,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2019,18513839,1258.98619844462,62.914,53.5,11.5,80.4,NA,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2020,19059395,951.644316655957,63.361,52.5,11.1,NA,NA,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2021,19603607,1127.16077872857,62.363,50.4,10.7,NA,NA,NA
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2022,20152938,1447.12310138035,65.279,49.5,10.3,NA,NA,71.7
+"ZMB","Zambia","Sub-Saharan Africa","Lower middle income",2023,20723965,1330.72780576709,66.349,49.1,9.8,NA,NA,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2010,13356548,902.010759067388,51.925,85.2,16.3,NA,NA,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2011,13595424,1037.77565157218,53.911,77.2,16,66.2,NA,35.7
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2012,13817887,1239.22709745709,55.386,68,15.6,NA,100.09812912727,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2013,14013808,1362.99498323368,56.842,62.6,15.3,NA,99.1726387639853,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2014,14207359,1372.91526173161,58.106,59.8,14.9,80,98.2478143871674,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2015,14399013,1387.12632595026,58.989,59.2,14.5,78.1,97.2290747819179,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2016,14600294,1408.13945253431,59.76,57.5,14.1,NA,95.7340946958404,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2017,14812482,3445.44941020134,60.263,56.7,13.6,NA,94.3341728822186,44.7
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2018,15034452,2270.89531874302,60.906,56.3,13.1,NA,93.755201992062,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2019,15271368,2184.52155388801,61.06,58.6,12.5,86,93.4270967154238,49.2
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2020,15526888,2059.63704025274,61.53,61.7,12,NA,93.6125855639325,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2021,15797210,2613.6167414057,60.135,62.4,11.5,NA,92.7846905815791,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2022,16069056,2536.40197087505,62.36,64,10.9,NA,93.1659658731937,NA
+"ZWE","Zimbabwe","Sub-Saharan Africa","Lower middle income",2023,16340822,2195.22502010174,62.775,64.2,10.3,NA,93.2383787742938,NA
