@@ -38,6 +38,12 @@ africa_countries <- tibble::tibble(
   population = d$population,
   gdp        = round(d$gdp_per_capita * d$population / 1e6)
 )
+# The World Bank's long official names are shortened to the names in common use.
+short <- c("Congo, Dem. Rep." = "DR Congo", "Congo, Rep." = "Congo",
+           "Egypt, Arab Rep." = "Egypt", "Gambia, The" = "Gambia",
+           "Somalia, Fed. Rep." = "Somalia")
+hit <- africa_countries$country %in% names(short)
+africa_countries$country[hit] <- unname(short[africa_countries$country[hit]])
 africa_countries <- africa_countries[order(africa_countries$country), ]
 
 stopifnot(nrow(africa_countries) == 52, !anyNA(africa_countries))
