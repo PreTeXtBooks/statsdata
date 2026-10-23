@@ -30,13 +30,14 @@ d <- africa_indicators[africa_indicators$year == 2019 &
                          !is.na(africa_indicators$gdp_per_capita), ]
 stopifnot(all(d$iso3 %in% names(region_of)))
 
-africa_countries <- tibble::tibble(
+africa_countries <- data.frame(
   country    = d$country,
   abb        = d$iso3,
   region     = factor(unname(region_of[d$iso3]),
                       levels = c("North", "West", "Central", "East", "South")),
-  population = d$population,
-  gdp        = round(d$gdp_per_capita * d$population / 1e6)
+  population = as.numeric(d$population),
+  gdp        = round(d$gdp_per_capita * d$population / 1e6),
+  stringsAsFactors = FALSE
 )
 # The World Bank's long official names are shortened to the names in common use.
 short <- c("Congo, Dem. Rep." = "DR Congo", "Congo, Rep." = "Congo",

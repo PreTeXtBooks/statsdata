@@ -586,7 +586,7 @@
 #' Eritrea and South Sudan are not included because the World Bank publishes
 #' no GDP for them in 2019.
 #'
-#' @format A tibble with 52 rows and 5 variables:
+#' @format A data frame with 52 rows and 5 variables:
 #' \describe{
 #'   \item{country}{Country name.}
 #'   \item{abb}{Three-letter ISO country code.}
