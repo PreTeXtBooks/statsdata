@@ -599,3 +599,21 @@
 #'   \url{https://databank.worldbank.org/source/world-development-indicators}.
 #'   CC BY 4.0.
 "africa_countries"
+
+
+#' Height of pearl millet plants by variety
+#'
+#' The height of 342 pearl millet plants of three varieties, in centimetres.
+#' It is the \code{plant_height_cm} column of \code{\link{sahel_millet}} with
+#' the two plants that were not measured removed, so there are no missing
+#' values. The heights within each variety are close to normally distributed,
+#' which makes the data useful for teaching summaries and the normal
+#' distribution.
+#'
+#' @format A data frame with 342 rows and 2 variables:
+#' \describe{
+#'   \item{variety}{Variety: HKP, Souna 3 or ICMV IS 89305 (a factor).}
+#'   \item{height}{Plant height in centimetres.}
+#' }
+#' @source Derived from \code{\link{sahel_millet}}.
+"millet_heights"
