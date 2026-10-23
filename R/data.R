@@ -572,3 +572,30 @@
 #'   \url{https://databank.worldbank.org/source/world-development-indicators}.
 #'   CC BY 4.0.
 "africa_indicators"
+
+
+#' African countries in 2019: population and total GDP
+#'
+#' One row per country, in the shape of a small teaching table (a name, an
+#' abbreviation, a region, a population and a total). It is the 2019 slice of
+#' \code{\link{africa_indicators}}, with the total GDP worked out as GDP per
+#' person times the population. Totals grow with the size of a country, so
+#' ranking by \code{gdp} mostly ranks by population; \code{gdp / population}
+#' is the figure that compares countries.
+#'
+#' Eritrea and South Sudan are not included because the World Bank publishes
+#' no GDP for them in 2019.
+#'
+#' @format A tibble with 52 rows and 5 variables:
+#' \describe{
+#'   \item{country}{Country name.}
+#'   \item{abb}{Three-letter ISO country code.}
+#'   \item{region}{United Nations geoscheme sub-region: North, West, Central,
+#'     East or South (a factor).}
+#'   \item{population}{Population, 2019.}
+#'   \item{gdp}{Gross domestic product in millions of current US dollars, 2019.}
+#' }
+#' @source World Bank, World Development Indicators, downloaded October 2026.
+#'   \url{https://databank.worldbank.org/source/world-development-indicators}.
+#'   CC BY 4.0.
+"africa_countries"
