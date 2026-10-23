@@ -14,27 +14,13 @@
 
 load("data/africa_indicators.rda")
 
-regions <- c(
-  North = "DZA EGY LBY MAR SDN TUN",
-  West = "BEN BFA CPV CIV GMB GHA GIN GNB LBR MLI MRT NER NGA SEN SLE TGO",
-  Central = "AGO CMR CAF TCD COG COD GNQ GAB STP",
-  East = "BDI COM DJI ETH KEN MDG MWI MUS MOZ RWA SYC SOM TZA UGA ZMB ZWE",
-  South = "BWA SWZ LSO NAM ZAF"
-)
-region_of <- unlist(lapply(names(regions), function(r) {
-  setNames(rep(r, length(strsplit(regions[[r]], " ")[[1]])),
-           strsplit(regions[[r]], " ")[[1]])
-}))
-
 d <- africa_indicators[africa_indicators$year == 2019 &
                          !is.na(africa_indicators$gdp_per_capita), ]
-stopifnot(all(d$iso3 %in% names(region_of)))
 
 africa_countries <- data.frame(
   country    = d$country,
   abb        = d$iso3,
-  region     = factor(unname(region_of[d$iso3]),
-                      levels = c("North", "West", "Central", "East", "South")),
+  region     = d$subregion,
   population = as.numeric(d$population),
   gdp        = round(d$gdp_per_capita * d$population / 1e6),
   stringsAsFactors = FALSE
