@@ -50,3 +50,6 @@ africa_countries <- africa_countries[order(africa_countries$country), ]
 stopifnot(nrow(africa_countries) == 52, !anyNA(africa_countries))
 
 save(africa_countries, file = "data/africa_countries.rda", compress = "bzip2")
+
+## The same table as a spreadsheet, for practising importing files.
+write.csv(africa_countries, "data-raw/africa_countries.csv", row.names = FALSE)
