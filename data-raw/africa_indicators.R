@@ -79,7 +79,27 @@ africa_indicators$income_group <- factor(
              "High income")
 )
 
-stopifnot(nrow(africa_indicators) == 54 * 14, ncol(africa_indicators) == 13)
+# The United Nations geoscheme sub-region, which splits Sub-Saharan Africa into
+# West, Central, East and South. Added after the World Bank data were
+# downloaded, so it is the one column that is not theirs.
+subregions <- c(
+  North = "DZA EGY LBY MAR SDN TUN",
+  West = "BEN BFA CPV CIV GMB GHA GIN GNB LBR MLI MRT NER NGA SEN SLE TGO",
+  Central = "AGO CMR CAF TCD COG COD GNQ GAB STP",
+  East = "BDI COM DJI ERI ETH KEN MDG MWI MUS MOZ RWA SYC SOM SSD TZA UGA ZMB ZWE",
+  South = "BWA SWZ LSO NAM ZAF"
+)
+subregion_of <- unlist(lapply(names(subregions), function(r) {
+  codes <- strsplit(subregions[[r]], " ")[[1]]
+  setNames(rep(r, length(codes)), codes)
+}))
+stopifnot(all(africa_indicators$iso3 %in% names(subregion_of)))
+africa_indicators$subregion <- factor(
+  unname(subregion_of[africa_indicators$iso3]),
+  levels = c("North", "West", "Central", "East", "South")
+)
+
+stopifnot(nrow(africa_indicators) == 54 * 14, ncol(africa_indicators) == 14)
 
 save(africa_indicators, file = "data/africa_indicators.rda",
      compress = "bzip2")
