@@ -5,7 +5,7 @@
 \alias{africa_indicators}
 \title{Development indicators for African countries, 2010-2023}
 \format{
-A data frame with 756 rows and 13 columns:
+A data frame with 756 rows and 14 columns:
 \describe{
   \item{iso3}{ISO 3166-1 alpha-3 country code}
   \item{country}{Country name, as given by the World Bank}
@@ -23,6 +23,8 @@ A data frame with 756 rows and 13 columns:
     (can exceed 100)}
   \item{poverty_rate}{Percentage of the population living on less than
     $3.00 a day (2021 PPP)}
+  \item{subregion}{United Nations geoscheme sub-region: North, West,
+    Central, East or South (a factor). Not from the World Bank.}
 }
 }
 \source{
