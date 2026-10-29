@@ -34,6 +34,7 @@ millet spikes in a field trial at Djibasso and Dori, Burkina Faso, in the
 2021 rainy season. The trial crossed three cropping systems (main plots)
 with three pest treatments (sub-plots) in three blocks at each site. Each row
 is one spike from a 1 m^2 quadrat in a sub-plot. In the Dori data, the
-insecticide plots of the farmers' practice system are all recorded in block 1.
+insecticide plots of the farmers' practice system are all recorded in block 1. The two sites are also available separately, as
+\code{burkina_headminer_djibasso} and \code{burkina_headminer_dori}.
 }
 \keyword{datasets}

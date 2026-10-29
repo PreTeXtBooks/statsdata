@@ -509,6 +509,62 @@
 #'   \url{http://www.afrobarometer.org}. Redistributed with Afrobarometer's
 #'   permission.
 "ghana_afro_interviewers"
+#' Millet head miner larvae in a field trial at Djibasso, Burkina Faso
+#'
+#' Counts of millet head miner (\emph{Heliocheilus albipunctella}) larvae on
+#' millet spikes in a field trial at Djibasso, Burkina Faso, in the 2021 rainy
+#' season. The trial crossed three cropping systems (main plots) with three
+#' pest treatments (sub-plots) in three blocks. Each row is one spike from a
+#' 1 m^2 quadrat in a sub-plot. The same trial was run at a second site, in
+#' \code{burkina_headminer_dori}.
+#'
+#' @format A data frame with 440 rows and 4 columns:
+#' \describe{
+#'   \item{block}{Block, 1 to 3}
+#'   \item{cropping}{Cropping system: millet (millet alone),
+#'     two_millet_one_cowpea (two rows of millet to one of cowpea) or
+#'     farmer_practice (one cowpea hill between four millet hills)}
+#'   \item{treatment}{Pest treatment: control (none), neem (an aqueous neem
+#'     seed extract, sprayed three times) or insecticide (lambda-cyhalothrin
+#'     and acetamiprid, sprayed twice)}
+#'   \item{larvae}{Number of head miner larvae found on the spike}
+#' }
+#' @source Supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
+#'   Traore, F. and Sanon, A. (2025). Combined effect of millet-cowpea
+#'   intercropping and biopesticide application against \emph{Heliocheilus
+#'   albipunctella} De Joannis (Lepidoptera: Noctuidae) in Burkina Faso.
+#'   PeerJ, 13, e20221. \doi{10.7717/peerj.20221}. CC BY 4.0.
+"burkina_headminer_djibasso"
+
+#' Millet head miner larvae in a field trial at Dori, Burkina Faso
+#'
+#' Counts of millet head miner (\emph{Heliocheilus albipunctella}) larvae on
+#' millet spikes in a field trial at Dori, Burkina Faso, in the 2021 rainy
+#' season. The trial crossed three cropping systems (main plots) with three
+#' pest treatments (sub-plots) in three blocks. Each row is one spike from a
+#' 1 m^2 quadrat in a sub-plot. The same trial was run at a second site, in
+#' \code{burkina_headminer_djibasso}.
+#' The insecticide plots of the farmers' practice system are all recorded in
+#' block 1, as in the original file.
+#'
+#' @format A data frame with 419 rows and 4 columns:
+#' \describe{
+#'   \item{block}{Block, 1 to 3}
+#'   \item{cropping}{Cropping system: millet (millet alone),
+#'     two_millet_one_cowpea (two rows of millet to one of cowpea) or
+#'     farmer_practice (one cowpea hill between four millet hills)}
+#'   \item{treatment}{Pest treatment: control (none), neem (an aqueous neem
+#'     seed extract, sprayed three times) or insecticide (lambda-cyhalothrin
+#'     and acetamiprid, sprayed twice)}
+#'   \item{larvae}{Number of head miner larvae found on the spike}
+#' }
+#' @source Supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
+#'   Traore, F. and Sanon, A. (2025). Combined effect of millet-cowpea
+#'   intercropping and biopesticide application against \emph{Heliocheilus
+#'   albipunctella} De Joannis (Lepidoptera: Noctuidae) in Burkina Faso.
+#'   PeerJ, 13, e20221. \doi{10.7717/peerj.20221}. CC BY 4.0.
+"burkina_headminer_dori"
+
 #' Millet head miner larvae in a field trial in Burkina Faso
 #'
 #' Counts of millet head miner (\emph{Heliocheilus albipunctella}) larvae on
@@ -516,7 +572,8 @@
 #' 2021 rainy season. The trial crossed three cropping systems (main plots)
 #' with three pest treatments (sub-plots) in three blocks at each site. Each row
 #' is one spike from a 1 m^2 quadrat in a sub-plot. In the Dori data, the
-#' insecticide plots of the farmers' practice system are all recorded in block 1.
+#' insecticide plots of the farmers' practice system are all recorded in block 1. The two sites are also available separately, as
+#' \code{burkina_headminer_djibasso} and \code{burkina_headminer_dori}.
 #'
 #' @format A data frame with 859 rows and 5 columns:
 #' \describe{
@@ -536,9 +593,6 @@
 #'   albipunctella} De Joannis (Lepidoptera: Noctuidae) in Burkina Faso.
 #'   PeerJ, 13, e20221. \doi{10.7717/peerj.20221}. CC BY 4.0.
 "burkina_headminer"
-
-
-
 
 #' Development indicators for African countries, 2010-2023
 #'

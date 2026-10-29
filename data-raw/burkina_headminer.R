@@ -1,5 +1,6 @@
-## Code to prepare `burkina_headminer`: millet head miner larvae counted on millet
-## spikes in a field trial at Djibasso and Dori, Burkina Faso, 2021 rainy season.
+## Code to prepare `burkina_headminer_djibasso` and `burkina_headminer_dori`: millet
+## head miner larvae counted on millet spikes in a field trial at Djibasso and Dori,
+## Burkina Faso, 2021 rainy season. One dataset per site, as in the article.
 ##
 ## Source: the supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
 ## Traore, F. and Sanon, A. (2025) Combined effect of millet-cowpea intercropping and
@@ -14,11 +15,10 @@
 ## no millet. In the Dori file, the insecticide plots of the farmers' practice system
 ## all carry block B1 (48 spikes, three times the usual number); they are kept as
 ## recorded.
-read_site <- function(file, site) {
+read_site <- function(file) {
   d <- read.csv2(file.path("data-raw", file))
   names(d) <- c("block", "treatment", "cropping", "larvae")
   data.frame(
-    site = site,
     block = as.integer(sub("B", "", d$block)),
     cropping = c(Mil_pur = "millet", `2M_1N` = "two_millet_one_cowpea",
                  P_P = "farmer_practice")[d$cropping],
@@ -28,11 +28,15 @@ read_site <- function(file, site) {
   )
 }
 
-burkina_headminer <- rbind(
-  read_site("burkina_headminer_djibasso.csv", "djibasso"),
-  read_site("burkina_headminer_dori.csv", "dori")
-)
-rownames(burkina_headminer) <- NULL
-stopifnot(!anyNA(burkina_headminer))
+burkina_headminer_djibasso <- read_site("burkina_headminer_djibasso.csv")
+burkina_headminer_dori <- read_site("burkina_headminer_dori.csv")
+stopifnot(!anyNA(burkina_headminer_djibasso), !anyNA(burkina_headminer_dori))
 
-usethis::use_data(burkina_headminer, overwrite = TRUE)
+## The two sites stacked, kept for code that already uses it.
+burkina_headminer <- rbind(
+  cbind(site = "djibasso", burkina_headminer_djibasso),
+  cbind(site = "dori", burkina_headminer_dori)
+)
+
+usethis::use_data(burkina_headminer_djibasso, burkina_headminer_dori,
+                  burkina_headminer, overwrite = TRUE)
