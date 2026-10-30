@@ -39,6 +39,7 @@ pak::pak("PreTeXtBooks/statsdata")
 | `sahel_millet` | Simulated measurements of 344 pearl millet plants, three varieties at three Sahel sites, 2021–2023; a stand-in for `penguins` | Simulated for teaching purposes |
 | `sahel_striga` | Simulated millet fields: manure applied, yield, Striga count and farmer research network membership, with spreadsheet-style column names | Simulated for teaching purposes |
 | `sahel_rainfall` | Simulated annual rainfall at three Sahel sites, 1950–2023, shaped like the region's drought and recovery | Simulated for teaching purposes |
+| `sahel_harveststat` | Subnational crop statistics for Burkina Faso, Mali and Niger: area, production and yield by crop, administrative unit and year, with the gaps as published | HarvestStat Africa v1.0 (Lee et al. 2025), CC0 |
 | `burkina_headminer` | The two sites below stacked, with a `site` column: 859 spikes | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
 | `burkina_headminer_djibasso` | Millet head miner larvae counted on 440 millet spikes in a 2021 trial of neem extract, insecticide and intercropping with cowpea at Djibasso, Burkina Faso | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
 | `burkina_headminer_dori` | The same trial at Dori, Burkina Faso: 419 spikes. Both are the files as published, and they disagree on column names and labels | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
