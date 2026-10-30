@@ -518,17 +518,19 @@
 #' 1 m^2 quadrat in a sub-plot. The same trial was run at a second site, in
 #' \code{burkina_headminer_dori}.
 #'
-#' @format A data frame with 440 rows and 4 columns:
+#' @format A data frame with 440 rows and 4 columns, as published:
 #' \describe{
-#'   \item{block}{Block, 1 to 3}
-#'   \item{cropping}{Cropping system: millet (millet alone),
-#'     two_millet_one_cowpea (two rows of millet to one of cowpea) or
-#'     farmer_practice (one cowpea hill between four millet hills)}
-#'   \item{treatment}{Pest treatment: control (none), neem (an aqueous neem
-#'     seed extract, sprayed three times) or insecticide (lambda-cyhalothrin
-#'     and acetamiprid, sprayed twice)}
-#'   \item{larvae}{Number of head miner larvae found on the spike}
+#'   \item{Blocks}{Block: B1, B2 or B3}
+#'   \item{Phytosanitary_treatment}{Pest treatment: Control (none), Aqueous neem
+#'     seed extract (sprayed three times) or K_optimal (lambda-cyhalothrin and
+#'     acetamiprid, sprayed twice)}
+#'   \item{Cropping_system}{Cropping system: Mil_pur (millet alone), 2M_1N (two
+#'     rows of millet to one of cowpea) or P_P (farmers' practice: one cowpea
+#'     hill between four millet hills)}
+#'   \item{Number_larvae}{Number of head miner larvae found on the spike}
 #' }
+#' The column names and labels are exactly as in the published file, and they
+#' differ from those of \code{burkina_headminer_dori}.
 #' @source Supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
 #'   Traore, F. and Sanon, A. (2025). Combined effect of millet-cowpea
 #'   intercropping and biopesticide application against \emph{Heliocheilus
@@ -547,17 +549,19 @@
 #' The insecticide plots of the farmers' practice system are all recorded in
 #' block 1, as in the original file.
 #'
-#' @format A data frame with 419 rows and 4 columns:
+#' @format A data frame with 419 rows and 4 columns, as published:
 #' \describe{
-#'   \item{block}{Block, 1 to 3}
-#'   \item{cropping}{Cropping system: millet (millet alone),
-#'     two_millet_one_cowpea (two rows of millet to one of cowpea) or
-#'     farmer_practice (one cowpea hill between four millet hills)}
-#'   \item{treatment}{Pest treatment: control (none), neem (an aqueous neem
-#'     seed extract, sprayed three times) or insecticide (lambda-cyhalothrin
-#'     and acetamiprid, sprayed twice)}
-#'   \item{larvae}{Number of head miner larvae found on the spike}
+#'   \item{Blocks}{Block: B1, B2 or B3}
+#'   \item{Phytosanitary treatment}{Pest treatment: Control (none), Aqueous neem
+#'     seed extract (sprayed three times) or K-optimal (lambda-cyhalothrin and
+#'     acetamiprid, sprayed twice)}
+#'   \item{Cropping system}{Cropping system: Mil_pur (millet alone), 2M_1N (two
+#'     rows of millet to one of cowpea) or P_P (farmers' practice: one cowpea
+#'     hill between four millet hills)}
+#'   \item{Number of larvae}{Number of head miner larvae found on the spike}
 #' }
+#' The column names and labels are exactly as in the published file, and they
+#' differ from those of \code{burkina_headminer_djibasso}.
 #' @source Supplementary data of Boly, A., Waongo, A., Kabore, A., Drabo, E.,
 #'   Traore, F. and Sanon, A. (2025). Combined effect of millet-cowpea
 #'   intercropping and biopesticide application against \emph{Heliocheilus
