@@ -51,7 +51,7 @@ pak::pak("PreTeXtBooks/statsdata")
 | `sahel_rainfall` | Simulated annual rainfall at three Sahel sites, 1950–2023, shaped like the region's drought and recovery | Simulated for teaching purposes |
 | `burkina_headminer` | The two sites below stacked, with a `site` column: 859 spikes | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
 | `burkina_headminer_djibasso` | Millet head miner larvae counted on 440 millet spikes in a 2021 trial of neem extract, insecticide and intercropping with cowpea at Djibasso, Burkina Faso | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
-| `burkina_headminer_dori` | The same trial at Dori, Burkina Faso: 419 spikes, in a separate file with the same columns | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
+| `burkina_headminer_dori` | The same trial at Dori, Burkina Faso: 419 spikes. Both are the files as published, and they disagree on column names and labels | [PeerJ supplementary data](https://doi.org/10.7717/peerj.20221) (CC BY 4.0) |
 
 Raw data files for use with other software are available in the 
 [`data-raw/`](https://github.com/PreTeXtBooks/statsdata/tree/main/data-raw) 
