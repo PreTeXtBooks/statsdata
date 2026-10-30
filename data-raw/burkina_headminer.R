@@ -15,16 +15,16 @@
 ## no millet. In the Dori file, the insecticide plots of the farmers' practice system
 ## all carry block B1 (48 spikes, three times the usual number); they are kept as
 ## recorded.
-## The per-site datasets are the files as published, read with read.csv2() and
-## nothing else: the two disagree on column names (Phytosanitary_treatment against
-## Phytosanitary treatment) and on the insecticide label (K_optimal against
-## K-optimal), which is what makes appending them a lesson. check.names = FALSE
-## keeps the spaces in the Dori names.
+## The per-site datasets are the files as published, as tibbles with double
+## counts, which is what readr::read_csv2() gives. The two disagree on column
+## names (Phytosanitary_treatment against Phytosanitary treatment) and on the
+## insecticide label (K_optimal against K-optimal), which is what makes appending
+## them a lesson. check.names = FALSE keeps the spaces in the Dori names.
 read_raw <- function(file) {
   d <- read.csv2(file.path("data-raw", file), check.names = FALSE,
                  stringsAsFactors = FALSE)
-  d[[4]] <- as.integer(d[[4]])
-  d
+  d[[4]] <- as.numeric(d[[4]])
+  tibble::as_tibble(d)
 }
 
 ## The stacked dataset is cleaned: one set of names and labels, and a site column.
@@ -37,7 +37,7 @@ clean_site <- function(d, site) {
                  P_P = "farmer_practice")[d$cropping],
     treatment = ifelse(grepl("neem", d$treatment), "neem",
                        ifelse(d$treatment == "Control", "control", "insecticide")),
-    larvae = d[[4]]
+    larvae = as.integer(d[[4]])
   )
 }
 
