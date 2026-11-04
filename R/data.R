@@ -716,3 +716,40 @@
 #'   \doi{10.1038/s41597-025-05001-z}. Data: Dryad, CC0,
 #'   \doi{10.5061/dryad.vq83bk42w}.
 "sahel_harveststat"
+
+
+#' Life expectancy, GDP per capita and population, 1960-2026
+#'
+#' A modern counterpart to the \code{gapminder} data: life expectancy, GDP per
+#' capita and population from the World Bank's World Development Indicators,
+#' one row per country per year. Missing values are left exactly as the World
+#' Bank publishes them: the latest years are not reported yet (no country has a
+#' life expectancy after 2024), and many countries have no GDP figures for the
+#' earliest years.
+#'
+#' The World Bank also returns aggregates such as the World, Sub-Saharan Africa
+#' and High income. They are kept, with \code{region} equal to
+#' \code{"Aggregates"}, so filter them out before comparing countries.
+#'
+#' @format A data frame with 17,556 rows and 14 columns:
+#' \describe{
+#'   \item{country}{Country or aggregate name, as given by the World Bank}
+#'   \item{iso2c}{Two-letter ISO country code}
+#'   \item{iso3c}{Three-letter ISO country code}
+#'   \item{year}{Year, 1960 to 2026}
+#'   \item{lastupdated}{Date the World Bank last updated the data}
+#'   \item{lifeExp}{Life expectancy at birth, in years}
+#'   \item{gdpPercap}{GDP per capita, constant 2015 US dollars}
+#'   \item{pop}{Total population}
+#'   \item{region}{World Bank region, or \code{"Aggregates"}}
+#'   \item{capital}{Capital city}
+#'   \item{longitude}{Longitude of the capital city}
+#'   \item{latitude}{Latitude of the capital city}
+#'   \item{income}{World Bank income group (current classification)}
+#'   \item{lending}{World Bank lending category}
+#' }
+#' @source World Bank, World Development Indicators, downloaded November 2026
+#'   with the \code{WDI} package.
+#'   \url{https://databank.worldbank.org/source/world-development-indicators}.
+#'   CC BY 4.0.
+"gapminder_modern"
